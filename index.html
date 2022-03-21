@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>My Docs</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+</head>
+
+<body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+    <script>
+        new Docute({
+            title: 'FundMaster',
+            layout: 'narrow',
+            nav: [{
+                    title: 'Home',
+                    link: '/'
+                },
+
+            ],
+            sidebar: [
+                // A sidebar item, with child links
+                {
+                    title: 'Getting Started',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/introduction/introduction'
+                        },
+
+                    ]
+                },
+                {
+                    title: 'Administration',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/administration/introduction'
+                        },
+
+                    ]
+                },
+                {
+                    title: 'Scheme Setup',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/scheme-setup/introduction'
+                        },
+
+                    ]
+                },
+            ]
+        })
+    </script>
+</body>
+
+</html>
