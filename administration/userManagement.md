@@ -50,7 +50,7 @@ privileges in the system.
 Scrolling down the form, the modules which the new user is only allowed to
 access can be determined at this level. See screenshot below:
 
-![](media/1aa252eaa603128e4b97026e06d6c83d.png)
+![](media/newuserdetails.png)
 
 **Action**
 
