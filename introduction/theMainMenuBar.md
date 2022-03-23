@@ -1,40 +1,43 @@
 ### Main Menu Bar
 
-Clicking on the hamburger icon on the top-left-hand on your screen, see the
-figure below, will enable a user to expand the menu bar which allows access to
-more controls. The expanded menu bar displays a help tab, on the upper side,
-which when clicked provides access to the full help documentation.
+Clicking the hamburger icon on the upper-left corner of the landing page will
+enable a user to expand the menu bar, allowing access to more controls. The
+expanded menu bar displays a help tab, on the uppermost side, which when clicked
+provides access to the help documentation.
 
-On the lower part you have access to more tabs which allows further
-configurations for your account. See screenshots below:
+Located on the lower most side of the menu bar are more controls which enable
+further configurations for a user account. See screenshots below:
 
-![](media/acc281faffcfb696fbb7622fb4a6eb57.png)
+<img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../media/adfd1.png">   
 
-| Element             | Description                                                                                                                                                                        |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Help link**       | A shortcut link to accessing the user manual help page for user reference. Click to open the page.                                                                                 |
-| **Account config**  | A section for configuring User account details                                                                                                                                     |
-| **Profile**         | This is where the logged in user profile name is displayed                                                                                                                         |
-| **Switch Scheme**   | Allows a user to move from the currently running scheme to another without termination of a session. Note that a successful switch will change the scheme name at the top-most bar |
-| **Change password** | Allows the user to change password for security reasons                                                                                                                            |
-| **Products setup**  | Clicking on this link will allow a user to launch product page to view available products and create new                                                                           |
-| **Logout**          | Allows a user to terminate all the running processes and close the current profile account ready to login as a new user. Click to log out.                                         |
 
+ 
+| **No.**  | **Element**         | **Description**                                                                                                                                                                  |
+|----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1**    | Help link           | A link to the help documentation for user reference. Click to open the page.                                                                                                     |
+| **2**    |   Account config    | A section with links for configuring user account details.                                                                                                                       |
+| **2(a)** |   Profile           | This is where the logged in user profile name is displayed.                                                                                                                      |
+| **2(b)** |   Switch Scheme     | Allows a user to move from the currently running scheme to another without terminating a session. Note that a successful switch will change the scheme name on the uppermost bar |
+| **2(c)** |   Change Password   | Allows the user to change password for security reasons.                                                                                                                          |
+| **2(d)** |   Products Setup    | Clicking on this link will allow a user to launch products page to view available products and create new.                                                                        |
+| **2(e)** |   Logout            | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
+ 
+ 
+ 
  ## Product Setup
 
-Clicking the **Product Setup** link labeled 2(d) as shown in figure 4
-previously, will open window displaying a list all fund products in the system
-under product tab and a list of products categories as shown in the next
-figures.
+Clicking the **Product Setup** link labeled **2(d),** will open a window
+displaying a list of all fund products in the system under product tab and a
+list of products categories as shown in the next screenshot.
 
 ### Products
 
-Clicking the **Product** tab will open window displaying a list all fund
+Clicking the **Product** tab will open a window displaying a list all fund
 products in the system. From this window, the details of each product can be
 viewed, new products added, and product sequence seen as shown below:
 
-![Graphical user interface Description automatically
-generated](media/da606b6d10278df8f884ff56d1d14954.png)
+<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../media/adfd15.png">   
+
 
 **Action**
 
@@ -51,8 +54,7 @@ all fund product categories in the system. From this window, the details of each
 product category can be viewed, new product category added and removed from the
 system as shown below:
 
-![Graphical user interface, application Description automatically
-generated](media/e0832d20edb800a56fa1fef98b276440.png)
+<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../media/adfd18.png"> 
 
 **Action**
 

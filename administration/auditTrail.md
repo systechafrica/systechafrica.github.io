@@ -1,12 +1,14 @@
 ### Audit Trail
 
-Clicking the **Audit Trail** link will new page listing key activities that have
-taken place in the system per the active users in the system.
+Clicking the **Audit Trail** link will open the Audit Trail window which lists
+all key activities that have taken place in the system per the active users.
 
-A user can create a new system permission, view the details of a selected
-permission in the list and remove one among other actions. See screenshot below:
+A user can view details of audit trails, filter through the records and view
+print layout copies of records as shown in the screenshot below:
 
-![](media/8c441841c8a0cedb9c0f375083e97991.png)
+
+<img  alt="audit trail image" width="95%" height="auto"  class="center"  src="../media/adfd12.png">  
+
 
 **Action**
 
@@ -15,8 +17,8 @@ permission in the list and remove one among other actions. See screenshot below:
 -   Click **label 2** button after typing keywords to search for a record in the
     list
 
--   Click **label 3** button to repopulate the list after a search
+-   Click **label 3** button to repopulate the list after using the filter
 
 -   Click **label 4** button to search records based on dates
 
--   Click **label 5** button to print a copy of audit trail.
+-   Click **label 5** button to view a copy of print layout copy of audit trail.

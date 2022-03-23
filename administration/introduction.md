@@ -1,13 +1,12 @@
 ### Administrative Panel Module
 
-The administrative panel helps in the management of user profiles and user
-accounts creation. The system administrator is tasked with the duty and
-responsibility of enabling rights and permissions for each module’s individual
-functions. After clicking on the Administrative Panel module links (preceded by
-iconic symbols) on the landing page, the administration panel page opens as
-shown below:
+The administrative panel helps in the creation and management of **user
+profiles** and **user accounts**. The system administrator is tasked with the
+responsibility of **enabling rights and permissions** for each module’s
+individual functions. Clicking the **Administrative Panel** links on the landing
+page will open the **Admin Panel** **Links window** as shown below:
 
-![](media/139fa7a7d0b216c74e59cd55d42b5554.jpeg)
+<img  alt="admin panel image" width="95%" height="auto"  class="center"  src="../media/adfd2.jpeg">  
 
 **Action**
 

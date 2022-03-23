@@ -1,8 +1,6 @@
-### Introduction
+## Introduction
 
-FundMaster Xe is the latest version of FundMaster - the most advanced Pension
-Administration and Investments Management System – designed for the African
-pension industry. It caters for the core functions of retirement benefits and
+FundMaster Xe caters for the core functions of retirement benefits and
 pension funds administration for both private and public employee retirement
 organizations. The System Core Modules include:
 
@@ -23,7 +21,8 @@ accommodate the one-size-does-not-fit-all landscape of today’s retirement
 programs. FundMaster Xe is a proven solution that has gone through a process of
 complete re-engineering based on customer feedback to keep current with the
 industry needs.  
- ### The Module Concept
+
+## The Module Concept
 
 Conceptually, FundMaster Xe adopts a “Top-down design”; a software design
 technique that emphasizes separating the functionality of a program into
