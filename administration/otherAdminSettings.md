@@ -13,14 +13,14 @@ The table below gives a summary of the menu links and a description of every
 item on the left side bar menu as shown above.
 
 | **No.** 	| **Link**            	| **Description**                                                                                                                                           	|
-|---------	|---------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| **1.**  	| Security            	| A link to configure system rights, create profiles, register users, validate current users among other activities.                                        	|
-| **2.**  	| Reports config      	| A link to configure schedule reports, audit trail history, client configuration and logo positioning in reports etc.                                      	|
-| **3.**  	| Notifications       	| A link to configure notification matrix and templates.                                                                                                    	|
-| **4.**  	| Emails              	| A link to configure email, templates, mailing lists, periodic emails, inbox, and outbox.                                                                  	|
-| **5.**  	| SMS                 	| A link to configure SMS outbox, template and SMS set up.                                                                                                  	|
-| **6.**  	| Letter signatory    	| A link to upload letter bound signatures.                                                                                                                 	|
-| **7.**  	| Schedular           	| A link to configure the schedular.                                                                                                                        	|
-| **8.**  	| System Utility      	| A link to configure integrations e.g., middleware, database links, straight to bank settings, form field validation matrix among other configurations.    	|
-| **9.**  	| Help                	| A shortcut link to the system help documentation.                                                                                                         	|
-| **10.** 	| Main Menu           	| A link to the main menu where key system module links are located.                                                                                        	|
+| :---------	| :---------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+|   1.  	| Security            	| A link to configure system rights, create profiles, register users, validate current users among other activities.                                        	|
+| 2.    	| Reports config      	| A link to configure schedule reports, audit trail history, client configuration and logo positioning in reports etc.                                      	|
+| 3.    	| Notifications       	| A link to configure notification matrix and templates.                                                                                                    	|
+| 4.  	    | Emails              	| A link to configure email, templates, mailing lists, periodic emails, inbox, and outbox.                                                                  	|
+| 5.    	| SMS                 	| A link to configure SMS outbox, template and SMS set up.                                                                                                  	|
+| 6. 	    | Letter signatory    	| A link to upload letter bound signatures.                                                                                                                 	|
+| 7.    	| Schedular           	| A link to configure the schedular.                                                                                                                        	|
+| 8.  	    | System Utility      	| A link to configure integrations e.g., middleware, database links, straight to bank settings, form field validation matrix among other configurations.    	|
+| 9.     	| Help                	| A shortcut link to the system help documentation.                                                                                                         	|
+| 10.    	| Main Menu           	| A link to the main menu where key system module links are located.                                                                                        	|
