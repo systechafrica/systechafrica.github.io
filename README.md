@@ -1,5 +1,3 @@
-# FundMaster Xe
-
 ## Introduction
 
 FundMaster Xe is the latest version of FundMaster - the most advanced Pension
