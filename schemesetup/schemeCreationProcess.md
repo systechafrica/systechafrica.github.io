@@ -1,4 +1,4 @@
-## Setup Links
+## Basic Setup Links
 
 The Scheme Setup Module in FundMaster provides the tools necessary to set up a
 new scheme and configure various parameters as stipulated in trust deeds and
