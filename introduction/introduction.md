@@ -1,6 +1,6 @@
 ## Introduction
 
-FundMaster Xe caters for the core functions of retirement benefits and
+FundMaster caters for the core functions of retirement benefits and
 pension funds administration for both private and public employee retirement
 organizations. The System Core Modules include:
 
@@ -24,7 +24,7 @@ industry needs.
 
 ## The Module Concept
 
-Conceptually, FundMaster Xe adopts a “Top-down design”; a software design
+Conceptually, FundMaster adopts a “Top-down design”; a software design
 technique that emphasizes separating the functionality of a program into
 independent interchangeable modules such that each contains everything necessary
 to execute only one aspect of the desired functionality. Each module enforces

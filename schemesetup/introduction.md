@@ -3,7 +3,7 @@
 The Scheme Setup module implements the trust deed and rules of a scheme. These
 are implemented in the system through configurations such as Basic Scheme
 Details, Contribution Rates, Vesting Scales, Schemes Member Classes, Reasons for
-Exit, Interest Formula, Interest Rates, Benefits Configuration Matrix, End Year
+Exit, Interest Formula, Interest Rates, B+enefits Configuration Matrix, End Year
 Parameters, Pension Setup Parameters etc.
 
 To access the Scheme Setup dashboard, click the **Scheme Setup** link on the
