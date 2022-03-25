@@ -1,7 +1,7 @@
 ### Other Admin Settings
 
 To access additional system administration panel settings, see the expandable
-menu bar on the left-side of the screen as shown in the following screenshot.
+menu bar on the left-side panel as shown in the following screenshot.
 Clicking the links labeled 1 to 10 will open the appropriate windows where the
 respective configurations are set.
 

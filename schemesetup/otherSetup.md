@@ -20,13 +20,13 @@ Click the **Pay Points Branches** link to open a Pay Points Branches window and
 then click the **Pay Point Branches** button to capture details for a new Pay
 Point Branch as shown below:
 
-<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/schemeM14.png"> 
+<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/paypointbraches.png"> 
 
 ## Reasons for Exit
 
-Click the **Reasons for Exit** link to open the Reasons for Exit window where a grid table displaying various reason for exit configurations. See schreenshot below: 
+Click the **Reasons for Exit** link to open the Reasons for Exit window where a grid table displaying various reason for exit configurations. See scheenshot below: 
 
-<img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../media2/schemeM25.png"> 
+<img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../media2/reasonsforexit.png"> 
 
 **Tips**
 - The reason for exit configurations enables creation of various reasons for exit
@@ -44,19 +44,19 @@ Click the **New Reason for Exit** button to open a dialogue box through which a 
 
 ## Interest Rates
 
-Click the Interest Rates link to open the Interest Rates window to view the details of rates already configured in the scheme as shown below: 
+Click the **Interest Rates** link to open the Interest Rates window to view the details of rates already configured in the scheme as shown below: 
 
 <img  alt="interest rates" width="95%" height="auto"  class="center"  src="../media2/schemeM56.png"> 
 
-Clicking the **New Interest Rate** link from the **Operations** drop-down menu as shown in the previous screenshot will open a dialogue box through which a new interest rate can be defined as shown below:
+Clicking the **New Interest Rates** link from the **Operations** drop-down menu as shown in the previous screenshot will open a dialogue box through which a new interest rate can be defined as shown below:
 
 <img  alt="interst rates config box" width="65%" height="auto"  class="center"  src="../media2/schemeM28.png"> 
 
 ## Interest Formula
 
-Click the Interest Formula link to open the Interest Formula window, then click the New Formular button to create a formular as shown below:
+Click the **Interest Formula** link to open the Interest Formula window, then click the **New Formular** button to create a formular as shown below:
 
-<img  alt="interst formular window" width="90%" height="auto"  class="center"  src="../media2/schemeM12.png"> 
+<img  alt="interst formular window" width="90%" height="auto"  class="center"  src="../media2/interestformula.png"> 
 
 ## Maximum Registered Contribution Configuration
 
@@ -71,4 +71,4 @@ Click the **Max Registered Contribution** link to open the Maximum Registered Co
 Clicking the **New Max Registered Contribution** button will load a dialogue box
 through which a new configuration is set as shown below:
 
-<img  alt="Maximum Registered Contribution Configuration config box" width="65%" height="auto"  class="center"  src="../media2/schemeM33.png"> 
+<img  alt="Maximum Registered Contribution Configuration config box" width="65%" height="auto"  class="center"  src="../media2/maxtaxfree.png"> 

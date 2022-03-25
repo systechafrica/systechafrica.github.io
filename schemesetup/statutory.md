@@ -35,6 +35,12 @@ Click the **Regimes Regions** to open the Regime Regions window, then click the
 
 <img  alt="Regimes Regions" width="90%" height="auto"  class="center"  src="../media2/schemeM5.png">  
 
+## Continent 
+Click the **Continent** link to open the Continents Window, then click the **New Continents** button to add a new Continent as shown below:
+
+<img  alt="Regimes Regions" width="90%" height="auto"  class="center"  src="../media2/continent.png">  
+
+
 ## Income Tax Rates
 
 Click the **Income Tax Rates** link to open the Income Tax Rates window, then
