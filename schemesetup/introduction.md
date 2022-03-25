@@ -36,17 +36,17 @@ configurations convenient as shown below:
 
 **Action**
 
--   Click a link under section **labeled 1** to open a dialogue box via which
-    specific **new** *scheme setting* can be configured
+-   Click a link under section **labeled 1** to open a window via which
+    specific new scheme setting can be configured
 
--   Click a link under section **labeled 2** to open a dialogue box via which a
+-   Click a link under section **labeled 2** to open a window via which a
     new *scheme service provider* details can be captured
 
--   Click a link under section **label 3 to** open a dialogue box via which
+-   Click a link under section **labeled 3** to open a window via which
     *scheme sponsors* and sponsor related information can be captured
 
--   Clicking a link under section **label 4** will open a dialogue box via which
+-   Clicking a link under section **labeled 4** will open a window via which
     a *scheme members* related information e.g., *member classes* can be created
 
--   Clicking a link under section **label 5** will open a dialogue box via which
+-   Clicking a link under section **labeled 5** will open a window via which
     *other scheme* setting can be configured.
