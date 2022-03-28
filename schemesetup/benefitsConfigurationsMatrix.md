@@ -1,23 +1,23 @@
-## Benefits configuration Matrix
+## Introduction
 
-In essence the Benefits configuration matrix tool aids in setting the laid down
-rules or procedures in the trust deed and rules in regard to each of the
-categories options listed below:
+In essence the Benefits Configuration Matrix settings inform the implemtation of laid down
+rules or procedures in the trust deed and rules in regard to each of the item’s listed in the screenshot below. click the links to open appropriete dialogue boxes to configure the different benefits parameters.
 
-![](media/31dabd1b805dd0ec1d327194cd03aaa3.png)
+<img  alt="Benefits configuration matrix" width="90%" height="auto"  class="center"  src="../media2/schemeM10.png">  
 
-### Withdrawals
 
-Clicking on the **Withdrawals** link to open a **Withdrawal Configurations**
-**Matrix** dialog box as shown below:
+## Withdrawals
 
-![](media/86ba1caec3ecfd1e9b02c2a3657b7890.png)
+Click on the **Withdrawals** link to open a Withdrawal Configurations
+Matrix dialogue box where a set of parameters informing withrawals are set. See the parameters descriptions after the screenshot below:
+
+<img  alt="Withdrawals" width="90%" height="auto"  class="center"  src="../media2/schemeM35.png">  
 
 **Parameter Description**
 
 -   **Hold Employer Benefits until Retirement?** Refers to whether the employer
     contributions will be held till the withdrawing member attains the
-    retirement age to access the employer portion. (See Deferment)
+    retirement age to access the employer portion.
 
 -   **Effective date for the above:** refers to when the above condition was
     passed into law. For example, the employer benefits portion can only be
@@ -92,18 +92,19 @@ Clicking on the **Withdrawals** link to open a **Withdrawal Configurations**
     deed and rules allow active member to withdraw from the scheme by checking
     the check box on this option.
 
-### Death Claim Configuration Matrix
+## Death Claim Configuration Matrix
 
-Clicking on the **Death Claim Configuration** link to open a **Death claim
-configuration** **Matrix** dialog window as shown below:
+Clicking on the **Death Claim Configuration** link to open a Death Claim
+Configuration Matrix dialog box where a set of parameters informing death claims are set. See the parameters descriptions after the screenshot below: 
 
-![](media/be63e82f7df08aa1131c402819c2f933.png)
+<img  alt="Death Claim Configuration" width="90%" height="auto"  class="center"  src="../media2/schemeM60.png">  
+
 
 **Action**
 
--   Click **label 1** button to configure death in retirements parameters
+-   Click **label 1** button to configure death in retirements parameters.
 
--   Click **label 2** button to configure death of beneficiary parameters
+-   Click **label 2** button to configure death of beneficiary parameters.
 
 **Parameter Description**
 
@@ -179,27 +180,45 @@ configuration** **Matrix** dialog window as shown below:
 -   **Period to qualify for full gratuity:** Specify the service period a member
     requires qualifying for full gratuity.
 
-### Minors Funds Configurations
+## Minors Funds Configurations
+Click the **Minors Funds Configurations** link to open a Minors Funds Configurations dialog window and set the configurations as shown the screenshot below:
 
-![](media/a467e0a32c1477219d02c59d74dcd91a.png)
+<img  alt="Minors Funds Configurations" width="90%" height="auto"  class="center"  src="../media2/schemeM45.png">  
 
-### Retirements
 
-![](media/f360af5ce3c82bee4e01daa492c2c543.png)
+## Retirements
+Click the **Retirements** link to open a Retirement Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
-### Medical
+<img  alt="Retirements" width="90%" height="auto"  class="center"  src="../media2/schemeM76.png">  
 
-![](media/88a4612bc8bcf6502046555b0f050755.png)
 
-### Claims Computation
+##  Medical
+Click the **Medical** link to open a Medical Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
-The configurations here are done to determine how the scheme’s claim processes
-are ran. Click the **Claims Computation** link to load the dialogue box through
+<img  alt="Medical" width="90%" height="auto"  class="center"  src="../media2/schemeM36.png">  
+
+**Parameter Description**
+- **Does member qualify for pension?** Specify whether the member qualifies for the pension on medical grounds in that he or she has been incapacitated to work.
+- **If yes, is pension reduced or unreduced?** Specify whether the pension will be paid as a lump sum followed with pension installments.
+- **Additional benefits provided if impaired while on duty?** Specify if there are any additional benefits if the member was impaired in the line of duty.
+- **Tax medical lump sum?** Specify whether the medical lump sum is subject to taxation.
+- **Pension service Mode:** specify the initial start date for calculating a member’s service period.
+
+## Claims Computation
+
+Click the **Claims Computation** link to load the dialogue box through
 which the settings are configured as shown below:
 
-![](media/18e2cbaaea15f00558a1d22b5cfb5f8f.png)
+<img  alt="Claim Computation" width="90%" height="auto"  class="center"  src="../media2/schemeM6.png">  
+
+**Tip**
+
+The parameters here are set to determine how the scheme’s claim processes
+are handled by the system. 
+
 
 ## Trivial Pension Configurations
+Click the Trivial Pension Configurations link to open a Trivial Pensions Configurations dialog window and set the configurations as shown the screenshot below:
 
-![A screenshot of a computer Description automatically
-generated](media/f7a2fb1d37cd6e7ebefadbd7bb90c827.png)
+<img  alt="Trivial Pension Configurations" width="90%" height="auto"  class="center"  src="../media2/schemeM79.png">  
+
