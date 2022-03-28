@@ -20,7 +20,7 @@ Click the **Pay Points Branches** link to open a Pay Points Branches window and
 then click the **Pay Point Branches** button to capture details for a new Pay
 Point Branch as shown below:
 
-<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/paypointbraches.png"> 
+<img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/paypointbranches.png"> 
 
 ## Reasons for Exit
 
