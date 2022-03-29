@@ -75,7 +75,7 @@ Click the **Cost Center** link to open the Cost Center window and click the **Ne
 
 Principal Officers configurations aid in capturing a scheme's principal officers’ details for effective management of various activities.
 
-Clicking the **Principal Officer** link will open the Principal Officers window where a list of officers details are displayed in a grid table. To add a new officer, click the **New Principal Officer** button to load a dialogue box for capturing the officer's details in the system as shown in the screenshot below:
+Clicking the **Principal Officer** link will open the Principal Officers window displaying a list of officers’ details in a grid table. To add a new officer, Click the **New Principal Officer** button to open a dialogue box and capture his/her details in the system. See screenshot below:
 
 
 <img  alt="principal officers" width="95%" height="auto"  class="center"  src="../media2/schemeM7.png"> 
