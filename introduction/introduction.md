@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 
 FundMaster caters for the core functions of retirement benefits and
 pension funds administration for both private and public employee retirement
