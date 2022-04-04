@@ -1,42 +1,94 @@
 ### Claim Activities
 
-The configurations in this section are related to claim processing. To start an
+The procedures under this menu are related to claim processing. To start an
 activity, click the appropriate link to open its window as shown in the
 screenshot below:
 
 <img  alt="Claim Activities" width="95%" height="auto"  class="center"  src="../media3/contri18.png"> 
 
 
-## Claim Movement
+## Claim Processing
 
-Claim movement commences after running members benefits to confirm correct
-allocation of interests to members accounts followed by a member initiating a
-claim which is then listed on the Movements window.
+The processing of a claim commences after running members balances to confirm correct
+crediting of Members contributions to their accounts. 
 
-To initiate a claim for a member, navigate to the members register and select
-the member record from the list. Click the **Movements** tab to access the
-**Initiate Movement/Claim** tab as shown in the following sample screenshot:
+### Running balances
+
+After configuring parameters and other key setups as demonstrated previously,
+the claim process commences by running members balances to confirm correct
+allocation of interests to members accounts. The system can run balances for a
+few selected members or for a batch.
+
+### Balances for Few Members
+
+To run balances for a few members, navigate to the **Financial Periods
+Register** and select the **Financial Period** to run balances for from the
+list. Locate the **Period End Processes** tab from the menu bar and initiate the
+process of balance running as shown in the following illustration:
+
+<img  alt="Balances for Few Members" width="95%" height="auto"  class="center"  src="../media3/contri28.png"> 
+
+
+Clicking the **Select Members** tab as shown previously, will load a new form
+through which the **Type of Interest Rate** to use in running the balances, and
+the members to run balances for, are selected. See the following illustration:
+
+<img  alt="Type of Interest Rate" width="90%" height="auto"  class="center"  src="../media3/contri29.png"> 
+
+
+### Balances for All Members
+
+To run member balances in batch, follow the same process used previously to
+access the **Period End Processes** but on the drop-down menu, select **Run
+Batch** and on the submenu click **Scheme Level.** See the navigation steps in
+the following illustration:
+
+<img  alt="Balances for All Members" width="80%" height="auto"  class="center"  src="../media3/contri30.png"> 
+
+
+#### Declared Vs Interim Interest Rates
+
+Clicking the **Scheme Level** tab will load a dialogue form where the type of
+Interest Rates, **Declared or Interim**, can be selected to run the balances.
+Select the interest rate type from the drop-down list and confirm the year to
+run balances for. Click the **Run Balance** button as shown in the illustration
+below:
+
+<img  alt="Declared Vs Interim Interest Rates" width="70%" height="auto"  class="center"  src="../media3/contri31.png"> 
+
+To confirm if balances have been successfully distributed to members account,
+navigate to the members register and activate the details tab to display a
+section at the lower part of the window. Click to select individual members from
+the list and click on the **Closing Balances** tab on lower section’s menu bar
+as demonstrated in the following illustration:
+
+<img  alt="Closing Balances" width="95%" height="auto"  class="center"  src="../media3/contri32.png"> 
+
+### Initiating Movement/Claim
+
+After balances are ran, a Member's Claim can be initiated, and the claim record is then listed 
+on the Movements window. To initiate a Claim for a Member, navigate to the Members Register and select 
+the Member's record from the list. Click the **Movements** button to access the 
+**Initiate Movement/Claim** buuton as shown in the following sample screenshot:
+
 
 <img  alt="Claim movement" width="95%" height="auto"  class="center"  src="../media3/contri19.png"> 
 
+ 
+### Processing a Resignation Claim
 
-Clicking **Initiate Movement/Claim** link will load an exit form (see the
-following screenshot) where configurations for processing the claims are set.
-Fill the form with the required details and then click the **Confirm Exit
-Documents Checklist** button (as shown in the next screenshot but one) to
-confirm receipt of relevant documents from the member.
+To initiate a claim whose **Reason for Exit** is **Resignation**, Click **Initiate Movement/Claim** link will load an exit form (see the following screenshot) where configurations for processing the claim are set. Fill the form with the required details and then click the **Confirm Exit Documents Checklist** button (as shown in the next screenshot but one) to confirm receipt of relevant documents from the member.
 
-After confirming that the documents we received by the scheme administrator,
-click the save button to proceed with the claim process.
+After confirming that the documents we received by the scheme administrator, click the save button to proceed with the claim process.
 
-<img  alt="Initiate Movement/Claim" width="80%" height="auto"  class="center"  src="../media3/contri20.png"> 
+<img  alt="Initiate Movement/Claim" width="90%" height="auto"  class="center"  src="../media3/contri20.png"> 
 
 
 Below is the **Exit Documents Checklist** window. Select a document from the
 list and double click each item to confirm receipt of the document, otherwise
 click the **Receive Document** button to upload the document.
 
-<img  alt="Exit Documents Checklist" width="80%" height="auto"  class="center"  src="../media3/contri21.png"> 
+<img  alt="Exit Documents Checklist" width="90%" height="auto"  class="center"  src="../media3/contri21.png"> 
 
 
 A successful configuration of exit form and confirmation of receipt of relevant
@@ -55,15 +107,23 @@ benefits calculation as shown below:
 <img  alt="Movement Processing window" width="95%" height="auto"  class="center"  src="../media3/contri23.png"> 
 
 
-## Benefits Calculation
+### Benefits Calculation
 
-Clicking the **Show Benefits Calculation** link from the Benefits Calculation drop-down menu will load the Withdrawal Benefits Calculation form for a selected member from the list. This will show all the member’s benefits tabulations as shown in a sample screenshot below:
+Clicking the **Show Benefits Calculation** link from the Benefits Calculation 
+drop-down menu will load the Withdrawal Benefits Calculation form for a selected 
+member from the list. This will show all the member’s benefits tabulations as 
+shown in a sample screenshot below:
 
-<img  alt="Show Benefits Calculation" width="70%" height="auto"  class="center"  src="../media3/contri24.png"> 
+<img  alt="Show Benefits Calculation" width="80%" height="auto"  class="center"  src="../media3/contri24.png"> 
 
+
+### Claim Status
 Next, click the **Proceed Now** button on the Withdrawal Benefits Calculation
 form to process the payment and save the records awaiting certification towards
-disbursement of moneys from the scheme accounts. See the illustration below:
+disbursement of moneys from the scheme accounts. See screenshot below:
+
+<img  alt="claim status" width="90%" height="auto"  class="center"  src="../media3/contri33.png"> 
+
 
 ## Claim Payments
 
@@ -76,7 +136,8 @@ the Claims Payment window. Locate the **Process Payments** drop-down menu to
 send the selected claim for payment or unprocess the claim among other options
 in the list.
 
-On the other hand, clicking the **Register** drop-down menu will give you access
+**Certify** and **Authorize** the claim payment records selected via the **Certification** 
+drop-down menu and then click the **Register** drop-down menu will give you access 
 to a window where all effected payments are listed. See the screenshot below:
 
 <img  alt="claim payment" width="95%" height="auto"  class="center"  src="../media3/contri25.png"> 
