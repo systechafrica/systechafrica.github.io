@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>FundMaster Help Line</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+        }
+
+        new Docute({
+            title: 'FundMaster Documentation',
+            layout: 'narrow',
+            nav: [{
+                    title: 'Home',
+                    link: '/'
+                },
+
+            ],
+            sidebar: [
+                // A sidebar item, with child links
+                {
+                    title: 'Getting Started',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/introduction/introduction'
+                        }, {
+                            title: 'System Access',
+                            link: '/introduction/systemAccess',
+                        }, {
+                            title: 'The Main Menu Bar',
+                            link: '/introduction/theMainMenuBar'
+                        },
+
+                    ]
+                }, {
+                    title: 'Administration Panel',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/administration/introduction'
+                        }, {
+                            title: 'User Management',
+                            link: '/administration/userManagement'
+                        }, {
+                            title: 'User Profile Management',
+                            link: '/administration/userProfileManagement'
+                        }, {
+                            title: 'System Rights',
+                            link: '/administration/systemRights'
+                        }, {
+                            title: 'Audit Trail',
+                            link: '/administration/auditTrail'
+                        }, {
+                            title: 'Password Policy Settings',
+                            link: '/administration/passwordPolicySettings'
+                        }, {
+                            title: 'Other Admin Settings',
+                            link: '/administration/otherAdminSettings'
+                        }, {
+                            title: 'Notifications',
+                            link: '/administration/notifications'
+                        },
+
+                    ]
+                }, {
+                    title: 'Scheme Setup Module',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/schemesetup/introduction'
+                        },{
+                            title: 'Scheme Creation Process',
+                            link: '/schemesetup/schemeCreationProcess'
+                        },{
+                            title: 'Service Providers',
+                            link: '/schemesetup/serviceProviders'
+                        },{
+                            title: 'Scheme Approval Process',
+                            link: '/schemesetup/schemeApprovalProcess'
+                        },{
+                            title: 'Actuarial Factors',
+                            link: '/schemesetup/actuarialFactors'
+                        },{
+                            title: 'Statutory',
+                            link: '/schemesetup/statutory'
+                        },{
+                            title: 'Sponsors',
+                            link: '/schemesetup/sponsors'
+                        },{
+                            title: 'Member Class Specific Info',
+                            link: '/schemesetup/memberClassSpecificInfo'
+                        },{
+                            title: 'Contribution Configuration Matrix',
+                            link: '/schemesetup/contributionConfigurationMatrix'
+                        },{
+                            title: 'Risk Assessment',
+                            link: '/schemesetup/riskAssessment'
+                        },{
+                            title: 'Bankers',
+                            link: '/schemesetup/bankers'
+                        },{
+                            title: 'Other Setup',
+                            link: '/schemesetup/otherSetup'
+                        },{
+                            title: 'Benefits configuration Matrix',
+                            link: '/schemesetup/benefitsConfigurationsMatrix'
+                        },{
+                            title: 'End Year Parameters',
+                            link: '/schemesetup/endYearParameters'
+                        },{
+                            title: 'Pension Setup Parameters',
+                            link: '/schemesetup/pensionSetupParameters'
+                        },{
+                            title: 'Pension Calculation Parameters',
+                            link: '/schemesetup/pensionCalculationParameters'
+                        },{
+                            title: 'Other Pension Parameters',
+                            link: '/schemesetup/otherPensionParameters'
+                        },{
+                            title: 'Take Notes',
+                            link: '/schemesetup/takeNotes'
+                        },
+                        
+                    ]
+
+                }, {
+                    title: 'Members Module',
+                    children: [{
+                            title: 'Introduction',
+                            link: '/members/introduction'
+                        },{
+                            title: 'Key Configs',
+                            link: '/members/memberConfigurations'
+                        },{
+                            title: 'Members Documents Checklist',
+                            link: '/members/memberDocumentsChecklist'
+                        },{
+                            title: 'New Member',
+                            link: '/members/newMember'
+                        },{
+                            title: 'Existing Members',
+                            link: '/members/existingMembers'
+                        },{
+                            title: 'Member Register',
+                            link: '/members/memberRegister'
+                        },{
+                            title: 'Member Approval',
+                            link: '/members/membersApproval'
+                        },{
+                            title: 'Importing from Template',
+                            link: '/members/importingFromTemplate'
+                        },{
+                            title: 'Updating Members Register',
+                            link: '/members/updatingMemberRegister'
+                        },{
+                            title: 'Members Endorsement',
+                            link: '/members/memberEndorsement'
+                        },{
+                            title: 'Importing Beneficiaries',
+                            link: '/members/importingBeneficiaries'
+                        },{
+                            title: 'Beneficiaries Approval',
+                            link: '/members/beneficiariesApproval'
+                        },{
+                            title: 'Benefits Log Checklist',
+                            link: '/members/benefitsLogChecklist'
+                        },{
+                            title: 'Beneficiaries Details',
+                            link: '/members/beneficiariesDetails'
+                        },{
+                            title: 'Contributions',
+                            link: '/members/contributions'
+                        },{
+                            title: 'Contributions Debt Management',
+                            link: '/members/contributionsDebtManagement'
+                        },{
+                            title: 'Batch Contributions Register',
+                            link: '/members/batchContribRegister'
+                        },{
+                            title: 'Contributions Receivables',
+                            link: '/members/contribReceivable'
+                        },{
+                            title: 'Claim Activities',
+                            link: '/members/claimActivities'
+                        },{
+                            title: 'Discharge Forms',
+                            link: '/members/dischargeForms'
+                        },{
+                            title: 'Reserve Fund',
+                            link: '/members/reservesFund'
+                        },{
+                            title: 'Fund Accounts',
+                            link: '/members/fundAccounts'
+                        },
+                
+                
+
+
+                    ]
+                },
+            ]
+        })
+    </script>
+</body>
+
+</html>
