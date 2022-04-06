@@ -71,4 +71,5 @@ Click the **Max Registered Contribution** link to open the Maximum Registered Co
 Clicking the **New Max Registered Contribution** button will load a dialogue box
 through which a new configuration is set as shown below:
 
-<img  alt="Maximum Registered Contribution Configuration config box" width="65%" height="auto"  class="center"  src="../media2/maxtaxfree1.png"> 
+<img  alt="Maximum Registered Contribution config box" width="65%" height="auto"  class="center"  src="../media2/maximumtaxfree.png"> 
+
