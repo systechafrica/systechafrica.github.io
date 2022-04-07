@@ -50,7 +50,7 @@ Click the **Interest Rates** link to open the Interest Rates window to view the 
 
 Clicking the **New Interest Rates** link from the **Operations** drop-down menu as shown in the previous screenshot will open a dialogue box through which a new interest rate can be defined as shown below:
 
-<img  alt="interst rates config box" width="65%" height="auto"  class="center"  src="../media2/schemeM1.png"> 
+<img  alt="interst rates config box" width="65%" height="auto"  class="center"   src="../media2/schemeM1.png"> 
 
 ## Interest Formula
 
