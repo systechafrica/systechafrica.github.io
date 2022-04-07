@@ -6,9 +6,9 @@ administrator to configure notification matrix (i.e., what key system activities
 need notifications) and setup email templates for sending messages to target
 audience concerning issues such as password reset alerts.
 
-## Notification Configuration Matrix
+## Notifications Config Matrix
 
-Clicking the **Notifications** link labeled 3 will display a drop-down menu from
+Clicking the **Notifications** link labeled 3 (see previous screenshot) will display a drop-down menu from
 which the **Notifications Config Matrix** link is accessed. Click this link to
 display a **Send Notifications Form** where a user is allowed to select the key
 events, activities for which notifications messages ought to be sent.
@@ -32,7 +32,7 @@ text box **labeled** **2** as shown in the screenshot below:
 -   Click the **Save** button to confirm the configurations, otherwise close the
     form.
 
-## Creating Notification Templates
+## Notifications Templates
 
 FundMaster allows administrators to design notifications template in such a way
 that instead of writing a notification to every recipient individually, key
