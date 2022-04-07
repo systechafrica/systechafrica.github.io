@@ -84,9 +84,9 @@ button to deactivate a permission.
 -   Select a permission from the list and click button **labeled 5** to
     deactivate it if it is labeled **Yes** in the enabled column.
 
--   Click the button **labeled 6** to inherit permissions from another profile
+-   Click the button **labeled 6** to inherit permissions from another profile.
 
--   Click the button **labeled 7** to undo the inherence process
+-   Click the button **labeled 7** to undo the inherited process.
 
 -   Select an option from the print drop-down menu **labeled 8** to view a print
     layout copy of permission details.

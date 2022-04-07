@@ -47,7 +47,7 @@ The system integrates the following supporting modules for efficacy:
     pension scheme pensioners and their related beneficiaries.
 
 -   **Accounting Module:** The Accounting module manages the financial records
-    and their related reports of a pension scheme.
+    and their related reports in a pension scheme.
 
 -   **Investments module:** The investments module manages the various
     investments asset classes or categories of a pension scheme.
