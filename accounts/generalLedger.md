@@ -1,16 +1,14 @@
 ### General Ledger
 
-The General Ledger menu provides access links to windows where the respective configurations are listed in grid tables and new ones set.
+The General Ledger menu provides access links to windows where the respective configurations are listed in grid tables and new ones set. Click the links highlighted below to access specific windows:
 
-Click the links highlighted below to access specific windows:
-
-<img  alt="General Ledger" width="95%" height="auto"  class="center"  src="../media5/img1.png"> 
+<img  alt="General Ledger" width="100%" height="auto"  class="center"  src="../media5/img1.png"> 
 
 
 ## Chart of Accounts
 A chart of accounts (COA) a index of all financial accounts set up for an scheme, and available for use by the bookkeeper for recording transactions in the general ledger. 
 
-<img  alt="Chart of Account" width="95%" height="auto"  class="center"  src="../media5/img2.png"> 
+<img  alt="Chart of Account" width="90%" height="auto"  class="center"  src="../media5/img2.png"> 
 
 
 Click the **New Account/GL** button and from the drop-down menu click **Single General Ledger** to open a dialog box and fill details to create a new GL as shown below:
