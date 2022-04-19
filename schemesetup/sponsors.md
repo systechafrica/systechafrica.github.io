@@ -2,7 +2,7 @@
 
 The word Sponsor is used in FundMaster denotes an employer. Providing sponsors details in a scheme is key. Different configurations touching on Sponsors are set by clicking the links on the scheme setup left sidebar panel as shown below:
 
-<img  alt="Sponsor" width="95%" height="auto"  class="center"  src="../media2/schemeM65.png"> 
+<img  alt="Sponsor" width="100%" height="auto"  class="center"  src="../media2/schemeM65.png"> 
 
 
 ## Importing Sponsors from a Template

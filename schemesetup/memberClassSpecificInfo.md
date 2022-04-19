@@ -1,4 +1,4 @@
-## Member Class configurations
+## Member Class Configurations
 
 Configurations under **Member Class Specific Info** category inform how members of a particular class in a scheme are to
 be handled apart from those of other classes within the same scheme in the case of defining contributions rates, retirement age and eligible age.
@@ -6,7 +6,7 @@ be handled apart from those of other classes within the same scheme in the case 
 To configure these settings, on the scheme setup left side menu panel, locate
 the access links as shown below:
 
-<img  alt="Member Class Specific Info" width="95%" height="auto"  class="center"  src="../media2/schemeM59.png"> 
+<img  alt="Member Class Specific Info" width="100%" height="auto"  class="center"  src="../media2/schemeM59.png"> 
 
 ## Contribution Rates
 

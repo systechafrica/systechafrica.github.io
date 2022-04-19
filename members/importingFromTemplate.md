@@ -8,8 +8,6 @@ members below:
 
 ### Importing Members
 
-To import members in batch, after preparing the template, click the **Members**
-link to open the **Members Import** window through which the template is pulled
-from a user’s storage device to the system as shown below:
+To import members in batch, after preparing the template, click the **Members** link to open the **Members Import** window through which the template is pulled from a user’s storage device to the system as shown below:
 
 <img  alt="members upload window" width="90%" height="auto"  class="center"  src="../media3/memberimportwindow.png"> 

@@ -4,7 +4,7 @@ Statutory configurations are tax rates that affect the retirement benefits
 processes as defined by the commissioner of tax. The screenshot below shows the
 links through which different setups are done:
 
-<img  alt="Statutory links" width="95%" height="auto"  class="center"  src="../media2/schemeM77.png">  
+<img  alt="Statutory links" width="100%" height="auto"  class="center"  src="../media2/schemeM77.png">  
 
 ## Tax Regimes
 

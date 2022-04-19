@@ -3,7 +3,7 @@
 In essence the Benefits Configuration Matrix settings inform the implemtation of laid down
 rules or procedures in the trust deed and rules in regard to each of the item’s listed in the screenshot below. click the links to open appropriete dialogue boxes to configure the different benefits parameters.
 
-<img  alt="Benefits configuration matrix" width="90%" height="auto"  class="center"  src="../media2/schemeM10.png">  
+<img  alt="Benefits configuration matrix" width="100%" height="auto"  class="center"  src="../media2/schemeM10.png">  
 
 
 ## Withdrawals
@@ -15,40 +15,23 @@ Matrix dialogue box where a set of parameters informing withrawals are set. See 
 
 **Parameter Description**
 
--   **Hold Employer Benefits until Retirement?** Refers to whether the employer
-    contributions will be held till the withdrawing member attains the
-    retirement age to access the employer portion.
+-   **Hold Employer Benefits until Retirement?** Refers to whether the employer contributions will be held till the withdrawing member attains the retirement age to access the employer portion.
 
--   **Effective date for the above:** refers to when the above condition was
-    passed into law. For example, the employer benefits portion can only be
-    accessed at retirement age condition was signed into law by the on 30 June
-    2005.
+-   **Effective date for the above:** refers to when the above condition was passed into law. For example, the employer benefits portion can only be accessed at retirement age condition was signed into law by the on 30 June 2005.
 
 -   **Pay Employer Benefits:** whether employer benefit will be paid.
 
--   **Defer Unregistered Employer benefits:** Explains whether the employer
-    benefits portion being deferred will affect the unregistered benefits if the
-    withdrawing member will be paid the unregistered benefits currently or at
-    attaining the retirement age.
+-   **Defer Unregistered Employer benefits:** Explains whether the employer benefits portion being deferred will affect the unregistered benefits if the withdrawing member will be paid the unregistered benefits currently or at attaining the retirement age.
 
--   **Linear Interpolation Mode:** this is a mathematical approach where we use
-    to subsequent values to find out the middle value between for example
-    factors in ages; in ages 45 and 46 we can use factors based on days in a
-    year or days in a month.
+-   **Linear Interpolation Mode:** this is a mathematical approach where we use to subsequent values to find out the middle value between for example factors in ages; in ages 45 and 46 we can use factors based on days in a year or days in a month.
 
--   **Number of days in a year Mode**: refers to mathematical interpolation
-    based on number of days in a year mode.
+-   **Number of days in a year Mode**: refers to mathematical interpolation based on number of days in a year mode.
 
--   **Number of days in a month Mode:** refers to mathematical interpolation
-    based on number of days in a month mode.
+-   **Number of days in a month Mode:** refers to mathematical interpolation based on number of days in a month mode.
 
--   **Tax withdrawals:** states whether the members withdrawing is subject to
-    taxation in regard to his age at withdrawing based on the trust deed and
-    rules of the respective scheme.
+-   **Tax withdrawals:** states whether the members withdrawing is subject to taxation in regard to his age at withdrawing based on the trust deed and rules of the respective scheme.
 
--   **Tax Employer and Employee benefits differently?** state whether the
-    employer and employee benefits are taxed differently. This is accordance to
-    the trust deed and rules of the scheme in reference to the member’s age.
+-   **Tax Employer and Employee benefits differently?** state whether the employer and employee benefits are taxed differently. This is accordance to the trust deed and rules of the scheme in reference to the member’s age.
 
 -   **Vesting Date mode:** Here the vesting formulas are used to determine the
     benefits the withdrawing member will be paid based on the years he or she

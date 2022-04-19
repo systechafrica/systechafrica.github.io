@@ -1,7 +1,7 @@
 ### Reserve Fund
 FundMaster maintains records of balances (overpayments and underpayments) for different contributions transactions. See relevant Reserve Fund links below:
 
-<img  alt="Reserve Fund" width="95%" height="auto"  class="center"  src="../media3/reservefund.png"> 
+<img  alt="Reserve Fund" width="100%" height="auto"  class="center"  src="../media3/reservefund.png"> 
 
 
 ## Transactions Register

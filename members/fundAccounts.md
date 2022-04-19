@@ -2,7 +2,7 @@
 
 The fund Accounts manage all the transactions from the Reserve Fund. This tool enables creation of the different financial periods and allows different activities related to the records. Access the link to the Financial Periods Register as shown below:
  
-<img  alt="Fund Accounts" width="95%" height="auto"  class="center"  src="../media3/fundaccounts.png"> 
+<img  alt="Fund Accounts" width="100%" height="auto"  class="center"  src="../media3/fundaccounts.png"> 
 
  
 ## Financial Periods Register

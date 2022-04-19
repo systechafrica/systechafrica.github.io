@@ -4,7 +4,7 @@ Configurations under **Other Setup** category enable formulation of interests, p
 setting up pay points, actuarial valuations etc. The screenshot below shows a
 section within Setup Links left side panel where the various links are accessed from: 
 
-<img  alt="other setup links" width="95%" height="auto"  class="center"  src="../media2/schemeM4.png"> 
+<img  alt="other setup links" width="100%" height="auto"  class="center"  src="../media2/schemeM4.png"> 
 
 
 ## Pay Points
@@ -16,9 +16,7 @@ Click the **Pay Points** link to open a Pay Points window and then click the
 
 ## Pay Point Branches
 
-Click the **Pay Points Branches** link to open a Pay Points Branches window and
-then click the **Pay Point Branches** button to capture details for a new Pay
-Point Branch as shown below:
+Click the **Pay Points Branches** link to open a Pay Points Branches window and then click the **Pay Point Branches** button to capture details for a new Pay Point Branch as shown below:
 
 <img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/paypointbranches.png"> 
 
@@ -29,13 +27,10 @@ Click the **Reasons for Exit** link to open the Reasons for Exit window where a 
 <img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../media2/reasonsforexit.png"> 
 
 **Tips**
-- The reason for exit configurations enables creation of various reasons for exit
-by a member in a scheme. These configs are then saved in the system for
-retrieval at the exit (movement) of the member (see initiate movement under the
+- The reason for exit configurations enables creation of various reasons for exit by a member in a scheme. These configs are then saved in the system for retrieval at the exit (movement) of the member (see initiate movement under the
 members register module).
 
-- The main reasons for exit are Withdrawal, Retirement, Death in
-Service and Medical. Each reason is tied to the benefits calculation.
+- The main reasons for exit are Withdrawal, Retirement, Death in Service and Medical. Each reason is tied to the benefits calculation.
 
 Click the **New Reason for Exit** button to open a dialogue box through which a new exit reason is configured as shown below: 
 
@@ -65,10 +60,11 @@ Click the **Max Registered Contribution** link to open the Maximum Registered Co
 <img  alt="Maximum Registered Contribution Configuration" width="90%" height="auto"  class="center"  src="../media2/schemeM50.png"> 
 
 **Tips**
+
 - This configuration is dependent on the regime where the system is used. For instance, in Kenya the salaried employees registered contribution amount is pegged at a maximum of KES. 20,000. 
+  
 - This means that any contribution above this amount is subjectable to tax. Click the highlighted link access the window through which a new configuration can be done as shown below:
 
-Clicking the **New Max Registered Contribution** button will load a dialogue box
-through which a new configuration is set as shown below:
+Clicking the **New Max Registered Contribution** button will load a dialogue box through which a new configuration is set as shown below:
 
-<img  alt="Maximum Registered Contribution config box" width="65%" height="auto"  class="center"  src="../media2/maximumtaxfree.png"> 
+<img  alt="Maximum Registered Contribution config box" width="65%" height="auto"  class="center"  src="../media2/maximumtaxfree.png">

@@ -1,12 +1,10 @@
 ## Actuarial settings
 
 Actuarial configurations aids in the setting up actuarial factors that are used
-in DB and DC lump sum calculations.
-
-Click the links shown in the screenshot below to set fixed factors and annuity
+in DB and DC lump sum calculations. Click the links shown in the screenshot below to set fixed factors and annuity
 rates.
 
-<img  alt="actuarial links" width="95%" height="auto"  class="center"  src="../media2/schemeM17.png">  
+<img  alt="actuarial links" width="100%" height="auto"  class="center"  src="../media2/schemeM17.png">  
 
 
 ### Fixed Factors

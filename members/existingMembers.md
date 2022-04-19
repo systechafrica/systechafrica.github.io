@@ -10,14 +10,11 @@ To view a list of existing members under different Scheme Sponsors, click the **
 
 -   Click **label 1** button to view all members under a selected Sponsor
 
--   Click **label 2** button to carry out sponsor related activities from the
-    drop-down list
+-   Click **label 2** button to carry out sponsor related activities from the drop-down list
 
 -   Click **label 3** button to view balances for selected sponsor from the
     drop-down list
 
--   Click **label 4** button to type and filter records by sponsor name or
-    reference number
+-   Click **label 4** button to type and filter records by sponsor name or reference number
 
--   Click **label 5** button to select a process from the drop-down list and
-    views a summary report.
+-   Click **label 5** button to select a process from the drop-down list and views a summary report.

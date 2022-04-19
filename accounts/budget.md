@@ -8,7 +8,7 @@ Configurations under the Budget menu are set to aid in the creation and manageme
 
 Click the **Budget Allocations** link to open the Budget Allocations window where the allocations are listed in a grid table. Clicking the Details button will allow one to view all the details of a selected allocation record from the list as shown below:
 
-<img  alt="Budget Allocations" width="90%" height="auto"  class="center"  src="../media5/bdg2.png"> 
+<img  alt="Budget Allocations" width="95%" height="auto"  class="center"  src="../media5/bdg2.png"> 
 
 ## Budget Headers
 
@@ -22,20 +22,17 @@ Click the **Revenue Items** link to open the Budget Headers window, then click t
 
 <img  alt="Budget Headers" width="90%" height="auto"  class="center"  src="../media5/bdg4.png"> 
 
-
 ## Expenditure Items
 
 Click the **Expenditure Items** link to open the Expenditure Items window, then click the **New Expenditure Item** button to create a new item as shown below:
 
 <img  alt="Expenditure Items" width="90%" height="auto"  class="center"  src="../media5/bdg5.png"> 
 
-
 ## Capital Items
 
 Click the **Capital Items** link to open the Capital Items window, then click the **New Capital Item** button to create a new item as shown below:
 
 <img  alt="Capital Items" width="90%" height="auto"  class="center"  src="../media5/bdg6.png"> 
-
 
 ## Departments
 

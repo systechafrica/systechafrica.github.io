@@ -1,16 +1,19 @@
 ### Receivable/Receipts
+
 Configurations under Receivable/Receipts category are set to aid in the management of moneys that are flowing into a scheme. Click a link to open the respective window for specific configurations as shown below: 
 
-<img  alt="Receivable/Receipts" width="95%" height="auto"  class="center"  src="../media4/acc002.png"> 
+<img  alt="Receivable/Receipts" width="100%" height="auto"  class="center"  src="../media4/acc002.png"> 
 
 
 ## Receivables
+
 Clicking the **Receivables/Receipts** link will launch the **Receivables** window where a list of all receivables created in the scheme are listed as shown below:
 
 <img  alt="Receivables" width="95%" height="auto"  class="center"  src="../media4/acc003.png"> 
 
 
 ## Create a New Receivable
+
 To create a new receivable, navigate to the Debtors window where a list of all debtors in a scheme are listed in a grid table. Records in the table can be filtered either by name or displayed based on balances. Select the debtor to create a Receivable (known as an invoice towards a due payment) as shown in the following screenshot:
 
 <img  alt="creatingf a new Receivables" width="95%" height="auto"  class="center"  src="../media4/acc004.png"> 
@@ -51,6 +54,7 @@ After a successful certification of a Receipt, the next step is to post it – p
 
 
 ## Direct Receipts
+
 FundMaster allows creation of a Receipt which can then be tied to contributions received from employers.
 
 To see all Direct Receipts created in a scheme, click the **Direct Receipts** link to open the Direct Receipts window where a new receipt can be created, details of an existing receipt viewed, a receipt canceled, certified, and posted. Records in the grid table can also be filtered by dates or debtor’s name, amount, or particulars. See a sample screenshot below:

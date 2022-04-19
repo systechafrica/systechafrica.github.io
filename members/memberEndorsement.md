@@ -1,28 +1,23 @@
 ### Member Endorsement
 
-After updating the Members Register, the changes need to be confirmed through an
-endorsement process that has three levels of for authorization as shown below:
+After updating the Members Register, the changes need to be confirmed through an endorsement process that has three levels of for authorization as shown below:
 
 <img  alt="members endorsement" width="95%" height="auto"  class="center"  src="../media3/memberendose.png"> 
 
 
 **Action**
 
--   Click **label 1** text boxes to configure how to filter records from the
-    list
+-   Click **label 1** text boxes to configure how to filter records from the list
 
--   Click **label 2** button to open a new window showing requested data changes
-    to be member data
+-   Click **label 2** button to open a new window showing requested data changes to be member data
 
--   Click **label 3** button to open a drop-down list with certify, approve, and
-    authorize buttons
+-   Click **label 3** button to open a drop-down list with certify, approve, and authorize buttons
 
 -   Click **label** 4 to nullify presented changes request to member data.
 
 ### View Request Changes**
 
-Clicking the **Wiew Requested Changes** button will open a window displaying the
-changes to be made on the data records if the update process is successful. See screenshot below:
+Clicking the **Wiew Requested Changes** button will open a window displaying the changes to be made on the data records if the update process is successful. See screenshot below:
 
 <img  alt="View Request Changes" width="80%" height="auto"  class="center"  src="../media3/requestchangewindow.png"> 
 
