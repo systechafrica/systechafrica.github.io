@@ -36,6 +36,6 @@ Click the **Capital Items** link to open the Capital Items window, then click th
 
 ## Departments
 
-Click the **Departments** link to open the Departments window, then click the **New Departments** button to create a new department as shown below:
+Click the **Departments** link to open the Departments window, then click the **New Department** button to create a new department as shown below:
 
 <img  alt="Departments" width="90%" height="auto"  class="center"  src="../media5/bdg7.png"> 
