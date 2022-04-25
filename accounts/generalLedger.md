@@ -23,14 +23,15 @@ After the default accounts are generated (labeled Heading in the charts), as sho
 
 <img  alt="Creating a Single General ledger" width="95%" height="auto"  class="center"  src="../media5/chartsofaccounts.jpg"> 
 
-**Tips**
-
-A chart of accounts is built to form a symbolic T shape pattern in the Chart of Accounts window. After the default account categories are generated - labeled Heading. A bookkeeper can begin to build the bookkeeping system by creating different types of accounts under each category e.g., under the Expenses category, a Staff Expenses account can be created - labeled Heading. Within this GL account, entries - labeled Posting - can be created e.g., Staff Training, Goods Supplies, etc. as demonstrated next.  
-
-
 Clicking the **Single General Ledger** link will open a dialog box enabling the creation of a GL account for a particular category of expenses (e.g., Staff expenses) under the Expenses main account.  To achieve this, fill in the details (Make sure the Account Type, Account Name and Categories are filled correctly) as shown in the screenshot below:
 
 <img  alt="Creating a Single General ledger" width="70%" height="auto"  class="center"  src="../media5/accountdetails.jpg"> 
+
+**Tips**
+
+- After the default account categories are generated - labeled **Heading**. A bookkeeper can begin to build the chart of accounts (bookkeeping system) by creating different types of accounts under each category e.g., under the Expenses category, a Staff Expenses account can be created - labeled **Heading**. Within this GL account, entries - labeled **Posting** - can be created e.g., Staff Training, Goods Supplies, etc. as demonstrated next.
+
+- In FundMaster, a chart of accounts builds a T-shape pattern in the Chart of Accounts window as more accounts and posting to the accounts are created.
 
 ## Financial Reporting Levels
 
