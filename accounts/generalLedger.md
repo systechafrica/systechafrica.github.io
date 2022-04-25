@@ -6,15 +6,26 @@ The General Ledger menu provides access links to windows where the respective co
 
 
 ## Chart of Accounts
-A chart of accounts (COA) a index of all financial accounts set up for an scheme, and available for use by the bookkeeper for recording transactions in the general ledger. 
+A chart of accounts (COA) a index of all financial accounts set up in a scheme, and available for use by the bookkeeper for recording transactions in the general ledgers. 
 
-<img  alt="Chart of Account" width="95%" height="auto"  class="center"  src="../media5/img2.png"> 
+## Creating a Chart of Accounts
+For a new scheme, the Chart of Accounts needs to be set from scratch as will be demonstrated next. Click the Chart of Accounts link from the General Ledger menu as shown in the previous screenshot.
+On the right side of the screen, locate the **Initial Chart** menu and from the drop-down menu click **Create Default Chart** link as shown below:
 
+<img  alt="Creating a Chart of Accounts" width="80%" height="auto"  class="center"  src="../media5/initialchart.jpg"> 
+ 
+Clicking the **Create Default Chart** link will automatically generate the main types of accounts namely: Assets, Liabilities, Revenues, Expenses, and an additional Members Fund account - seeing this is a funds-related scheme. See the screenshot below: 
+ 
+ <img  alt="Create Default Chart" width="90%" height="auto"  class="center"  src="../media5/defaultcharts.jpg"> 
 
-Click the **New Account/GL** button and from the drop-down menu click **Single General Ledger** to open a dialog box and fill details to create a new GL as shown below:
+### Creating a Single General ledger
+After the default accounts are generated (labeled Heading in the charts), as shown previously, select from the list an account (e.g., Expenses as will be demonstrated in the next step) to create a general ledger account for as shown below: 
 
-<img  alt="Creating a Single General ledger" width="70%" height="auto"  class="center"  src="../media5/img3.png"> 
+<img  alt="Creating a Single General ledger" width="95%" height="auto"  class="center"  src="../media5/chartsofaccounts.jpg"> 
 
+Clicking the **Single General Ledger** link will open a dialog box enabling the creation of a GL account for a particular category of expenses (e.g., Staff expenses) under the Expenses main account.  To achieve this, fill in the details (Make sure the Account Type, Account Name and Categories are filled correctly) as shown in the screenshot below:
+
+<img  alt="Creating a Single General ledger" width="70%" height="auto"  class="center"  src="../media5/accountdetails.jpg"> 
 
 ## Financial Reporting Levels
 
