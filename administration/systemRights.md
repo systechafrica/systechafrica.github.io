@@ -1,8 +1,6 @@
 ### System Rights
 
-Clicking the **System Rights** link will open a window listing all the system
-rights grouped based on modules. A user can create a new system permission, view
-the details of a selected permission in the list and remove one among other
+Clicking the **System Rights** link will open a window listing all the system rights grouped based on modules. A user can create a new system permission, view the details of a selected permission in the list and remove one among other
 actions. See screenshot below:
 
 
@@ -19,4 +17,4 @@ actions. See screenshot below:
 
 -   Click **label 4** button to find a record quickly from the list
 
--   Click **label 5** button to view a print layout copy of a profile register.
+-   Click **label 5** button to view a print layout copy of a profile register

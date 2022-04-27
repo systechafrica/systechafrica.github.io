@@ -176,7 +176,7 @@ Clicking the link as shown above will load a window on the right side of the men
 
 **Action**
 
-Click **Label 1:** *Back to fiscal years to* move either from the monthly periods to quarterly periods back to fiscal years or from monthly periods back to fiscal years.
+Click **Label 1: Back to fiscal years** to move either from the monthly periods to quarterly periods back to fiscal years or from monthly periods back to fiscal years.
 
 Click **Label 2: Back to parent Periods** after selecting a period from the list to see the actual periods.
 

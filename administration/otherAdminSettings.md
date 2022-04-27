@@ -1,16 +1,13 @@
 ### Other Admin Settings
 
-To access additional system administration panel settings, see the expandable
-menu bar on the left-side panel as shown in the following screenshot.
-Clicking the links labeled 1 to 10 will open the appropriate windows where the
-respective configurations are set.
+To access additional system administration panel settings, see the expandable menu bar on the left-side panel as shown in the following screenshot.
+Clicking the links labeled 1 to 10 will open the appropriate windows where the respective configurations are set.
 
 
 <img  alt="password policy image" width="70%" height="auto"  class="center"  src="../media/adfd13.png">  
 
 
-The table below gives a summary of the menu links and a description of every
-item on the left side bar menu as shown above.
+The table below gives a summary of the menu links and a description of every item on the left side bar menu as shown above.
 
 | **No.** 	| **Link**            	| **Description**                                                                                                                                           	|
 | :---------	| :---------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
