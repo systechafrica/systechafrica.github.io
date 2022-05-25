@@ -3,7 +3,7 @@
 Configurations under system utility enable configurations related to FundMaster integration with other systems. To configure specific utilities, click the enclosed links to open configuration dialogue boxes
 as shown below:
 
-<img  alt="System Utility menu" width="95%" height="auto"  class="center"  src="../media/adfd22.png">  
+<img  alt="System Utility menu" width="100%" height="auto"  class="center"  src="../media/adfd22.png">  
 
 
 ## Report Settings
