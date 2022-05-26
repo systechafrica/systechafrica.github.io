@@ -62,11 +62,11 @@ The process of switching from a default scheme to a new scheme involves first na
 
 After assigning the new scheme to the current user account, navigate to the landing page and on the left side panel, make it the **Working Scheme** by clicking the **Switch Scheme** button as shown below:
 
-<img  alt="scheme switch" width="95%" height="auto"  class="center"  src="../media2/schemeM16.png">  
+<img  alt="scheme switch" width="100%" height="auto"  class="center"  src="../media2/schemeM16.png">  
 
 Clicking this button will open a new window displaying all the available schemes the user can switch to.
 
-<img  alt="available schemes" width="80%" height="auto"  class="center"  src="../media2/schemeM68.png">  
+<img  alt="available schemes" width="90%" height="auto"  class="center"  src="../media2/schemeM68.png">  
 
 **Action**
 
@@ -137,6 +137,17 @@ Click the **Benefits Configurations** link to open the benefits configurations m
 
 <img  alt="Benefits Configurations" width="95%" height="auto"  class="center"  src="../media2/scheme88.jpg">  
 
+**Action**
+
+- Click label 1 tab to load a window for setting Death Claim Configurations parameters. 
+  
+- Click label 2 tab to load a window for setting Retirement Configurations parameters. 
+  
+- Click label 3 tab to load a window for setting Trivial Pension Configurations parameters.
+  
+- Click label 4 tab to load a window for setting Medical Configurations parameters.
+  
+- Click label 5 tab to load a window for setting Claims Computation Configurations parameters. 
 
 
 ## Additional Scheme Info Setup
