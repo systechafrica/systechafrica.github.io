@@ -88,6 +88,57 @@ Note: If you modify any items, remember to click the **Save** button to reflect 
 
 <img  alt="basic scheme details form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
 
+
+## Scheme configurations
+
+These are some of the key configurations that need to be set for the scheme to execute effectively. The screenshot below shows the locations links within the scheme setup sidebar panel:
+
+<img  alt="Scheme configurations" width="100%" height="auto"  class="center"  src="../media2/scheme82.jpg">  
+
+
+### Specific configs
+
+Click the **Scheme Setup Configurations** link to open the scheme configurations dialog box and set the required parameters as shown below:
+
+<img  alt="Scheme Setup Configurations" width="80%" height="auto"  class="center"  src="../media2/scheme83.jpg">  
+
+
+### Member Configurations
+
+Click the **Member Configurations** link to open the members configurations dialog box and set the required parameters as shown below:
+
+<img  alt="Member Configurations" width="80%" height="auto"  class="center"  src="../media2/scheme84.jpg">  
+
+
+### Contribution and balances Configurations
+
+Click the **Contributions and balances Configurations** link to open the contributions and balances Configurations dialog box and set the required parameters as shown below:
+
+<img  alt="Contributions and balances Configurations" width="80%" height="auto"  class="center"  src="../media2/scheme85.jpg">
+
+
+### Claim and Pensioners Configurations
+
+Click the **Claims and Pensioners Configurations** link to open the claims and pensioners configurations dialog box and set the required parameters as shown below:
+
+<img  alt="claims and Pensioners Configurations" width="80%" height="auto"  class="center"  src="../media2/scheme86.jpg">  
+
+
+### Scheme Dates and Insurance covers Configurations
+
+Click the **Scheme Dates and Insurance covers Configurations** link to open the scheme dates and insurance covers configurations dialog box and set the required parameters as shown below:
+
+<img  alt="Scheme Dates and Insurance covers Configurations" width="80%" height="auto"  class="center"  src="../media2/scheme87.jpg">  
+
+
+### Benefits Configurations
+
+Click the **Benefits Configurations** link to open the benefits configurations matrix dialog box and set the required parameters as shown below:
+
+<img  alt="Benefits Configurations" width="95%" height="auto"  class="center"  src="../media2/scheme88.jpg">  
+
+
+
 ## Additional Scheme Info Setup
 
 This is another set of particulars of a Scheme. Parameters to inform **Contributions and Interest Calculations** are configured here. Click the **Additional Schemes Info Setup** link, as shown previously, to launch the dialogue box as shown in the next screenshot.

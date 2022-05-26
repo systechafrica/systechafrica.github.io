@@ -28,12 +28,4 @@ Note that the links are arranged into categories making the order of configurati
 
 **Action**
 
--   Click a link under the section **labeled 1** to open a window via which specific new scheme setting can be configured.
-
--   Click a link under the section **labeled 2** to open a window via which a new Scheme Service Provider details can be captured.
-
--   Click a link under the section **labeled 3** to open a window via which Scheme Sponsors and Sponsor related information can be captured.
-
--   Clicking a link under the section **labeled 4** will open a window via which a Scheme Members related information e.g., Member Classes can be created.
-
--   Clicking a link under the section **labeled 5** will open a window via which Other Ocheme setting can be configured.
+-	Click a link under the left side panel to open a dialogue box through which a specific scheme setting can be configured.
