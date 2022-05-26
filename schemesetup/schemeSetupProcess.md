@@ -226,6 +226,6 @@ After selecting the type of document to upload, click the **browse** button to g
 
 <img  alt="Upload Documen" width="80%" height="auto"  class="center"  src="../media2/schemeM55.png">  
 
-The window below shows ta list of all uploaded documents.
+The window below shows the list of all uploaded documents:
 
 <img  alt="Upload Documents list" width="80%" height="auto"  class="center"  src="../media2/schemeM61.png">  
