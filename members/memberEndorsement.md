@@ -18,7 +18,7 @@ After updating the Members Register, the changes need to be confirmed through an
 
 ### View Request Changes
 
-Clicking the **Wiew Requested Changes** button will open a window displaying the changes to be made on the data records if the update process is successful. See screenshot below:
+Clicking the **view Requested Changes** button will open a window displaying the changes to be made on the data records if the update process is successful. See screenshot below:
 
 <img  alt="View Request Changes" width="80%" height="auto"  class="center"  src="../media3/requestchangewindow.png"> 
 
