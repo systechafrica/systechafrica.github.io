@@ -8,9 +8,8 @@ A user can view details of audit trails, filter through the records and view pri
  
  **Action**
 
-•	Click label 1 button to view the details of a selected user trail
-•	Click label 2 button after typing keywords to search for a record in the list
-•	Click label 3 button to repopulate the list after using the filter
-•	Click label 4 button to search records based on dates
-•	Click label 5 button to view a copy of print layout copy of audit trail
- 
+-  Click label 1 button to view the details of a selected user trail.
+-  Click label 2 button after typing keywords to search for a record in the list.
+-  Click label 3 button to repopulate the list after using the filter.
+-  Click label 4 button to search records based on dates.
+-  Click label 5 button to view a copy of print layout copy of audit trail.

@@ -18,6 +18,8 @@ Click the **Report Server** link to open a **Report Server Config** dialogue box
 Click the **Report Server** link to open a **Report Server Config** dialogue box to configure settings that enable a scheme to connect to a report server as shown in the screenshot below:
 
 <img  alt="Report server configurations image" width="95%" height="auto"  class="center"  src="../media/adfd24.jpg">  
+
+**Action**
   
 -   Click **label 1** button to open a dialogue box where a new configuration is done.
 
