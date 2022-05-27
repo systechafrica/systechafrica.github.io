@@ -1,8 +1,8 @@
 ### Existing Members
 
-All members who have been uploaded in the system are listed in a Members Register and are accessible via the sponsors Register under which they fall. 
+All members who have been uploaded in the system are listed in a Members Register and are accessible via the sponsors Register. 
 
-To view a list of existing members under different Scheme Sponsors, click the **Existing Members** link as shown below to open the Sponsors Register where all the sponsors in a scheme are managed. 
+To view a list of existing members under different Scheme Sponsors, click the **Existing Members** link as shown below to open the Sponsors Register where all the sponsors in a scheme are managed: 
 
 <img  alt="existing members" width="95%" height="auto"  class="center"  src="../media3/existingmembers.png"> 
 
