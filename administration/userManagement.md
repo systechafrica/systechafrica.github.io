@@ -30,20 +30,18 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 
 ## Adding a New User
 
-Clicking the **New User** button will open a New User Details dialogue box. To successfully create a new user, the fields marked with a red asterisk must be filled. See the following screenshot.
+Clicking the **New User** button will open a New User Details dialogue box. To successfully create a new user, the fields marked with a red asterisk must be filled with relevant details as shown in the following screenshot:
 
 <img  alt="new user image" width="80%" height="auto"  class="center"  src="../media/adfd14.png">  
 
 
 **Action**
 
--   Fill in the text fields and select options from other text fields with drop-down menus and then save.
+-   Click **labeled 1** button to see all the schemes that the user is allowed to access as will be shown in the next screenshot.
 
--   Click button **labeled 1** to see all the schemes that the user is allowed to access as will be shown in the next screenshot.
+-   Click **labeled 2** button to see all the sponsors that the user is allowed to access.
 
--   Click button **labeled 2** to see all the sponsors that the user is allowed to access.
-
--   Click button **labeled 3** to see all the classes that the user is allowed to access.
+-   Click **labeled 3** button to see all the classes that the user is allowed to access.
 
 
 ## Allowing Schemes Access to Users
