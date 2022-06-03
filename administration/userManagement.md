@@ -1,6 +1,6 @@
 ## Creating User Accounts
 
-User accounts are individual or personal accounts for the system users. User accounts are assigned to specific profiles which define the permissions assigned to a user to allow access to specific system functions.
+User accounts are individual accounts for the system users. User accounts are assigned to specific profiles which define the permissions assigned to a user to allow access to specific system functions.
 
 ## Existing Users
 
