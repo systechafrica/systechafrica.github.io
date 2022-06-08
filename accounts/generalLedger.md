@@ -176,40 +176,39 @@ Clicking the link as shown above will load a window on the right side of the men
 
 **Action**
 
-Click **Label 1: Back to fiscal years** to move either from the monthly periods to quarterly periods back to fiscal years or from monthly periods back to fiscal years.
+- Click **Label 1: Back to Fiscal Years** button to move either from the monthly periods to quarterly periods back to fiscal years or from monthly periods back to fiscal years.
 
-Click **Label 2: Back to parent Periods** after selecting a period from the list to see the actual periods.
+- Click **Label 2: Back to parent Periods** button after selecting a period from the list to see the actual periods.
 
-Click **Label 3: Jump to** (see screenshot below) and from the drop-down menu selected either monthly, quarterly, or daily periods to load a tabulation of the respective periods.
+- Click **Label 3: Jump To** button and from the drop-down menu selected either monthly, quarterly, or daily periods to load a tabulation of the respective periods as shown below:
 
 <img  alt="Jump to" width="35%" height="auto"  class="center"  src="../media5/img18.png"> 
 
 
-Click **Label 4: Update GL Account balances** (see screenshot below) after selecting a period from the list to update the members' balances.It adds the present year's contributions to the previous year's closing balances.
+- Click **Label 4: Update GL Account Balances** button after selecting a period from the list to update the members’ balances. It adds the present year’s contributions to the previous year’s closing balances as shown below:
 
 <img  alt="Update GL Account balances" width="35%" height="auto"  class="center"  src="../media5/img19.png"> 
 
 
-Click **Label 5: Import GL Account balances** (see screenshot below after selecting a period from the list to import previous years closing balances in order to update the GL accounts present balances. You can also import Debts and Credits.
+- Click **Label 5: Import GL Account balances** button after selecting a period from the list to import previous years GL closing balances in order to update the GL accounts present balances. You can also import Debts and Credits as shown below: 
 
 <img  alt="Import GL Account balances" width="35%" height="auto"  class="center"  src="../media5/img20.png"> 
 
 
-Click **Label 6: The Financial Reports** (see screenshot below after selecting a period from the list to access links to generate and print different reports such as trial balances for selected period from the list.
+- Click **Label 6: the Financial Report** button after selecting a period from the list to access links to generate and print different reports such as trial balances for selected period from the list as shown below:
 
 <img  alt="the Financial Reports" width="35%" height="auto"  class="center"  src="../media5/img21.png"> 
 
 
-Click **Label 7: Create periods** (see screenshot below) after selecting a period from the list to create new periods.
-
+- Click **Label 7: Create periods** button after selecting a period from the list to create new periods.
 <img  alt="Create periods" width="35%" height="auto"  class="center"  src="../media5/img22.png"> 
 
 
-Click **Label 8: Close Year** (see screenshot below) after selecting a period from the list to soft close an open period, close a period which is soft closed or permanently close a period which is closed. Select the option for a working scheme or all active schemes.
+- Click **Label 8: Close Year** button after selecting a period from the list to soft close an open period, close a period which is soft closed or permanently close a period which is closed. Select the option for a working scheme or all active schemes as shown below:
 
 <img  alt="Close Year" width="35%" height="auto"  class="center"  src="../media5/img23.png"> 
 
 
-Click **Label 9: the Details** button (see screenshot below) to remove GL balances, update zero balances or print statements from the drop-down list.
-
+- Click **Label 9: the Details** button to remove GL balances, update zero balances or print statements from the drop-down list as shown below:
+  
 <img  alt="the Details button" width="35%" height="auto"  class="center"  src="../media5/img24.png"> 

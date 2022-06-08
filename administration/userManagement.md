@@ -17,8 +17,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 
 -   Click **label 3** button to reset the account password to the initial one.
 
--   Click **label 4** button to lock, unlock/enable, disable a selected user’s
-    account.
+-   Click **label 4** button to lock, unlock/enable, disable a selected user’s account.
 
 -   Click **label 5** and type a user’s name on the search box to filter the record.
 
