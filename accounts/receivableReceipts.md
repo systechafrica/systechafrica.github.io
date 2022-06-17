@@ -48,25 +48,25 @@ Click the **Receipts Register** link to open the Receipts Register window. For c
 <img  alt="Mapping the Invoice" width="95%" height="auto"  class="center"  src="../media4/acc009.png"> 
 
 
-After a successful certification of a Receipt, the next step is to post it – publish the transaction as authentic. The following screenshot shows how to post a Receipt:
+After a successful certification of a Receipt, the next step is to Post it – publish the verified transaction. The following screenshot shows how to post a receipt (note that a receipt can also be unposted):
 
 <img  alt="Mapping the Invoice" width="90%" height="auto"  class="center"  src="../media4/acc010.png"> 
 
 
 ## Direct Receipts
 
-FundMaster allows creation of a Receipt which can then be tied to contributions received from employers.
+FundMaster allows creation of a receipts which can then be tied to contributions received from scheme members.
 
 To see all Direct Receipts created in a scheme, click the **Direct Receipts** link to open the Direct Receipts window where a new receipt can be created, details of an existing receipt viewed, a receipt canceled, certified, and posted. Records in the grid table can also be filtered by dates or debtor’s name, amount, or particulars. See a sample screenshot below:
 
 <img  alt="Direct Receipts" width="95%" height="auto"  class="center"  src="../media4/acc011.png"> 
 
 
-To create a new Receipt, click the **Single Direct Receipt** link (receipts can also be added in batches: click the Batch Direct Receipts link) from the drop-down menu. This will open a new window through which the configurations are done as shown in the next screenshot:
+To create a new receipt, click the **Single Direct Receipt** link (receipts can also be added in batch: click the **Batch Direct Receipts** link) from the drop-down menu. This will open a new window through which the configurations are done as shown in the screenshot below:
 
 <img  alt="Single Direct Receipt" width="90%" height="auto"  class="center"  src="../media4/acc012.png"> 
 
 
-Clicking the **Add Receipt Line** button as highlighted above will open a new form where some extra receipt details such as VAT tax configured as shown in the screenshot below:
+Clicking the **Add Receipt Line** button as highlighted above will open a new form where the receipt is linked to a bank account (e.g., a specific account used for collecting a scheme’s members contributed moneys) and other details such as VAT tax are configured as shown in the screenshot below:
 
 <img  alt="Receipt Line" width="80%" height="auto"  class="center"  src="../media4/acc013.png"> 

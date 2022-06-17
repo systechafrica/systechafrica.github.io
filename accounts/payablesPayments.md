@@ -24,16 +24,16 @@ Click the **Payments Register** link to access the Payments window where all pro
 
 Accrual Register stores records for a scheme’s earned revenues e.g., contributions or other forms of payments and incurred expenses that have yet to be received or paid. 
 
-Click the **Accruals Register** link to open the Accounts Accruals window where accruals are listed and a link to create a new Accrual is located. The records in the grid table can be filtered by invoice type, particulars, date, or creditors name. A selected entity can also be approved from the **Approval** menu and **invoices processed** for payment from the Accrual options menu as shown below:
+Click the **Accruals Register** link to open the Accounts Accruals window where accruals are listed and a link to create a new Accrual is located. The records in the grid table can be filtered by invoice type, particulars, date, or creditors name. A selected entity can also be approved from the **Approval** menu and invoices processed for payment from the **Accrual Options** menu as shown below:
 
 <img  alt="Accrual Register" width="95%" height="auto"  class="center"  src="../media4/acc017.png">
 
-Clicking the **New Accrual** link from the **Operations** menu will open a dialogue box where settings for a new Accrual payment are done as shown below:
+Clicking the **New Accrual** link from the **Operations** menu will open a dialogue box where settings for a new accrual payment are done as shown below:
 
 <img  alt="New Accrual" width="90%" height="auto"  class="center"  src="../media4/acc018.png">
 
 ## Direct Payments Register
 
-Direct Payments Register stores records for all direct payments made by a scheme.
+Direct Payments Register stores records for all direct payments made by a scheme. Select a direct payment from the list and view its details by clicking the **Details** button, **Certify** and **Authorize** the payment by clicking the respective menu items from the **Payments Calculation** drop-down menu. From the **Posting** drop-down menu, you can post, unPost, tie payment to invoice or create invoice from the payment as shown below:
 
 <img  alt="Direct Payments Register" width="95%" height="auto"  class="center"  src="../media4/acc019.png">
