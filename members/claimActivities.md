@@ -4,7 +4,6 @@ The procedures under this menu are related to claim processing. To start an acti
 
 <img  alt="Claim Activities" width="100%" height="auto"  class="center"  src="../media3/contri18.png"> 
 
-
 ## Claim Processing
 
 The processing of a claim commences after running members balances to confirm correct crediting of Members contributions to their accounts. 
@@ -57,12 +56,11 @@ After balances are ran, a Member's Claim can be initiated, and the claim record 
 
 To initiate a claim whose **Reason for Exit** is **Resignation**, Click **Initiate Movement/Claim** link will load an exit form (see the following screenshot) where configurations for processing the claim are set. Fill the form with the required details and then click the **Confirm Exit Documents Checklist** button (as shown in the next screenshot but one) to confirm receipt of relevant documents from the member.
 
-After confirming that the documents we received by the scheme administrator, click the save button to proceed with the claim process.
+After confirming receipt of documents, click the Save button to proceed with the claim process as shown below:
 
 <img  alt="Initiate Movement/Claim" width="90%" height="auto"  class="center"  src="../media3/contri20.png"> 
 
-
-Below is the **Exit Documents Checklist** window. Select a document from the list and double click each item to confirm receipt of the document, otherwise click the **Receive Document** button to upload the document.
+Clicking the **Confirm Exit Documents Checklist** button, as shown in the previously, will open the Benefits Log Checklist Confirmation window.  Select a document from the list and double click to confirm receipt of the document. Otherwise click the **Receive Document** button to upload the document as shown below:
 
 <img  alt="Exit Documents Checklist" width="90%" height="auto"  class="center"  src="../media3/contri21.png"> 
 
@@ -78,7 +76,6 @@ Clicking the **Movement Processing** link will open the Movement Processing wind
 
 <img  alt="Movement Processing window" width="95%" height="auto"  class="center"  src="../media3/contri23.png"> 
 
-
 ### Benefits Calculation
 
 Clicking the **Show Benefits Calculation** link from the Benefits Calculation  drop-down menu will load the Withdrawal Benefits Calculation form for a selected  member from the list. This will show all the member’s benefits tabulations as 
@@ -88,6 +85,7 @@ shown in a sample screenshot below:
 
 
 ### Claim Status
+
 Next, click the **Proceed Now** button on the Withdrawal Benefits Calculation form to process the payment and save the records awaiting certification towards disbursement of moneys from the scheme accounts. See screenshot below:
 
 <img  alt="claim status" width="90%" height="auto"  class="center"  src="../media3/contri33.png"> 
@@ -97,9 +95,9 @@ Next, click the **Proceed Now** button on the Withdrawal Benefits Calculation fo
 
 After claim processing, all claim records for different members under different retirement reasons are listed in the Claims Payment window awaiting disbursement of moneys.
 
-To view all claims ready for payment, click the **Claim Payments** link to open the Claims Payment window. Locate the **Process Payments** drop-down menu to send the selected claim for payment or unprocess the claim among other options in the list.
+To view all claims ready for payment, click the **Claim Payments** link to open the claim payments window. Locate the **Process Payments** menu and from the drop-down menu select **Send Claims (selected) for Payment** or select **Unprocess Claim (selected)From Accounts** among other actions in the list. 
 
-**Certify** and **Authorize** the claim payment records selected via the **Certification**  drop-down menu and then click the **Register** drop-down menu will give you access  to a window where all effected payments are listed. See the screenshot below:
+From the **Certification** drop-down menu, click to **Certify** and **Authorize** the payment of records selected. Click the **Register** menu and from the drop-down, access windows where all effected payments are listed as shown in the screenshot below:
 
 <img  alt="claim payment" width="95%" height="auto"  class="center"  src="../media3/contri25.png"> 
 

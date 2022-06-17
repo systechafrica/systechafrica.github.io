@@ -1,6 +1,8 @@
 ### Contributions Receivables/Receipts
 
-The links under this category enable access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. Click the links shown below to load the respective windows and set configurations appropriately.
+The links under this category access to windows where the Contributions Billing, Receivables Register, and Receipts Register configurations are set. 
+
+Click the links to load the respective windows and set configurations appropriately shown below:
 
 <img  alt="Transferred in Claims" width="100%" height="auto"  class="center"  src="../media3/contri13.png"> 
 
