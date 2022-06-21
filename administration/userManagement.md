@@ -49,8 +49,6 @@ Clicking the **Allowed Scheme** tab will display a grid table listing all the sc
 
 <img  alt="schemes to user image" width="80%" height="auto"  class="center"  src="../media/adfd8.png">  
 
-
-
 **Action**
 
 -   Click button **labeled 1** to open a dialogue box listing all available schemes from which new schemes can be selected and added to a user’s account as will be shown in the following screenshot.
@@ -59,7 +57,7 @@ Clicking the **Allowed Scheme** tab will display a grid table listing all the sc
 
 -   Click button **labeled 3** to remove select schemes from a user’s assigned schemes.
 
-### Assigning Schemes to User
+## Assigning Schemes to User
 
 Clicking the **Assign Scheme** **to User** tab will open a table grid listing all the schemes in the system so to date.
 
