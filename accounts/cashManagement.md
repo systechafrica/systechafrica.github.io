@@ -23,11 +23,47 @@ Click the **New Cashbook** link from the Cashbook Operations menu, as shown pre
 
 Assumptions in the cashbook creation
 
--   That the chart of accounts is setup
+-   That the chart of accounts is setup.
 
--   That the GL transaction mappings are setup
+-   That the GL transaction mappings are setup.
 
--   That a cash book is related to a GL account
+-   That a cash book is related to a GL account.
+
+
+## Creating Direct Receipt from a cashbook
+
+When a new cashbook is created, it is listed among other prior cashbooks under the **Cashbook Register** window. From this window, it is possible to create a **New Direct Receipt** as demonstrated below:
+
+<img  alt="cashbook register with new direct receipt link" width="95%" height="auto"  class="center"  src="../media4/image3a.png"> 
+
+
+Click the **New Direct Receipt** from the **Operations** menu as shown above to begin creating a receipt by providing the payers details as shown below:
+
+<img  alt="payee/payer details dialog box" width="86%" height="auto"  class="center"  src="../media4/image3b.png"> 
+
+**Note:** clicking to check select available details of a payer will auto refill the details of the payer if no available records, the details should be filled manually.
+
+Clicking the **Save Payer** button in the previous dialog box will open the Direct Receipt Details dialog box where the receipts details are to be provided as shown below:
+
+<img  alt="direct receipt details dialog box" width="86%" height="auto"  class="center"  src="../media4/image3c.png"> 
+
+
+Click the **Add Credit Line** button to map the receipt to the bank account to be credited and provide other details such as taxation information as shown below:
+
+<img  alt="add credit line dialog box" width="86%" height="auto"  class="center"  src="../media4/image3d.png"> 
+
+
+**Note:** Scroll down to fill all the details in the dialog box above and click the **Add** button to return to the Direct Receipt Details dialog box to complete the process.
+
+Clicking the **Save** button on the **Direct Receipts Details** box will save the direct receipt in the **Receipts** window as shown below:
+
+<img  alt="receipt line dialog box" width="95%" height="auto"  class="center"  src="../media4/image3e.png"> 
+
+
+**Note:** The newly created receipt can be located on the grid table by filtering records by date. Select the receipt from the list and from the drop-down menu shown on the upper left side of the window click appropriately to certify, authorize and post the receipt as shown above.
+
+The created receipts can later be tired to a contribution batches until the amount on the receipt is depleted.
+
 
 ## Currencies
 
