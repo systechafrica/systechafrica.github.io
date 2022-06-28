@@ -21,7 +21,6 @@ A successful batch upload of sponsors from a template will result in a display o
 <img  alt="patch sponsors upload" width="85%" height="auto"  class="center"  src="../media2/schemeM32.png"> 
 
 
-
 ## Sponsors List
 A sponsors list is a register within a scheme that stores all the sponsors in a scheme and the member classes within.
 
@@ -29,6 +28,7 @@ Clicking the **Sponsors List** link will load the sponsors window which displays
 **Merge Selected** to make two or more sponsor into one. You can also filter records based on name, reference number or by scheme as shown below:
 
 <img  alt="Sponsors List" width="95%" height="auto"  class="center"  src="../media2/schemeM11.png"> 
+
 
 ## New Sponsor
 

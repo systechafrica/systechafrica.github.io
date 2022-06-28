@@ -171,8 +171,9 @@ Click the **Property List** link to open the properties window where all scheme'
 
 Click the **Units** menu to view a drop-down menu from which a new unit can be created, existing units updated, view existing leases, a list of a property units as shown in the screenshot below:
 
-<img  alt="property units menu" width="46%" height="auto"  class="center"  src="../media7/image16.png">  
+<img  alt="property units menu" width="46%" height="auto"  class="center"  src="../media7/image16.png"> 
 
+**Action**
 
 -   Click **New Unit** to add a unit to a property
 
@@ -224,7 +225,6 @@ Click the **Tenancy Contract** menu to view a drop-down menu from which a new ag
 <img  alt="tenancy contracts window" width="50%" height="auto"  class="center"  src="../media7/image19.png">  
 
 
-
 **Creating a New Agreement**
 
 To create a new unit agreement, select a unit from the grid table and click the **New Agreement** link to open a dialog box and provide details for a new unit agreement as shown below:
@@ -232,13 +232,11 @@ To create a new unit agreement, select a unit from the grid table and click the 
 <img  alt="new agreement dialog box" width="80%" height="auto"  class="center"  src="../media7/image20.png">  
 
 
-
 **Booking/Invoicing property**
 
 Click the **Rent Booking/Invoicing** menu to view a drop-down menu from which a new a rent invoice can be booked among other actions as shown below:
 
 <img  alt="booking propert menu" width="60%" height="auto"  class="center"  src="../media7/image21.png">  
-
 
 
 **Property Acquisition Processing**
@@ -253,13 +251,11 @@ Click **Reserve** menu to process the reservation of a selected property as show
 <img  alt="reserves menu" width="90%" height="auto"  class="center"  src="../media7/image23.png">  
 
 
-
 **Property configuration**
 
 Click the **Property Configuration** menu to open a dialog box for configuring property various property parameter as shown below:
 
 <img  alt="property configurations menu" width="90%" height="auto"  class="center"  src="../media7/image24.png">  
-
 
 
 **Valuations**

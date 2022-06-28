@@ -27,7 +27,7 @@ of such documents is displayed.
 
 ### Receive documents
 
-Click the **Receive Document** button after selecting a member from the list as shown below. Otherwise reverse a document reception, remove applications.
+Click the **Receive Document** button after selecting a member from the list. Otherwise reverse a received document, remove applications among other actions as shown below:
 
 <img  alt="Receive Document" width="95%" height="auto"  class="center"  src="../media3/docchecklistapp.png"> 
 

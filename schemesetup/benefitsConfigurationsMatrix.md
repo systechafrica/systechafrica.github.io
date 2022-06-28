@@ -1,15 +1,13 @@
 ## Introduction
 
-In essence the Benefits Configuration Matrix settings inform the implemtation of laid down
-rules or procedures in the trust deed and rules in regard to each of the item’s listed in the screenshot below. click the links to open appropriete dialogue boxes to configure the different benefits parameters.
+In essence the Benefits Configuration Matrix settings inform the implemtation of laid downrules or procedures in the trust deed and rules in regard to each of the item’s listed in the screenshot below. click the links to open appropriete dialogue boxes to configure the different benefits parameters.
 
 <img  alt="Benefits configuration matrix" width="100%" height="auto"  class="center"  src="../media2/schemeM10.png">  
 
 
 ## Withdrawals
 
-Click on the **Withdrawals** link to open a Withdrawal Configurations
-Matrix dialogue box where a set of parameters informing withrawals are set. See the parameters descriptions after the screenshot below:
+Click on the **Withdrawals** link to open a Withdrawal Configurations Matrix dialogue box where a set of parameters informing withrawals are set. See the parameters descriptions after the screenshot below:
 
 <img  alt="Withdrawals" width="90%" height="auto"  class="center"  src="../media2/schemeM35.png">  
 
@@ -33,36 +31,23 @@ Matrix dialogue box where a set of parameters informing withrawals are set. See 
 
 -   **Tax Employer and Employee benefits differently?** state whether the employer and employee benefits are taxed differently. This is accordance to the trust deed and rules of the scheme in reference to the member’s age.
 
--   **Vesting Date mode:** Here the vesting formulas are used to determine the
-    benefits the withdrawing member will be paid based on the years he or she
-    has been in service. If the member is fully vested, he or she is entitled to
-    the full vested amount but the employer portion is deferred until the member
-    attains the retirement age.
+-   **Vesting Date mode:** Here the vesting formulas are used to determine the benefits the withdrawing member will be paid based on the years he or she has been in service. If the member is fully vested, he or she is entitled to
+    the full vested amount but the employer portion is deferred until the member attains the retirement age.
 
--   **Allowed age for access of benefits:** This condition seeks to establish
-    the date to which the vesting will be calculated from. You are supposed to
-    specify whether it is the date of employment or date of joining scheme.
+-   **Allowed age for access of benefits:** This condition seeks to establish the date to which the vesting will be calculated from. You are supposed to specify whether it is the date of employment or date of joining scheme.
 
--   **Taxable period:** specifies the years of service period in which a member
-    benefits are tax free or tax exempted. If a member withdrawal before this
-    period, he or her benefits are taxed.
+-   **Taxable period:** specifies the years of service period in which a member benefits are tax free or tax exempted. If a member withdrawal before this period, he or her benefits are taxed.
 
--   **Pension service Mode:** specify the initial start date for calculating a
-    member’s service period.
+-   **Pension service Mode:** specify the initial start date for calculating a member’s service period.
 
--   **All withdrawal final salary based?** Specify whether the members’ benefits
-    calculations are based on the final salary.
+-   **All withdrawal final salary based?** Specify whether the members’ benefits calculations are based on the final salary.
 
--   **Adjust cash equivalent for differed pension?** Specify whether to use the
-    cash commutation factors for a withdrawal differed pension calculation
+-   **Adjust cash equivalent for differed pension?** Specify whether to use the cash commutation factors for a withdrawal differed pension calculation
 
--   **Use Linear Interpolation for non-integral ages?** This is a mathematical
-    approach where we use to factors for two subsequent integral values to find
-    out the factor for a middle non-integral value regarding members’ ages. An
+-   **Use Linear Interpolation for non-integral ages?** This is a mathematical approach where we use to factors for two subsequent integral values to find out the factor for a middle non-integral value regarding members’ ages. An
     example is illustrated below:
 
-    *Interpolate the factor for an exit aged 55 years 5months, given the
-    following factor table:*
+    *Interpolate the factor for an exit aged 55 years 5months, given the following factor table:*
 
 | **Age** | **Factor** |
 |---------|------------|
@@ -71,14 +56,11 @@ Matrix dialogue box where a set of parameters informing withrawals are set. See 
 
 **= (12.85 + (5/12 \*0.1)) 12.89**
 
--   **Allow withdrawals in active service?** Specify whether the scheme trust
-    deed and rules allow active member to withdraw from the scheme by checking
-    the check box on this option.
+-   **Allow withdrawals in active service?** Specify whether the scheme trust deed and rules allow active member to withdraw from the scheme by checking the check box on this option.
 
 ## Death Claim Configuration Matrix
 
-Clicking on the **Death Claim Configuration** link to open a Death Claim
-Configuration Matrix dialog box where a set of parameters informing death claims are set. See the parameters descriptions after the screenshot below: 
+Clicking on the **Death Claim Configuration** link to open a Death Claim Configuration Matrix dialog box where a set of parameters informing death claims are set. See the parameters descriptions after the screenshot below: 
 
 <img  alt="Death Claim Configuration" width="90%" height="auto"  class="center"  src="../media2/schemeM60.png">  
 
@@ -91,116 +73,96 @@ Configuration Matrix dialog box where a set of parameters informing death claims
 
 **Parameter Description**
 
--   **Vesting Date Mode**: specify the initial start date for calculating a
-    member’s full vesting period.
+-   **Vesting Date Mode**: specify the initial start date for calculating a member’s full vesting period.
 
--   **Pension service Mode**: specify the initial start date for calculating a
-    member’s service period.
+-   **Pension service Mode**: specify the initial start date for calculating a member’s service period.
 
--   **Add prospective service to pensionable service**? This condition seeks to
-    establish whether the member’s beneficiaries will be paid benefits of the
-    member’s years of service served until death or the full member benefits.
+-   **Add prospective service to pensionable service**? This condition seeks to establish whether the member’s beneficiaries will be paid benefits of the member’s years of service served until death or the full member benefits.
 
--   **Are beneficiaries Pensionable?** Specify whether the beneficiary will be
-    entered in the pensioners’ payroll or they will just be paid the gratuity
-    amount.
+-   **Are beneficiaries Pensionable?** Specify whether the beneficiary will be entered in the pensioners’ payroll or they will just be paid the gratuity amount.
 
--   **If pensionable, is pension reduced?** Specify whether the beneficiary’s
-    pension is reduced; a reduced pension refers to where a third of the pension
-    is paid as lump sum and the two thirds are paid out as pension installments.
+-   **If pensionable, is pension reduced?** Specify whether the beneficiary’s pension is reduced; a reduced pension refers to where a third of the pension is paid as lump sum and the two thirds are paid out as pension installments.
 
--   **Does beneficiary pension reduce over time?** Specify whether the
-    beneficiaries pension reduces over time; a pension can be full rate years or
-    reduced rate years.
+-   **Does beneficiary pension reduce over time?** Specify whether the beneficiaries pension reduces over time; a pension can be full rate years or reduced rate years.
 
--   **Full rate years:** This refers to the period in years a beneficiary is
-    paid the actual pension amount.
+-   **Full rate years:** This refers to the period in years a beneficiary is paid the actual pension amount.
 
--   **Reduced rate years:** This refers to the period in years after which the
-    beneficiary’s actual pension amount is reduced. A reduced pension amount is
-    arrived at through the use of reducing rate factors.
+-   **Reduced rate years:** This refers to the period in years after which the beneficiary’s actual pension amount is reduced. A reduced pension amount is arrived at through the use of reducing rate factors.
 
--   **Tax death in service benefits?** The death in service tax is done on any
-    member benefits amount over Ksh 1.4 million.
+-   **Tax death in service benefits?** The death in service tax is done on any member benefits amount over Ksh 1.4 million.
 
--   **Refund contribution?** Specify whether the pension schemes refunds the
-    employee contributions funds which are paid to the beneficiaries.
+-   **Refund contribution?** Specify whether the pension schemes refunds the employee contributions funds which are paid to the beneficiaries.
 
--   **Additional pension payable if deceased while on duty?** Specify whether
-    there is any additional payable pension if the deceased passed on while on
-    duty.
+-   **Additional pension payable if deceased while on duty?** Specify whether there is any additional payable pension if the deceased passed on while on duty.
 
--   **Spouse pension guaranteed for life?** Specify whether the spouse pension
-    is guaranteed for life.
+-   **Spouse pension guaranteed for life?** Specify whether the spouse pension is guaranteed for life.
 
--   **Child pension guaranteed for life**? Specify whether the beneficiary’s
-    pension is guaranteed for life.
+-   **Child pension guaranteed for life**? Specify whether the beneficiary’s pension is guaranteed for life.
 
--   **Is death gratuity payable**: Gratuity is a multiple of a member’s salary,
-    specify whether it is payable or not.
+-   **Is death gratuity payable**: Gratuity is a multiple of a member’s salary, specify whether it is payable or not.
 
--   **Is Death gratuity is payable is it factor of the final salary?** Specify
-    whether the gratuity payable is a factor of the final salary
+-   **Is Death gratuity is payable is it factor of the final salary?** Specify whether the gratuity payable is a factor of the final salary
 
--   **Qualified salary factor:** There is a limit to the years of service for a
-    member to qualify for gratuity. There are also factors for gratuity based on
-    the service periods. Qualified salary factor refers to the members who have
+-   **Qualified salary factor:** There is a limit to the years of service for a member to qualify for gratuity. There are also factors for gratuity based on the service periods. Qualified salary factor refers to the members who have
     qualified for gratuity.
 
--   **Unqualified salary factor:** this refers to the factors for the members
-    who have not qualified for gratuity.
+-   **Unqualified salary factor:** this refers to the factors for the members who have not qualified for gratuity.
 
--   **Is death gratuity from scheme?** Specify whether the gratuity is being
-    paid by the scheme. In some schemes, gratuity is paid by the sponsor or by
-    the insurer for the insured schemes.
+-   **Is death gratuity from scheme?** Specify whether the gratuity is being paid by the scheme. In some schemes, gratuity is paid by the sponsor or by the insurer for the insured schemes.
 
--   **Is maximum gratuity applicable?** Specify whether there is an applicable
-    maximum gratuity.
+-   **Is maximum gratuity applicable?** Specify whether there is an applicable maximum gratuity.
 
--   **Maximum gratuity:** This is the maximum allowable gratuity amount. Any
-    excess amount above goes to the pension portion.
+-   **Maximum gratuity:** This is the maximum allowable gratuity amount. Any excess amount above goes to the pension portion.
 
--   **Period to qualify for full gratuity:** Specify the service period a member
-    requires qualifying for full gratuity.
+-   **Period to qualify for full gratuity:** Specify the service period a member requires qualifying for full gratuity.
 
 ## Minors Funds Configurations
+
 Click the **Minors Funds Configurations** link to open a Minors Funds Configurations dialog window and set the configurations as shown the screenshot below:
 
 <img  alt="Minors Funds Configurations" width="90%" height="auto"  class="center"  src="../media2/schemeM45.png">  
 
 
 ## Retirements
+
 Click the **Retirements** link to open a Retirement Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
 <img  alt="Retirements" width="90%" height="auto"  class="center"  src="../media2/schemeM76.png">  
 
 
 ##  Medical
+
 Click the **Medical** link to open a Medical Configuration Matrix dialog window and set the configurations as shown the screenshot below:
 
 <img  alt="Medical" width="90%" height="auto"  class="center"  src="../media2/schemeM36.png">  
 
 **Parameter Description**
+
 - **Does member qualify for pension?** Specify whether the member qualifies for the pension on medical grounds in that he or she has been incapacitated to work.
+- 
 - **If yes, is pension reduced or unreduced?** Specify whether the pension will be paid as a lump sum followed with pension installments.
+- 
 - **Additional benefits provided if impaired while on duty?** Specify if there are any additional benefits if the member was impaired in the line of duty.
+- 
 - **Tax medical lump sum?** Specify whether the medical lump sum is subject to taxation.
+- 
 - **Pension service Mode:** specify the initial start date for calculating a member’s service period.
 
 ## Claims Computation
 
-Click the **Claims Computation** link to load the dialogue box through
-which the settings are configured as shown below:
+Click the **Claims Computation** link to load the dialogue box through which the settings are configured as shown below:
 
 <img  alt="Claim Computation" width="90%" height="auto"  class="center"  src="../media2/schemeM6.png">  
 
 **Tip**
 
-The parameters here are set to determine how the scheme’s claim processes
-are handled by the system. 
+The parameters here are set to determine how the scheme’s claim processes are handled by the system. 
 
 
 ## Trivial Pension Configurations
+
+The trivial pension is the minimum pension amount that can be paid to a scheme member.
+
 Click the Trivial Pension Configurations link to open a Trivial Pensions Configurations dialog window and set the configurations as shown the screenshot below:
 
 <img  alt="Trivial Pension Configurations" width="90%" height="auto"  class="center"  src="../media2/schemeM79.png">  
