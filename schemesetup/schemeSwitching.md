@@ -12,27 +12,28 @@ Clicking this link will open the Exiting Users window displaying a grid table li
 <img  alt="existing users image" width="95%" height="auto"  class="center"  src="../media2/schemeM72.png">  
 
 
-Clicking the Details button will open the User Details window which shows **Allowed Schemes**, **Sponsors** and **MemberClasses**. Click the Allowed Schemes tab and assign Scheme to User as shown below:
+Clicking the Details button will open the User Details window which shows **Allowed Schemes**, **Sponsors** and **MemberClasses**. Click the Allowed Schemes tab and assign Scheme(s) to User as shown below:
 
 <img  alt="user details window image" width="80%" height="auto"  class="center"  src="../media2/schemeM47.png"> 
 
 
 **Action**
 
--   Click button **labeled 1** to open a window listing all available schemes from which new schemes can be selected and added to a user’s Allowed Scheme.
+-   Click button **labelled 1** to open a window listing all available schemes from which new schemes can be selected and added to a user’s Allowed Scheme.
 
--   Click button **labeled 2** to open a window listing all available schemes from which new schemes can be added to the profile category that this user belongs to.
+-   Click button **labelled 2** to open a window listing all available schemes from which new schemes can be added to the profile category that this user belongs to.
 
--   Click button **labeled 3** to remove a select record from a user’s assigned schemes.
+-   Click button **labelled 3** to remove a select record from a user’s assigned schemes.
+  
 
-Clicking the **Assign Schemes to User button** will open another window from which you can select the scheme(s) to allow a user access to as shown below:
+Clicking the **Assign Schemes to User button** will open another window from which a scheme(s) to allow can be selected as shown below:
 
 <img  alt="pick allowed scheme window image" width="80%" height="auto"  class="center"  src="../media2/schemeM42.png"> 
 
 
 **Action**
 
--   Click the **checkboxe**s to select the Schemes to be allowed for the user. Then click the button on the upper right side of the window to display a drop-down menu and click the Allow Selected Schemes button to commit the changes.
+-   Click the **checkboxes** to select the Schemes to be allowed for the user. Then click the button on the upper right side of the window to display a drop-down menu and click the Allow Selected Schemes button to commit the changes.
 
 -   Otherwise, if the user need access to all available schemes, then select the **Allow All Schemes** in the drop-down list as shown above.
 
