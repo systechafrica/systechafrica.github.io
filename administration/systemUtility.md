@@ -34,6 +34,7 @@ Click the **Report Server** link to open a **Report Server Config** dialogue box
 -   Click **label 6** button to create a new mapping: connect a scheme to the selected report configuration.
 
 -   Click **label 7** button to remove a selected scheme mapping.
+-   
 
 ### Creating a report configuration
 
@@ -41,11 +42,13 @@ Clicking the **New Configuration** button will open a dialogue box where setting
 
 <img  alt="New Report configurations image" width="70%" height="auto"  class="center"  src="../media/adfd25.png">  
 
+
 ### Uploading report logos
 
 To upload logos for use in the system generated reports, select the configuration whose reports need logos. Locate the list on the report's configuration window. Then click the **Upload/Edit logo** button to open a dialogue box and upload the logos as shown below:
 
 <img  alt="Uploading report logos image" width="90%" height="auto"  class="center"  src="../media/adfd26.jpg">  
+
 
 **Action**
 

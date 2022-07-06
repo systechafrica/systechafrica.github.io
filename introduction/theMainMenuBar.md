@@ -21,11 +21,11 @@ Located on the lowermost side of the menu bar are more controls that enable othe
  
  ## Product Setup
 
-Clicking the **Product Setup** link labeled 2(d), will open a window displaying a list of all fund products in the system under the product tab and a list of product categories as shown in the next screenshot.
+Clicking the **Product Setup** link labelled 2(d), will open a window displaying a list of all fund products in the system under the product tab and a list of product categories as shown in the next screenshot.
 
 ## Products
 
-Clicking the **Product** tab will open a window displaying a list of all fund products. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
+Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
 
 <img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../media/adfd15.png">   

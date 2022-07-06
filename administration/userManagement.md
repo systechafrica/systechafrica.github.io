@@ -4,7 +4,7 @@ User accounts are individual accounts for the system users. User accounts are as
 
 ## Existing Users
 
-Clicking the **Existing Users** link will open the Existing Users window where a grid table listing all system users and their specific details is displayed as shown below:
+Clicking the **Existing Users** link will open the Existing Users window where a grid table listing all system users and their specific details are displayed as shown below:
 
 <img  alt="system users image" width="95%" height="auto"  class="center"  src="../media/adfd21.png">  
 
@@ -26,6 +26,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 -   Click **label 7** button to migrate allowed schemes.
 
 -   Click **label 8** button to view a print copy of users details.
+-  
 
 ## Adding a New User
 
@@ -36,11 +37,11 @@ Clicking the **New User** button will open a New User Details dialogue box. To s
 
 **Action**
 
--   Click **labeled 1** button to see all the schemes that the user is allowed to access as will be shown in the next screenshot.
+-   Click **label 1** button to see all the schemes that the user is allowed to access as will be shown in the next screenshot.
 
--   Click **labeled 2** button to see all the sponsors that the user is allowed to access.
+-   Click **label 2** button to see all the sponsors that the user is allowed to access.
 
--   Click **labeled 3** button to see all the classes that the user is allowed to access.
+-   Click **label 3** button to see all the classes that the user is allowed to access.
 
 
 ## Allowing Schemes Access to Users
@@ -51,15 +52,17 @@ Clicking the **Allowed Scheme** tab will display a grid table listing all the sc
 
 **Action**
 
--   Click button **labeled 1** to open a dialogue box listing all available schemes from which new schemes can be selected and added to a user’s account as will be shown in the following screenshot.
+-	Click button **labelled 1** to open a dialog box listing all available schemes from which new schemes can be selected and added to a user’s account as will be shown in the following screenshot. 
 
--   Click button **labeled 2** to open a dialogue box listing all available schemes from which new schemes can be selected and added to the profile category of the user.
+-	Click button **labelled 2** to open a dialog box listing all available schemes from which new schemes can be selected and added to the profile category of the user.
 
--   Click button **labeled 3** to remove select schemes from a user’s assigned schemes.
+-	Click button **labelled 3** to remove select schemes from a user’s assigned schemes.
+
+  
 
 ## Assigning Schemes to User
 
-Clicking the **Assign Scheme** **to User** tab will open a table grid listing all the schemes in the system so to date.
+Clicking the **Assign Scheme to User** tab will open a grid table listing all the schemes in the system to date.
 
 Locate the button on the upper-right side from which selected schemes or all schemes in the list can be picked and assigned to a user as shown in the screenshot below:
 
@@ -68,6 +71,6 @@ Locate the button on the upper-right side from which selected schemes or all sch
 
 **Action**
 
--   Find a Scheme quickly from the list by typing a name on the **search box**; select the Plan Type from the drop-down box and click the Filter button.
+-   Find a Scheme quickly from the list by typing a name on the **search box**; select the Plan Type from the drop-down box and click the **Filter** button.
 
--   Click the checkboxes to select Schemes and then click the button on the upper-right side to display a drop-down menu. Click either **Allow Selected** **Schemes** or **Allow All Schemes** to allow access to the  schemes respectively.
+-   Click the checkboxes to select Schemes and then click the button on the upper-right side to display a drop-down menu. Click either **Allow Selected Schemes** or **Allow All Schemes** to allow access to the  schemes respectively.

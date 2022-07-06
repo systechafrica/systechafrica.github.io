@@ -22,11 +22,19 @@ Conceptually, FundMaster Xe adopts a “Top-down design;” a software design te
 
 The system integrates the following supporting modules for efficacy:
 
--	**The administrative panel:** This module helps in the management of rights and permissions access through the creation of profiles and user accounts.
--	**Scheme setup module:** this module helps in the implementation or setting up of the Trust Deed and Rules of a pension scheme.
+-	**The administrative panel:** This module aids in the management of rights and permissions access through the creation of profiles and user accounts.
+
+-	**Scheme setup module:** this module aids in the implementation or setting up of the Trust Deed and Rules of a pension scheme.
+	
 -	**Member Register:** The member register is a container that holds pension scheme active and inactive (deferred) members.
+
 -	**Pensioner Register:** The pensioners’ register is a container that holds pension scheme pensioners and their related beneficiaries.
+
 -	**Accounting Module:** The Accounting module manages the financial records and their related reports of a pension scheme.
--	**Investments module:** The investments module manages the various investments asset classes or categories of a pension scheme.
+
+-	**Investments module:** The investments module manages the various investment asset classes or categories of a pension scheme.
+
 -	**Fees and commissions:** This module help in the management of administrative services fees and agency services commissions.
+
 -	**Workflow management module:** This module aids in the distribution of the systems core processes by routing tasks to the responsible users through a sequential progression of work activities.
+

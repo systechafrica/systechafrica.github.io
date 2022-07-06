@@ -7,11 +7,13 @@ To access the Scheme Setup dashboard, click the **Scheme Setup** link on the Fun
 
 <img  alt="scheme setup dashboard image" width="95%" height="auto"  class="center"  src="../media2/schemeM44.jpg">  
 
+
 **Action**
 
 -   Click the links under the section **labeled 1** to configure Scheme Setup, Benefits Configuration Matrix, among other settings.
 
 -   Click the menu items listed on the left side panel in section **labeled 2** to configure other Scheme related settings such as Scheme Approval.
+-   
 
 **Tip**
 
@@ -22,9 +24,10 @@ All the links under **label 1** can still be accessed on the left side panel alt
 
 Access more Scheme configuration links from the left side panel of the **Setup Links** Window.
 
-Note that the links are arranged into categories making the order of configurations convenient. See the screenshot shown below:
+**Note** all the links are arranged into categories making the order of configurations convenient. See the screenshot shown below:
 
 <img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="../media2/schemeM69.png">  
+
 
 **Action**
 
