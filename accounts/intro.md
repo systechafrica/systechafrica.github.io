@@ -11,7 +11,7 @@ To access the Accounts Module dashboard, click the **Accounts Module** link on t
 
 **Action**
 
--	Click the links under the section **labelled 1** to access the shortcut route to set key configurations such as Exchange Rates, Charts of Accounts, and Inter-company Transaction Register, among others.
+- Click the hot links under the section **labelled 1** to access shortcut routes to commonly visited links in the accounts module.
 
 -	Click the menu item links listed on the left side panel in the section **labelled 2** to configure all Accounts related settings such as Staff Payroll.
 

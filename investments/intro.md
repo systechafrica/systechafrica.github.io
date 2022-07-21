@@ -12,9 +12,9 @@ To access the investments Module dashboard, click the **Investments Module** lin
 
 **Action**
 
--   Click the links under the section **labeled 1** to access shortcut route to set key configurations such as property register, stockbrokers, property managers among others.
+- Click the hot links under the section **labelled 1** to access shortcut routes to commonly visited links in the investment module.
 
--   Click the menu item links listed on the left side panel in section **labeled 2** to configure all investments related settings such as equities.
+-   Click the menu item links listed on the left side panel in section **labelled 2** to configure all investments related settings such as equities.
 
 **Tips**
 

@@ -11,13 +11,13 @@ To access the investments Module dashboard, click the **Workflow Module** link o
 
 **Action**
 
--   Click the links under the section **labeled 1** to access shortcut route to set key configurations such as process register, personal tasks, overdue tasks among others.
+-   Click the hot links under the section **labelled** 1 to access shortcut routes to commonly visited links in the workflow management module.
 
--   Click the menu item links on the left side panel in section **labeled 2** to access all links for configuring all workflow related settings.
+-   Click the menu item links on the left side panel in section **labelled 2** to access all links for configuring all workflow related settings.
 
--   Click the menu item links in section **labeled 3** to navigate to other modules in the system.
+-   Click the menu item links in section **labelled 3** to navigate to other modules in the system.
 
--   Click the menu item link in section **labeled 4** to open the workflow analytics window to view analyzed data on all the workflow processes.
+-   Click the menu item link in section **labelled 4** to open the workflow analytics window to view analyzed data on all the workflow processes.
 
 **Tips**
 

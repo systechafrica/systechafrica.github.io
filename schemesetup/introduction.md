@@ -10,9 +10,9 @@ To access the Scheme Setup dashboard, click the **Scheme Setup** link on the Fun
 
 **Action**
 
--   Click the links under the section **labeled 1** to configure Scheme Setup, Benefits Configuration Matrix, among other settings.
+-   Click the hot links under the section **labelled** 1 to access shortcut routes to commonly visited links in the scheme setup module.
 
--   Click the menu items listed on the left side panel in section **labeled 2** to configure other Scheme related settings such as Scheme Approval.
+-   Click the menu items listed on the left side panel in section **labelled 2** to configure other Scheme related settings such as Scheme Approval.
 -   
 
 **Tip**

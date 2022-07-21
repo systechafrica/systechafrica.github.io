@@ -14,7 +14,7 @@ To create a new scheme, click the **New Scheme** link to open a **Scheme Details
 
 **Tips**
 
-The **Take On Date** is configured to determine the Financial Periods while the **Date of Commencement** denotes the date when the Scheme was started.
+- The **Take On Date** is configured to determine the Financial Periods while the **Date of Commencement** denotes the date when the Scheme was started.
 
 
 ## Basic Scheme Details

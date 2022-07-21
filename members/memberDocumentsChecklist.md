@@ -56,4 +56,3 @@ To upload a document, click the **Receive Document** button after selecting a me
 
 
 <img  alt="Receive Document" width="95%" height="auto"  class="center"  src="../media3/docchecklistapp.png"> 
-
