@@ -2,7 +2,7 @@
 
 For successful registration of members, the administrators of a scheme will need the members to submit specific documents as a requirement for the registration process. The screenshot below shows the window through which a list of such documents is displayed:
 
-<img  alt="Members Document Checklist" width="95%" height="auto"  class="center"  src="../media3/memberdocchecklist.png"> 
+<img  alt="Members Document Checklist" width="97%" height="auto"  class="center"  src="../media3/memberdocchecklist.png"> 
 
 
 **Action**

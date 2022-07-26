@@ -1,6 +1,6 @@
 ### Members Module Configs
 
-The Members Module enables the registration of members into a scheme. The members are connected to their respective sponsors through member classes: this association makes the management of members’ contributions and other operations possible. Additionally, the Module allows viewing of existing members, onboarding members, uploading members’ contributions, and running claim processes. 
+The Members Module enables the registration of members (contributors)into a scheme. The members are connected to their respective sponsors (employers) through Cost Centers. This association makes the management of different sponsors, members’ contributions, and other operations possible. Additionally, the module allows viewing of existing members, onboarding members, uploading members’ contributions, and running claim processes. 
 
 Below is a screenshot of the Members Module dashboard with the left side panel expanded to reveal links to different configuration windows:
 
@@ -32,7 +32,6 @@ For efficient upload of members’ details, their beneficiaries, contributions, 
 
 There are two ways in which you can upload member data into the system’s member register:
 
-**1.**	A single member can be added by filling in details in a member’s details form. The added member must then be approved via the **Member Approval** to officially be saved in the member’s register.
+**1.**	A single member can be added by filling in details in a member’s details form. The added member must then be approved via the **Member Approval** window to officially be saved in the member’s register.
 
-**2.**	More than one member can be added in a batch using a template file (e.g., MS Excel) which is filled with the member’s details and then imported into the system. 
- 
+**2.**	More than one member can be added in a batch using a template file (e.g., MS Excel) which is filled with the member’s details and then uploaded into the system. 

@@ -1,7 +1,6 @@
 ### Batch Contributions Register
 
-After batch contributions are successfully uploaded into the system, they are
-collectively saved in a register where all the members batch contributions are
+After batch contributions are successfully uploaded into the system, they are collectively saved in a register where all the members batch contributions are
 tabulated based on the different sponsors in the scheme. To open this register,
 click the **Batch Contributions Register** link to view batch records as shown below:
 

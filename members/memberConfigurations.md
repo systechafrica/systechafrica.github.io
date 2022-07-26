@@ -1,16 +1,19 @@
 ### Members Module Configurations
 
-Before the actual onboarding of members, several configurations need to be set based on the needs and expectations of a particular scheme and the organizations participating. Such configs are Compulsory Fields Configurations Matrix and Members Document Checklist among others.
+Before the actual onboarding of members, several configurations need to be set based on the needs and expectations of a particular scheme and the participants. Such configs are **Compulsory Fields Configurations Matrix** and **Members Document Checklist** among others. To set these configs, click on the links shown below:
+
+<img  alt="members module configurations menu" width="95%" height="auto"  class="center"  src="../media3/memberconfigsmenu.png"> 
+
 
 ### Compulsory Fields Configuration Matrix
 
-Before filling the members’ registration form with data, configure the mandatory fields that need to be filled. This is informed by the fact that different schemes would need different data from participating members. Below is a screenshot of the dialog box. Set **Yes** or **No** for selected items:
+Click the **Compulsory Fields Configuration Matrix** link to open a dialog box where the mandatory fields (that need to be filled are configured) are set to **Yes** or **No**. See screenshot below: 
 
 <img  alt="Compulsory Fields Configuration Matrix" width="80%" height="auto"  class="center"  src="../media3/cfcmatrix.png"> 
 
 
 ### Other Member Settings
 
-Fill in the form below to configure other member-related settings such as issues to do with member statements:
+Click the **Other Members Settings** link to open a dialog box and select Yes or No for the parameters listed as shown below: 
 
 <img  alt="Other Member Settings" width="70%" height="auto"  class="center"  src="../media3/othermemberconfigs.png"> 
