@@ -19,7 +19,7 @@ For successful registration of members, the administrators of a scheme will need
 
 -	Click **label 6** button to get information regarding what the document checklist is.
 
--	Click **label 7** to view a print layout copy of checklist listing, compliance report, etc.
+-	Click **label 7** button to view a print layout copy of checklist listing, compliance report, etc.
 
 -	Click **label 8** button to open a grid table on the lower side of the window showing members’ document checklist application. The documents from members can be received, reversed, or removed.
 
