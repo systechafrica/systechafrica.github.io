@@ -1,6 +1,6 @@
 ## Sponsor Creation Process
 
-The word Sponsor is used in FundMaster to denote an employer. Providing sponsor details in a scheme is key; the following section demonstrates how this can be achieved in the system. Locate the Sponsors sub-menu from the scheme setup window’s left sidebar panel as shown below:
+The word Sponsor is used in FundMaster to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). Providing sponsor details in a scheme is key - the following section demonstrates how this can be achieved in the system. Locate the Sponsors sub-menu from the scheme setup window’s left sidebar panel as shown below:
 
 <img  alt="Sponsor" width="100%" height="auto"  class="center"  src="../media2/schemeM65.png"> 
 
@@ -74,9 +74,9 @@ Click the **Supervisors** link to open the Supervisors window where all the supe
 
 ## Cost Centers
 
-Cost Centers are configured to help manage membership of a scheme which spans geographic areas, branches, departments, or any other form of categorization.
+Cost Centers are created to aid in the management of sponsors in a scheme with more than one sponsors – these types of schemes are known as umbrella schemes. 
 
-Click the **Cost Center** link to open the Cost Center window and then click the **New Cost Center** to create a new center as shown below:
+To create a new cost center, click the **Cost Center** link to open the Cost Center window and then click the **New Cost Center** to create a new center as shown below:
 
 <img  alt="Cost Center" width="90%" height="auto"  class="center"  src="../media2/schemeM31.png"> 
 
@@ -93,7 +93,7 @@ Click the **Principal Officer** link to open the Principal Officers window which
 
 ## Member Classes
 
-Member Classes are configured to help manage members in a scheme where a sponsor has different categories of members either because they span geographic locations, branches, job grades or any other form of categorization.
+Member Classes are created to aid in the managementr of members in a scheme where a sponsor has different categories of members either because they span geographic locations, branches, job grades (with different contribution rates) or any other form of categorization. 
 
 Click the **Member Classes** link to open the Member Classes window where a list of sponsors and their member classes are listed in a grid table. To create a new member class, click the **New Member Class** button to open a Member Class Details dialog box for capturing a new member class details as shown in the screenshot below:
 

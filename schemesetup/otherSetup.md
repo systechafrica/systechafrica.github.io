@@ -1,16 +1,13 @@
 ## Other Scheme Setup configs
 
-Configurations under **Other Setup** category enable formulation of interests, penalties,
-setting up pay points, actuarial valuations etc. The screenshot below shows a
-section within Setup Links left side panel where the various links are accessed from: 
+Configurations under **Other Setup** sub menu enable formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a section within the Setup Links left side panel where the various links are accessed.
 
 <img  alt="other setup links" width="100%" height="auto"  class="center"  src="../media2/schemeM4.png"> 
 
 
 ## Pay Points
 
-Click the **Pay Points** link to open a Pay Points window and then click the
-**New Pay Point** button to capture details for a new Pay Point as shown below:
+Click the **Pay Points** link to open a Pay Points window and then click the **New Pay Point** button to capture details for a new Pay Point as shown below:
 
 <img  alt="pay points" width="90%" height="auto"  class="center"  src="../media2/schemeM3.png"> 
 
