@@ -26,7 +26,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 -   Click **label 7** button to migrate allowed schemes.
 
 -   Click **label 8** button to view a print copy of users details.
--  
+
 
 ## Adding a New User
 
