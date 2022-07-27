@@ -18,4 +18,4 @@ To access the Accounts Module dashboard, click the **Accounts Module** link on t
 
 **Tip**
 
-All the links under **label 1** can still be accessed on the left side panel although some are tacked under sub-menus.
+All the links under **label 1** can also be accessed on the left side panel although some are tacked under sub-menus.

@@ -2,7 +2,7 @@
 
 The access links under the Admin Panel menu allow viewing of a list of all processes categories and task instances and other parameters. Click the links to open their respective windows as shown below:
 
-<img  alt="workflow admin panel image" width="95%" height="auto"  class="center"  src="../media6/image5.png">  
+<img  alt="workflow admin panel image" width="98%" height="auto"  class="center"  src="../media6/image5.png">  
 
 
 ## Process Register
@@ -62,11 +62,13 @@ Clicking the **Other Parameters** link will open the other parameters window whe
 
 To configure a non-working day, click the **Add Day** button to open a dialog box to set the day and Add Holiday button to set a day as holiday among other settings such as removing a set day as shown below:
 
-<img  alt="other parameters image" width="90%" height="auto"  class="center"  src="../media6/image9.png">  
+<img  alt="other parameters image" width="90%" height="auto"  class="center"  src="../media6/image9.png"> 
+
 
 To configure a non-working day, click the **Add Day** button will open a dialog box for setting up the day as shown below:
 
 <img  alt="non working day image" width="70%" height="auto"  class="center"  src="../media6/image10.png">  
+
 
 To configure a holiday, click the **Add Holiday** button will open a dialog box for setting up the day as shown below:
 

@@ -52,11 +52,11 @@ Clicking the **Allowed Scheme** tab will display a grid table listing all the sc
 
 **Action**
 
--	Click button **labelled 1** to open a dialog box listing all available schemes from which new schemes can be selected and added to a user’s account as will be shown in the following screenshot. 
+-	Click the button **labelled 1** to open a dialog box listing all available schemes from which new schemes can be selected and added to a user’s account as will be shown in the following screenshot. 
 
--	Click button **labelled 2** to open a dialog box listing all available schemes from which new schemes can be selected and added to the profile category of the user.
+-	Click the button **labelled 2** to open a dialog box listing all available schemes from which new schemes can be selected and added to the profile category of the user.
 
--	Click button **labelled 3** to remove select schemes from a user’s assigned schemes.
+-	Click the button **labelled 3** to remove select schemes from a user’s assigned schemes.
 
   
 

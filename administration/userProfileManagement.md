@@ -70,4 +70,3 @@ After clicking the **Filter** button, a grid table listing all **Permissions** i
 -	Click the button **labelled 7** to undo the inherited process.
 
 -	Select an option from the print drop-down menu **labelled 8** to view a print layout copy of Permission details.
-
