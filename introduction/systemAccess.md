@@ -11,6 +11,7 @@ After inputting the access IP address, a user is directed to the login page wher
 **Note:** to successfully access the login page, the IP address must be correct and the local area connection stable. The following is a screenshot of the login page:
 
 <img  alt="Login Image" width="35%" height="auto"  class="center"  src="../media/adfd10.png">   
+
   
 **Action**
 
@@ -22,11 +23,13 @@ After inputting the access IP address, a user is directed to the login page wher
 
 **Note:** the system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
+
 ## Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
 
 <img  alt="Landing Page Image" width="95%" height="auto"  class="center"  src="../media/adfd17.png">  
+
 
 The circled numbers in the screenshot above correspond to the numbers in the following table that describe the key navigation clickable elements on the FundMaster landing page:
 
