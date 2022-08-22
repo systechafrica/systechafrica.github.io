@@ -1,9 +1,9 @@
 ## Member Class Configurations
 
-Configurations under **Member Class Specific Info** category inform how members of a particular class in a scheme are to
-be handled apart from those of other classes within the same scheme in the case of defining contributions rates, retirement age and eligible age.
+These configurations inform how a member of a particular class in a scheme is to be treated apart from a member from another class within the same sponsor.
 
-To configure these settings, on the scheme setup left side menu panel, locate the access links as shown below:
+The screenshot below shows a drop-down submenu with links through which different setups are done:
+
 
 <img  alt="Member Class Specific Info" width="100%" height="auto"  class="center"  src="../media2/schemeM59.png"> 
 

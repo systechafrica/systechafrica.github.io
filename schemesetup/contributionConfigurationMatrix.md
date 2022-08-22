@@ -2,7 +2,8 @@
 
 This matrix addresses issues such as how to treat additional voluntary contributions by a member’s employer, severance, and contribution underpayments.
 
-To set parameters for these items, locate the **Contribution Configuration Matrix** link from the scheme setup left side panel as shown below:
+To set parameters for these items, locate the **Contribution Configuration Matrix** link from the drop-down submenu as shown below:
+
 
 <img  alt="Contribution Configuration Matrix" width="100%" height="auto"  class="center"  src="../media2/schemeM49.png">
 

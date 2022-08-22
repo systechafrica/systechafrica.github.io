@@ -1,6 +1,6 @@
 ### Receivable/Receipts
 
-Configurations set under the Receivable/Receipts category are set to aid in the management of money that is flowing into a scheme. Click a link to open the respective window for specific configurations as shown below: 
+Configurations under the Receivable/Receipts category are set to aid in the management of money that is flowing into a scheme. Click on the drop-down submenu links to open the respective windows for specific configurations as shown below: 
 
 <img  alt="Receivable/Receipts" width="100%" height="auto"  class="center"  src="../media4/acc002.png"> 
 

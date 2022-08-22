@@ -1,6 +1,6 @@
 ## Creditors/Debtors
 
-The Creditors/Debtors menu provides access links to windows where the respective registers are located. Click the links highlighted below to view specific registers: 
+The Creditors/Debtors drop-down submenu provides access links to windows where the respective registers are located. Click the links highlighted below to view specific registers: 
 
 <img  alt="Creditors/Debtors" width="100%" height="auto"  class="center"  src="../media4/acc020.png"> 
 

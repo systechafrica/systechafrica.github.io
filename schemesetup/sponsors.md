@@ -1,6 +1,6 @@
 ## Sponsor Creation Process
 
-The word Sponsor is used in FundMaster to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). Providing sponsor details in a scheme is key - the following section demonstrates how this can be achieved in the system. Locate the Sponsors sub-menu from the scheme setup window’s left sidebar panel as shown below:
+The word Sponsor is used in the system to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). The following section demonstrates how sponsors are created and managed in the system. Locate the Sponsors drop-down submenu as shown below:
 
 <img  alt="Sponsor" width="100%" height="auto"  class="center"  src="../media2/schemeM65.png"> 
 

@@ -37,4 +37,3 @@ The system integrates the following supporting modules for efficacy:
 -	**Fees and commissions:** This module help in the management of administrative services fees and agency services commissions.
 
 -	**Workflow management module:** This module aids in the distribution of the systems core processes by routing tasks to the responsible users through a sequential progression of work activities.
-

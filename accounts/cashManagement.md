@@ -1,6 +1,6 @@
 ### Cash Management
 
-The Cash Management menu provides access links to windows where respective configurations are listed in grid tables, and new ones are set. Click the links highlighted below to access specific windows:
+The Cash Management menu provides access links to windows where respective configurations related to cash transactions in a scheme are listed in grid tables, and new ones are set. Click the links under the highlighted drop-down submenus shown below to access specific dialog boxes to set various configurations:
 
 <img  alt="Cash Management" width="100%" height="auto"  class="center"  src="../media4/image1.png"> 
 
@@ -26,12 +26,12 @@ Assumptions in the cashbook creation:
 - That the chart of accounts is set up.
 
 - That the GL transaction mappings are set up.
-- 
+  
 - That a cash book is related to a GL account.
 
 
 
-## Creating Direct Receipt from a cashbook
+## Direct Receipting from cashbook
 
 When a new cashbook is created, it is listed among other prior cashbooks under the **Cashbook Register** window. From this window, it is possible to create a **New Direct Receipt** as demonstrated below:
 

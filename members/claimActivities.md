@@ -1,17 +1,20 @@
 ### Claim Activities
 
-The procedures under this menu are related to claim processing. To start an activity, click the appropriate link to open its window as shown in the screenshot below:
+The procedures under this menu are related to claim processing. To start an activity, click the appropriate link from the enclosed drop-down menu to open the respective window as shown in the screenshot below:
 
 <img  alt="Claim Activities" width="100%" height="auto"  class="center"  src="../media3/contri18.png"> 
+
 
 ## Claim Processing
 
 The processing of a claim commences after running members balances to confirm correct crediting of Members contributions to their accounts. 
 
+
 ### Running balances
 
 After configuring parameters and other key setups as demonstrated previously, the claim process commences by running members balances to confirm correct allocation of interests to members accounts. The system can run balances for a
 few selected members or for a batch.
+
 
 ### Balances for Few Members
 
@@ -44,10 +47,10 @@ the list and click on the **Closing Balances** tab on lower section’s menu bar
 
 <img  alt="Closing Balances" width="95%" height="auto"  class="center"  src="../media3/contri32.png"> 
 
+
 ### Initiating Movement/Claim
 
 After balances are ran, a Member's Claim can be initiated, and the claim record is then listed on the Movements window. To initiate a Claim for a Member, navigate to the Members Register and select the Member's record from the list. Click the **Movements** button to access the **Initiate Movement/Claim** buuton as shown in the following sample screenshot:
-
 
 <img  alt="Claim movement" width="95%" height="auto"  class="center"  src="../media3/contri19.png"> 
 
@@ -59,6 +62,7 @@ To initiate a claim whose **Reason for Exit** is **Resignation**, Click **Initia
 After confirming receipt of documents, click the Save button to proceed with the claim process as shown below:
 
 <img  alt="Initiate Movement/Claim" width="90%" height="auto"  class="center"  src="../media3/contri20.png"> 
+
 
 Clicking the **Confirm Exit Documents Checklist** button, as shown in the previously, will open the Benefits Log Checklist Confirmation window.  Select a document from the list and double click to confirm receipt of the document. Otherwise click the **Receive Document** button to upload the document as shown below:
 
@@ -75,6 +79,7 @@ A successful configuration of exit form and confirmation of receipt of relevant 
 Clicking the **Movement Processing** link will open the Movement Processing window where all the initiated claims are listed awaiting verification and benefits calculation as shown below:
 
 <img  alt="Movement Processing window" width="95%" height="auto"  class="center"  src="../media3/contri23.png"> 
+
 
 ### Benefits Calculation
 

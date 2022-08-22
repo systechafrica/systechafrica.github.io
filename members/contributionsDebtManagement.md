@@ -1,6 +1,6 @@
 ### Contributions Debt Management Configs
 
-The configurations under this category are set to determine among other things the penalty formulae to use in case of rate contributions payments, the policy rates setting for processing penalties, and previous salaries are also configured. Click the links as to load the respective dialog boxes and set up the configurations as shown below:
+The configurations under this category are set to determine among other things the penalty formulae to use in case of rate contributions payments, the policy rates setting for processing penalties, and previous salaries are also configured. Click on the drop-down submenu links enclosed as shown below to load the respective dialog boxes to set up different configurations:
 
 <img  alt="Contribution debt management" width="100%" height="auto"  class="center"  src="../media3/contri7.png"> 
 

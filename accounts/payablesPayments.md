@@ -1,6 +1,6 @@
 ### Payables/Payments
 
-The Payables/Payments menu provides access links to windows where the respective records are stored in registers. Click the links highlighted below to view specific registers:
+The Payables/Payments menu provides access links to windows where the respective records are stored in registers. Click on the drop-down submenu links highlighted below to view specific registers:
 
 <img  alt="Payables/Payments" width="100%" height="auto"  class="center"  src="../media4/acc014.png">
 

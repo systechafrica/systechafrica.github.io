@@ -1,12 +1,11 @@
-### Importing from Templates
+### Importing by Templates
 
-To register members in batches, a template populated with data is uploaded into the system. To begin this process, click the link shown below to open the upload window as shown below:
+To register members in batches, a template populated with data is uploaded into the system. To begin this process, click on the drop-down submenu link shown below to open the upload window as shown below:
 
 <img  alt="new member link" width="95%" height="auto"  class="center"  src="../media3/newmember.png"> 
 
  
 This method enables massive registration of members at a go. See a sample template used to import and upload members below:
-ow:
 
 <img  alt="members upload templates" width="95%" height="auto"  class="center"  src="../media3/membertemplate.png"> 
 
@@ -22,5 +21,3 @@ To import members in batch, after preparing the template, click the **Members** 
 -	Click **label 1** button to provide a link for fetching the template file from another device.
 -	Click **label 2** button to check for exceptions (possible errors) before proceeding.
 -	Click **label 3** button to save the uploaded list of members from the batch file.
-
-

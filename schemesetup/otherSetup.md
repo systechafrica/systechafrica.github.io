@@ -1,6 +1,6 @@
 ## Other Scheme Setup configs
 
-Configurations under **Other Setup** sub menu enable formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a section within the Setup Links left side panel where the various links are accessed.
+Configurations under **Other Setup** menu enable formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a drop-down submenu where various links are located:
 
 <img  alt="other setup links" width="100%" height="auto"  class="center"  src="../media2/schemeM4.png"> 
 
@@ -11,11 +11,13 @@ Click the **Pay Points** link to open a Pay Points window and then click the **N
 
 <img  alt="pay points" width="90%" height="auto"  class="center"  src="../media2/schemeM3.png"> 
 
+
 ## Pay Point Branches
 
 Click the **Pay Points Branches** link to open a Pay Points Branches window and then click the **Pay Point Branches** button to capture details for a new Pay Point Branch as shown below:
 
 <img  alt="pay points branches" width="90%" height="auto"  class="center"  src="../media2/paypointbranches.png"> 
+
 
 ## Reasons for Exit
 
@@ -23,7 +25,9 @@ Click the **Reasons for Exit** link to open the Reasons for Exit window where a 
 
 <img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../media2/reasonsforexit.png"> 
 
+
 **Tips**
+
 - The reason for exit configurations enables creation of various reasons for exit by a member in a scheme. These configs are then saved in the system for retrieval at the exit (movement) of the member (see initiate movement under the
 members register module).
 
@@ -40,9 +44,11 @@ Click the **Interest Rates** link to open the Interest Rates window to view the 
 
 <img  alt="interest rates" width="95%" height="auto"  class="center"  src="../media2/schemeM56.png"> 
 
+
 Clicking the **New Interest Rates** link from the **Operations** drop-down menu as shown in the previous screenshot will open a dialogue box through which a new interest rate can be defined as shown below:
 
 <img  alt="interst rates config box" width="65%" height="auto"  class="center"   src="../media2/schemeM1.png"> 
+
 
 ## Interest Formula
 
@@ -50,11 +56,13 @@ Click the **Interest Formula** link to open the Interest Formula window, then cl
 
 <img  alt="interst formular window" width="90%" height="auto"  class="center"  src="../media2/interestformula.png"> 
 
+
 ## Maximum Registered Contribution Configuration
 
 Click the **Max Registered Contribution** link to open the Maximum Registered Contribution window, then click the New Max Registered Contribution button to create a configuration as shown below:
 
 <img  alt="Maximum Registered Contribution Configuration" width="90%" height="auto"  class="center"  src="../media2/schemeM50.png"> 
+
 
 **Tips**
 

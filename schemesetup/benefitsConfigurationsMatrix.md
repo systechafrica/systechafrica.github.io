@@ -1,15 +1,16 @@
-## Introduction
+## Benefits Configuration Matrix 
 
-In essence the Benefits Configuration Matrix settings inform the implemtation of laid downrules or procedures in the trust deed and rules in regard to each of the item’s listed in the screenshot below. click the links to open appropriete dialogue boxes to configure the different benefits parameters.
+The Benefits Configuration Matrix is a tool that aids in setting the laid down rules or procedures in the trust deed and rules regarding each of the item in the drop-down submenu as shown in the screenshot below:
 
 <img  alt="Benefits configuration matrix" width="100%" height="auto"  class="center"  src="../media2/schemeM10.png">  
 
 
 ## Withdrawals
 
-Click on the **Withdrawals** link to open a Withdrawal Configurations Matrix dialogue box where a set of parameters informing withrawals are set. See the parameters descriptions after the screenshot below:
+Click the **Withdrawals** link to open a Withdrawal Configurations Matrix dialog box as shown below:
 
-<img  alt="Withdrawals" width="90%" height="auto"  class="center"  src="../media2/schemeM35.png">  
+<img  alt="Withdrawals" width="90%" height="auto"  class="center"  src="../media2/schemeM35.png">
+
 
 **Parameter Description**
 
@@ -57,6 +58,7 @@ Click on the **Withdrawals** link to open a Withdrawal Configurations Matrix dia
 **= (12.85 + (5/12 \*0.1)) 12.89**
 
 -   **Allow withdrawals in active service?** Specify whether the scheme trust deed and rules allow active member to withdraw from the scheme by checking the check box on this option.
+  
 
 ## Death Claim Configuration Matrix
 
@@ -70,6 +72,7 @@ Clicking on the **Death Claim Configuration** link to open a Death Claim Configu
 -   Click **label 1** button to configure death in retirements parameters.
 
 -   Click **label 2** button to configure death of beneficiary parameters.
+  
 
 **Parameter Description**
 
@@ -136,23 +139,26 @@ Click the **Medical** link to open a Medical Configuration Matrix dialog window 
 
 <img  alt="Medical" width="90%" height="auto"  class="center"  src="../media2/schemeM36.png">  
 
+
 **Parameter Description**
 
 - **Does member qualify for pension?** Specify whether the member qualifies for the pension on medical grounds in that he or she has been incapacitated to work.
-- 
+  
 - **If yes, is pension reduced or unreduced?** Specify whether the pension will be paid as a lump sum followed with pension installments.
-- 
+  
 - **Additional benefits provided if impaired while on duty?** Specify if there are any additional benefits if the member was impaired in the line of duty.
-- 
+  
 - **Tax medical lump sum?** Specify whether the medical lump sum is subject to taxation.
-- 
+  
 - **Pension service Mode:** specify the initial start date for calculating a member’s service period.
+  
 
 ## Claims Computation
 
 Click the **Claims Computation** link to load the dialogue box through which the settings are configured as shown below:
 
 <img  alt="Claim Computation" width="90%" height="auto"  class="center"  src="../media2/schemeM6.png">  
+
 
 **Tip**
 
@@ -163,7 +169,6 @@ The parameters here are set to determine how the scheme’s claim processes are 
 
 The trivial pension is the minimum pension amount that can be paid to a scheme member.
 
-Click the Trivial Pension Configurations link to open a Trivial Pensions Configurations dialog window and set the configurations as shown the screenshot below:
+Click the **Trivial Pension Configurations** link to open a Trivial Pensions Configurations dialog window and set the configurations as shown the screenshot below:
 
 <img  alt="Trivial Pension Configurations" width="90%" height="auto"  class="center"  src="../media2/schemeM79.png">  
-
