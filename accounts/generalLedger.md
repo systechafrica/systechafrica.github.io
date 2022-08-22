@@ -178,8 +178,7 @@ You can define the accounting periods to either be populated in:
 
 The system creates financial years by default.
 
-Click on the **Accounting Periods** link from the General Ledger drop-down menu as shown below:
-
+Click on the **Accounting Periods** link from the General Ledger drop-down submenu as shown below:
 
 <img  alt="Accounting Periods" width="35%" height="auto"  class="center"  src="../media5/img16.png"> 
 

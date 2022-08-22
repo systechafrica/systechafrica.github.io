@@ -1,8 +1,9 @@
 ### Task Management
 
-The links under the Task Management menu allow access to different task related windows for specific configurations. Click the links to open their respective windows as shown below:
+The links under the Task Management menu allow access to different task related windows for specific configurations. Click on the drop-down submenu links to open their respective windows as shown below: 
 
 <img  alt="task management image" width="95%" height="auto"  class="center"  src="../media6/image12.png">  
+
 
 ## My Pending Tasks
 

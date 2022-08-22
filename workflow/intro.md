@@ -1,8 +1,6 @@
 ### Workflow Management Module
 
-This workflow management module enables a work distribution system that automates all core processes such as claims, payroll processing,contribution and member registration. By assigning tasks to different users, the module allows for stage-by-stage execution of tasks. This is designed around a decision-chain model that relies on milestones to map
-out the processes and ensure there is corporate-wide visibility in monitoring adherence to the Service Level Agreements that the scheme has promised her members. Within it, one can map workflow processes, assign profile timelines, assign tasks, analyze complete, overdue, and pending tasks, view task instances and assign to individuals, analyze process
-performance and individual performance vis-a-vis setting timelines.
+This workflow management module enables a work distribution system that automates all core processes such as claims, payroll processing, contribution, and member registration. By assigning tasks to different users, the module allows for step-by-step execution of tasks. One can map workflow processes, assign profile timelines, assign tasks, analyze complete, overdue, and pending tasks, view task instances and assign them to individuals, among other operations.
 
 To access the investments Module dashboard, click the **Workflow Module** link on the FundMaster landing page to open **Workflow Links** window shown below:
 

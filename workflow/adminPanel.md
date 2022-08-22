@@ -1,6 +1,6 @@
 ### Admin Panel
 
-The access links under the Admin Panel menu allow viewing of a list of all processes categories and task instances and other parameters. Click the links to open their respective windows as shown below:
+The access links under the Admin Panel menu allow viewing of a list of all processes categories and task instances and other parameters. Click the drop-down submenu links to open their respective windows as shown below: 
 
 <img  alt="workflow admin panel image" width="98%" height="auto"  class="center"  src="../media6/image5.png">  
 

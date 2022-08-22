@@ -1,6 +1,6 @@
 ### Budget
 
-The set of configurations under the Budget menu are set to aid in the creation and management of budgetary allocations in a scheme. Click a link to open the respective window for specific configurations as shown below: 
+The set of configurations under the Budget menu are set to aid in the creation and management of budgetary allocations in a scheme. Click on the drop-down submenu links to open the respective window for specific configurations as shown below: 
 
 <img  alt="Budget menu" width="100%" height="auto"  class="center"  src="../media5/bdg1.png"> 
 
