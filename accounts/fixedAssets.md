@@ -20,9 +20,9 @@ Clicking the **Fixed Assets Register** link will open the register window where 
 
 -   Click **label 3** button to remove a selected asset from the list.
 
--   Click **label** **4** to filter records based on the asset class, key words etc.
+-   Click **label 4** to filter records based on the asset class, key words etc.
 
--   Click **label** 5 to open a breadcrumb drop-down menu from which     various setting can be done to run processes such as calculating the depreciation value on an asset.
+-   Click **label 5** to open a breadcrumb drop-down menu from which     various setting can be done to run processes such as calculating the depreciation value on an asset.
   
 
 ## Processing a Depreciation
