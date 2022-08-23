@@ -4,8 +4,8 @@ These configurations inform how a member of a particular class in a scheme is to
 
 The screenshot below shows a drop-down submenu with links through which different setups are done:
 
-
 <img  alt="Member Class Specific Info" width="100%" height="auto"  class="center"  src="../media2/schemeM59.png"> 
+
 
 ## Contribution Rates
 
@@ -27,12 +27,17 @@ To set contribution rates, click the **Contribution Rates** link and then click 
 -   Click **label 5** button to Certify, Approve and Authorize a selected config record.
 
 -   Click **label 6** button to view a print format copy of the Contribution Rates details.
+  
 
 Clicking the **New Contribution Rates** button labeled 1, will load a **Contribution Rates** **Details** dialogue box through which a new Rate can be configured as shown below:
 
 <img  alt="Contribution Rates settings" width="70%" height="auto"  class="center"  src="../media2/schemeM13.png"> 
 
-**Tip**: notice the lower section of the dialogue box above. See how the new Rates configurations are tied to a particular Member Class under a Sponsor.
+
+**Tip**
+
+Look at the lower section of the dialog box in the above dialog box and notice how the new rates configurations are tied to a particular Member Class under a Sponsor.
+
 
 ## Retirement Age
 
@@ -41,6 +46,7 @@ Retirement Age configurations are set to categorize the different types of retir
 Click the **Retirement Ages** link to open retirement ages window and view already configured retirement ages, add a new configuration, delete and certify selected records from the list as show below:
 
 <img  alt="Retirement Ages" width="95%" height="auto"  class="center"  src="../media2/schemeM70.png"> 
+
 
 **Action**
 
@@ -55,6 +61,7 @@ Click the **Retirement Ages** link to open retirement ages window and view alrea
 Clicking the New Retirement Age button will open a dialogue box. Fill in the details to create a new retirement age as shown below:
 
 <img  alt="Retirement Ages configs box" width="70%" height="auto"  class="center"  src="../media2/schemeM52.png"> 
+
 
 ## Eligible Ages
 

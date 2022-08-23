@@ -21,7 +21,7 @@ Click the **Email Template** link to open a dialog box and design email template
 
 ## Inbox
 
-Click the **Inbox** link to open the inbox window. Click the **Compose** button to open a dialog box through which an email is composed and sent as shown below:
+Click the **Inbox** link to open the inbox window. Then click the **Compose** button to open a dialog box through which an email is composed and sent as shown below:
 
 <img  alt="compose email" width="80%" height="auto"  class="center"  src="../media2/composeemail.png">   
 

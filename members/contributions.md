@@ -13,6 +13,7 @@ Clicking this link will load a dialogue box through which the contributions deta
 
 <img  alt="Single Contribution capture form" width="70%" height="auto"  class="center"  src="../media3/contri2.png"> 
 
+
 ## Single Contribution Approval
 
 For every single contribution uploaded, authentication of the action is needed before the process is committed. This is done by clicking the **Contribution Approval** link to open the Contributions Approval window. Select the record from the list and on the **Authorization** menu, Certify, Approve, and Authorize as shown below:
@@ -29,7 +30,7 @@ The screenshot below shows how to navigate and download the template to the your
 <img  alt="Contribution upload templete" width="90%" height="auto"  class="center"  src="../media3/contri4.png"> 
 
 
-Clicking generated process will open an export dialogue box for specifying how the export should be done as shown below:
+Click the **Generated Template** button to open an export dialogue box for specifying how the export should be done as shown below:
 
 <img  alt="Single Contribution template export" width="70%" height="auto"  class="center"  src="../media3/contri5.png"> 
 
@@ -38,9 +39,11 @@ Clicking generated process will open an export dialogue box for specifying how t
 
 After downloading the contributions template and filling it with data, click the **New Batch Contribution** link to open the window through which the template is uploaded back into the system.
 
-The following screenshot shows an example of a successful upload.
+The following screenshot shows an example of a successful upload:
 
 <img  alt="batch Contribution" width="90%" height="auto"  class="center"  src="../media3/contri6.png"> 
 
+
 **Tip**
+
 In the event of unagreeable data or tempered with template settings, the system will reject the upload through an error alert message in the troubleshooting window.

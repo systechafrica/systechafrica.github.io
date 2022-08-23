@@ -1,14 +1,15 @@
 ### Fixed Assets
 
-The Fixed Assets dropdown-submenu provides access links to access a scheme's fixed assets register and asset classes respective. As shown in the screenshot below, click the **Fixed Assets Register** link to open a window where all the assets are listed in a grid table. Otherwise click the **Asset Classes** link to open a dialog box where asset classes are
-defined:
+The Fixed Assets dropdown-submenu provides access links to access a scheme’s fixed assets register and asset classes respective. 
+
+Click the **Fixed Assets Register** link to open a window where all the assets are listed in a grid table. Otherwise click the **Asset Classes** link to open a dialog box where asset classes are defined as shown below:
 
 <img  alt="fixed assets menu" width="98%" height="auto"  class="center"  src="../media4/fixedAssetsNav.png"> 
 
 
 ## Fixed Assets Register
 
-Clicking the **Fixed Assets Register** link will open the register window where a list of fixed assets is displayed in a grid table showing details such as the depreciation value of every asset as shown below:
+Click the **Fixed Assets Register** link to open the register window where a list of fixed assets is displayed in a grid table showing details such as the depreciation value of every asset as shown below:
 
 <img  alt="fixed assets register window" width="95%" height="auto"  class="center"  src="../media4/fixedAssetsWidow.png"> 
 
@@ -39,20 +40,20 @@ To capture the details of a new fixed asset, click the **New Asset** link from t
 <img  alt="dialog box for crearting a new asset" width="86%" height="auto"  class="center"  src="../media4/FixedAssestDetails.png"> 
 
 
-Clicking the **Lookup** button in the above dialog box will open a window through which a supplier of the asset is selected as shown below:
+Click the **Lookup** button in the above dialog box to open a window through which a supplier of the asset is selected as shown below:
 
 <img  alt="lookup details window" width="86%" height="auto"  class="center"  src="../media4/CreditorSearch.png"> 
 
 
 ## Asset Classes
 
-Clicking the **Assets Classes** link will open the asset classes window where the various assets are listed as shown below:
+Click the **Assets Classes** link to open the asset classes window where the various assets are listed as shown below:
 
 <img  alt="assets classes" width="95%" height="auto"  class="center"  src="../media4/AssetsClass.png"> 
 
 
 ## Creating a New Asset Class
 
-Clicking the **New Asset Class** button will open a dialog box through which a new class of asset can be created. All key configuration concerning calculating depreciation values on assets are set here as shown in the screenshot below:
+Click the **New Asset Class** button to open a dialog box through which a new class of asset can be created. All key configuration concerning calculating depreciation values on assets are set here as shown in the screenshot below:
 
 <img  alt="new asset class dialog box" width="86%" height="auto"  class="center"  src="../media4/AssetClassDetails.png"> 
