@@ -29,16 +29,17 @@ Accrual Register stores record for a scheme’s earned revenues e.g., contributi
 
 Click the **Accruals Register** link to open the Accounts Accruals window where accruals are listed and a link to create a new Accrual is located. The records in the grid table can be filtered by invoice type, particulars, date, or creditor’s name. A selected entity can also be approved from the **Approval** menu and invoices processed for payment from the Accrual Options menu as shown below: 
 
+
 <img  alt="Accrual Register" width="95%" height="auto"  class="center"  src="../media4/acc017.png">
 
 
-Clicking the **New Accrual** link from the **Operations** menu will open a dialog box where settings for a new accrual payment are done as shown below:
+Click the **New Accrual** link from the **Operations** menu to open a dialog box where settings for a new accrual payment are done as shown below:
 
 <img  alt="New Accrual" width="90%" height="auto"  class="center"  src="../media4/acc018.png">
 
 
 ## Direct Payments Register
 
-Direct Payments Register stores record for all direct payments made by a scheme. Select a direct payment from the list and view its details by clicking the **Details** button, **Certify** and **Authorize** the payment by clicking the respective menu items from the **Payments Calculation** drop-down menu. From the **Posting** drop-down menu, you can post, unpost, tie payment to invoice, or create an invoice from the payment as shown below:
+Direct Payments Register stores record for all direct payments made by a scheme. Select a direct payment from the list and view its details by clicking the **Details** button. **Certify** and **Authorize** the payment by clicking the respective menu items from the **Payments Calculation** drop-down menu. From the **Posting** drop-down menu, you can **Post**, **Unpost**, **Tie Payment to Invoice**, or **Create an Invoice** from the payment as shown below:
 
 <img  alt="Direct Payments Register" width="95%" height="auto"  class="center"  src="../media4/acc019.png">

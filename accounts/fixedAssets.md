@@ -35,7 +35,7 @@ From the drop-down menu (see label 5 action), click the **Operation** sub menu t
 
 ## Creating a New Asset
 
-To capture the details of a new fixed asset, click the **New Asset** link from the drop-down menu, as shown in the previous screenshot, to open a dialog box (the assets can also be uploaded in batch using a template by clicking the Import **Fixed Assets** links) where the details of the asset are captured as shown below:
+To capture the details of a new fixed asset, click the **New Asset** link from the drop-down menu, as shown in the previous screenshot, to open a dialog box (the assets can also be uploaded in batch using a template by clicking the **Import Fixed Assets** links) where the details of the asset are captured as shown below:
 
 <img  alt="dialog box for crearting a new asset" width="86%" height="auto"  class="center"  src="../media4/FixedAssestDetails.png"> 
 

@@ -14,7 +14,7 @@ From this window, a new creditor can be created, a payment initiated for a selec
 <img  alt="Creditors Register" width="95%" height="auto"  class="center"  src="../media4/acc021.png"> 
 
 
-Click the **New Creditor** link from the Creditors Operations menu, as shown previously, to open a Creditor/Debtor Details dialog box through which a new Creditors details are captured as shown in the screenshot below::
+Click the **New Creditor** link from the Creditors Operations menu, as shown previously, to open a Creditor/Debtor details dialog box through which a new Creditor's details are captured as shown in the screenshot below::
 
 <img  alt="New Creditor" width="90%" height="auto"  class="center"  src="../media4/acc022.png"> 
 

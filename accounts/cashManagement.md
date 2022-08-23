@@ -43,10 +43,9 @@ Click the **New Direct Receipt** from the **Operations** menu as shown above to 
 <img  alt="payee/payer details dialog box" width="86%" height="auto"  class="center"  src="../media4/image3b.png"> 
 
 
-**Note:** Clicking to check select available details of a payer will auto-refill the details of the payer if no available records, the details should be filled manually.
+**Note** Click to select available details of a payer to auto-refill the details of the payer if no available records, the details should be filled manually.
 
-
-Clicking the **Save Payer** button in the previous dialog box will open the Direct Receipt Details dialog box where the details of the receipt are to be provided as shown below:
+Click the **Save Payer** button, in the previous dialog box, to open the direct receipt details dialog box where the details of the receipt are to be provided as shown below:
 
 
 <img  alt="direct receipt details dialog box" width="86%" height="auto"  class="center"  src="../media4/image3c.png"> 
@@ -65,9 +64,11 @@ Clicking the **Save** button on the **Direct Receipts Details** box will save th
 <img  alt="receipt line dialog box" width="95%" height="auto"  class="center"  src="../media4/image3e.png"> 
 
 
-**Note:** The newly created receipt can be located on the grid table by filtering records by date. Select the receipt from the list and from the drop-down menu shown on the upper left side of the window click appropriately to certify, authorize and post the receipt as shown above.
+**Tips**
 
-The created receipts can later be tied to a contribution batches until the amount on the receipt is depleted.
+-  The newly created receipt can be located on the grid table by filtering records by date. Select the receipt from the list and from the drop-down menu shown on the upper left side of the window click appropriately to certify, authorize and post the receipt as shown above.
+
+- The created receipts can later be tied to a contribution batches until the amount on the receipt is depleted.
 
 
 ## Currencies
@@ -87,7 +88,6 @@ Click the **Add Currency** button to open a dialog box through which a new Curre
 The Exchange rates are configurations for the base currency exchange rates. The settings also inform the foreign currency exchange rate in comparison to the base currency for any transactions that will involve foreign currency types in the accounting module.
 
 Click the **Exchange Rates** link to open the Exchange Rates window, then click the **New Exchange Rates** button to create a Rate as shown below:
-
 
 <img  alt="Exchange Rates" width="90%" height="auto"  class="center"  src="../media4/image6.png"> 
 

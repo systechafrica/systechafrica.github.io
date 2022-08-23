@@ -42,6 +42,38 @@ Clicking the **Single General Ledger** link will open a dialog box enabling the 
 - In FundMaster, a chart of accounts builds a T-shape pattern in the Chart of Accounts window as more accounts and posting to the accounts are created.
 
 
+## Journals
+
+A journal is created to correct an account that was overstated or understated by debiting or and crediting the affected transactions accounts.
+
+To access the journals records, on the left side panel of the accounts link window, click the **Journals** link as shown below:
+
+<img  alt="Journals link" width="40%" height="auto"  class="center"  src="../media5/journalLink.jpg"> 
+
+
+Clicking the Journal link will open the journals window where all transactions are listed in a grid table. From this window, a new journal can be created, and records authenticated among other actions as shown in the screenshot below:
+
+<img  alt="Journals window" width="95%" height="auto"  class="center"  src="../media5/journalsWindow.jpg"> 
+
+
+Click the **New Journal** menu to open a dialog box via which a new transaction can be processed as shown in the screenshot below:
+
+<img  alt="New Journal details Dialog box window" width="80%" height="auto"  class="center"  src="../media5/JournalDetailsBox.jpg"> 
+
+
+Click the **New Journal Line** button to select the account to debit and credit as shown in the following screenshots:
+
+
+- Debit the correct account by providing the details as shown in the dialog box below:
+
+<img  alt="Debit line dialog box" width="70%" height="auto"  class="center"  src="../media5/journalLineDebit.jpg"> 
+
+
+- Credit the correct account by providing the details as shown in the dialog box below:
+
+<img  alt="Credit line dialog box" width="70%" height="auto"  class="center"  src="../media5/journalLineCredit.jpg"> 
+
+
 
 ## Financial Reporting Levels
 
