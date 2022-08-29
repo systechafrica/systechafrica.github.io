@@ -12,6 +12,6 @@ Clicking the link as shown above will open a new window allowing one to download
 <img  alt="download confirmation message" width="40%" height="auto"  class="center"  src="../media3/downloadalert.png"> 
 
 
-After downloading and updating the member details in the template appropriately, upload the template to the system to save the changes in the register. The following screenshot show the process.
+After downloading and updating the member details in the template appropriately, upload the template to the system to save the changes in the register. The following screenshot shows a window with a successful update process:
 
-<img  alt="Members Document Checklist" width="90%" height="auto"  class="center"  src="../media3/memberupdateswindow.png"> 
+<img  alt="Members Document Checklist" width="95%" height="auto"  class="center"  src="../media3/memberupdateswindow.png"> 
