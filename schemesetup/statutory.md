@@ -54,9 +54,9 @@ Click the **Benefits Tax Rates** link to open the Tax Rates window, then click t
 <img  alt="Income Tax Rates" width="90%" height="auto"  class="center"  src="../media2/schemeM39.png">  
 
 
-**Tip:** 
+**Tip** 
 
-The tax headers conditions and the tax headers are dictated by the commissioner of taxes in each regime.
+- The tax headers conditions and the tax headers are dictated by the commissioner of taxes in each regime.
 
 
 ## Pension Tax Rates

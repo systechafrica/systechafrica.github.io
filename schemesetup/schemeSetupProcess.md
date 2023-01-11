@@ -12,20 +12,23 @@ To create a new scheme, click the **New Scheme** link to open a **Scheme Details
 <img  alt="internet access protocal image" width="60%" height="auto"  class="center"  src="../media2/schemeM26.png">  
 
 
-**Tips**
+**Tip**
 
 - The **Take On Date** is configured to determine the Financial Periods while the **Date of Commencement** denotes the date when the Scheme was started.
 
 
 ## Basic Scheme Details
 
-Now that the system is running the newly cretaed Scheme, the next step is to provide the scheme’s details beginning with the basic detail.
+To capture the basic details of a newly created scheme, make sure the system is running the new scheme. The next step is to provide the scheme’s details.
 
-To access the details dialogue box, from the left side panel of the Setup Links window, click the **Basic Schemes Details** link. This will launch a dialogue box where all the details can be viewed and edited as shown below:
+To access the details dialog box, from the left side panel of the Setup Links window, click the **Basic Schemes Details** link. This will launch a dialog box where all the details can be viewed and edited as shown below:
 
-Note: If you modify any items, remember to click the **Save** button to reflect changes as shown below:
+<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
 
-<img  alt="basic scheme details form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
+
+**Tip**
+
+- If you modify any item, remember to click the **Save** button to reflect changes.
 
 
 ## Scheme configurations
@@ -97,9 +100,10 @@ Fill in the provided fields with details, paying attention to the mandatory fiel
 
 <img  alt="additional scheme info setup" width="80%" height="auto"  class="center"  src="../media2/schemeM19.png">  
 
+
 **Tip**
 
-The terms used on the Additional Basic Scheme details dialog box are defined in the glossary section of this user manual. Please refer for clarification.
+- The terms used on the Additional Basic Scheme details dialog box are defined in the glossary section of this user manual. Please refer for clarification.
 
 
 ## Additional Scheme Info
@@ -111,7 +115,7 @@ Fill in the provided fields with details, paying attention to the mandatory fiel
 <img  alt="additional scheme info" width="80%" height="auto"  class="center"  src="../media2/schemeM75.png">  
 
 
-## Module Allowance Configurations
+## Module Allowance Configs
 
 These set of configurations will determine the scheme setup module integration with other modules in the system. Click the **Module Allowance Configuration** link from the left side panel to open and fill the dialogue box as shown below:
 
@@ -144,7 +148,7 @@ Region configs capture details for different physical locations which a scheme e
 -   Click **label 3** button to hide or display the lower section of the window where subregions are listed.
 
 -   Click **label 4** search box to type and search a subregion by name.
--   
+  
 
 ## Trustees
 

@@ -57,6 +57,7 @@ After creating a Sponsor, the next step before the sponsor can officially be put
 -   Click **label 3** button to remove a selected sponsor from the list.
 
 -   Click **label 4** textboxes, type a name or reference number to search records.
+  
 
 ## Supervisors
 

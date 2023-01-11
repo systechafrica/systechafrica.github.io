@@ -59,7 +59,7 @@ Clicking the **Checklist Validation** button will open a **Schemes Document Appr
 -   Click **label 3** button to reverse a received document.
 
 -   Click **label 4** button to upload a document into the system.
--  
+  
 
 Clicking the **Receive Documents(s)** button will allow a user to upload a file from his/her device through the dialogue box shown below:
 

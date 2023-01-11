@@ -42,7 +42,7 @@ Clicking the **Assign Schemes to User button** will open another window from whi
 
 **Tip**
 
-The process of switching from a default scheme to a new scheme involves first navigating to the **Existing Users** window in the Admin Panel module and adding the newly created scheme from the list of Allowed Schemes.
+- The process of switching from a default scheme to a new scheme involves first navigating to the **Existing Users** window in the Admin Panel module and adding the newly created scheme from the list of Allowed Schemes.
 
 
 ### Scheme Switch Over

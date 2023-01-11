@@ -36,7 +36,7 @@ Clicking the **New Contribution Rates** button labeled 1, will load a **Contribu
 
 **Tip**
 
-Look at the lower section of the dialog box in the above dialog box and notice how the new rates configurations are tied to a particular Member Class under a Sponsor.
+- Look at the lower section of the dialog box in the above dialog box and notice how the new rates configurations are tied to a particular Member Class under a Sponsor.
 
 
 ## Retirement Age
@@ -57,6 +57,7 @@ Click the **Retirement Ages** link to open retirement ages window and view alrea
 -   Click **label 3** button to delete a selected configuration from the records.
 
 -   Click **label 4** button to Certify, Approve and Authorize a selected record.
+  
 
 Clicking the New Retirement Age button will open a dialogue box. Fill in the details to create a new retirement age as shown below:
 

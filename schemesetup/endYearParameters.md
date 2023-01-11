@@ -7,6 +7,7 @@ Click the **End Year Parameters** link to open the Year End Parameters Details d
 <img  alt="end of year parameters" width="90%" height="auto"  class="center"  src="../media2/schemeM6.png">  
 
 **Parameter description**
+
 - Select option on withdrawal benefit calculation before the yearend: on the drop-down menu select provisional rate of interest, lock benefits in scheme till year end or refund principal (opening balances + Contributions)
 - Show withdrawals within the year under member balances schedule at year end? Specify whether to show withdrawals within the year under the member balances end of year schedule.
 - Who bears the tax on income from the unregistered funds? Specify who bears the taxation on the unregistered funds portion, the scheme or individual members.

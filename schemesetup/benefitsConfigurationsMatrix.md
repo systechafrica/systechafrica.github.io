@@ -162,7 +162,7 @@ Click the **Claims Computation** link to load the dialogue box through which the
 
 **Tip**
 
-The parameters here are set to determine how the scheme’s claim processes are handled by the system. 
+- The parameters here are set to determine how the scheme’s claim processes are handled by the system. 
 
 
 ## Trivial Pension Configurations
