@@ -13,11 +13,11 @@ To access the Scheme Setup dashboard, click the **Scheme Setup** link on the Fun
 -   Click the hot links under the section **labelled** 1 to access shortcut routes to commonly visited links in the scheme setup module.
 
 -   Click the menu items listed on the left side panel in section **labelled 2** to configure other Scheme related settings such as Scheme Approval.
--   
+  
 
 **Tip**
 
-All the links under **label 1** can still be accessed on the left side panel although some are tacked under sub-menus.
+- All the links under **label 1** can still be accessed on the left side panel although some are tacked under sub-menus.
 
 
 ### Scheme Configurations Panel

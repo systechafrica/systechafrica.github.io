@@ -1,6 +1,6 @@
 ## Deposits
 
-<img  alt="deposits menu" width="90%" height="auto"  class="center"  src="..//media8/image53.jpg">  
+<img  alt="deposits menu" width="98%" height="auto"  class="center"  src="..//media8/image53.jpg">  
 
 
 ### Fixed Term Deposits

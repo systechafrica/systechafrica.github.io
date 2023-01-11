@@ -148,14 +148,14 @@ A successfully posted transaction is shown below:
 
 ## Companies
 
-Companies are the establishments whose equities are floated for acquisition by the publics. Some companies are listed in the stock market while others are not.
+Companies are the establishments whose equities are floated to the public for buying. Some companies are listed in the stock market while others are not.
 
-To access the companies window, navigate to the equities window and click the **Companies** link from **Open Register** drop-down menu as shown below:
+To access the Companies window, navigate to the Equities window and click the **Companies** link from **Open Register** drop-down menu as shown below:
 
 <img  alt="equity companies open register" width="80%" height="auto"  class="center"  src="..//media8/image20.jpg">  
 
 
-Clicking the Companies link will open the Companies window where all companies whose equities can be acquired are listed in a grid table. From this window, several activities can be carried out as demonstrated in this section: See screenshot below:
+Clicking the **Companies** link will open the Companies window where all companies whose equities can be acquired are listed in a grid table. From this window, several activities can be carried out as demonstrated in this section. See screenshot below:
 
 <img  alt="companies window" width="95%" height="auto"  class="center"  src="..//media8/image21.jpg">  
 
@@ -191,19 +191,19 @@ Clicking the New Company button will open a dialog box where company details are
 <img  alt="companies details box" width="70%" height="auto"  class="center"  src="..//media8/image23.jpg">  
 
 
-## Equities Acquisition
+## Equities Valuation
 
 Click the **Acquisition** menu and from the drop-down list, select the valuation method to use for a selected company from the grid table. Proceed to carry out the valuation process as shown next.
 
 
-### Equities Valuations
+### Valuations Process
 
 Click the **Valuation** menu and from the drop-down list select the valuation method to use for a selected company from the grid table. Proceed to carry out the valuation process as shown below:
 
 <img  alt="equity valuation" width="80%" height="auto"  class="center"  src="..//media8/image24.jpg">  
 
 
-Clicking the **Single Valuation** link, after selecting a company from the grid table as shown previously, will open an equity price details dialog box where the company's equities can be valued by providing details such as the latest price as shown below:
+Clicking the **Single Valuation** link, after selecting a company from the grid table as shown previously, will open an **Equity Price** details dialog box where the company's equities can be valued by providing details such as the latest price as shown below:
 
 <img  alt="single valuation" width="60%" height="auto"  class="center"  src="..//media8/image25.jpg">  
 

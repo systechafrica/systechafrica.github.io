@@ -2,10 +2,10 @@
 
 Configurations under the manage category are set to aid in the management of various participants in a scheme. Click on the drop-down submenu links to open the respective windows for specific configurations as shown below: 
 
-<img  alt="property management menu" width="95%" height="auto"  class="center"  src="../media7/image2.png">  
+<img  alt="property management menu" width="98%" height="auto"  class="center"  src="../media7/image2.png">  
 
 
-## Property Managers
+### Property Managers
 
 Click the **Property Managers** link to open the property managers window where all the property managers in a scheme are listed in a grid table as shown below:
 
@@ -33,7 +33,7 @@ Clicking the **New Property Manager** button will open the property manager deta
 Fill all the mandatory fields marked with a red asterisk sign and on the fees account field select the GL account to associate the property managers transactions with the appropriate account. Click the **Save** button to commit changes.
 
 
-## Stake Holders
+### Stake Holders
 
 Click the **Share Holders** link to open the property shareholders window where all the property shareholders in a scheme are listed in a grid table as shown below:
 
@@ -58,7 +58,7 @@ Clicking the **New Property Shareholder** button will open the Property Sharehol
 <img  alt="new property shareholder dialog box" width="90%" height="auto"  class="center"  src="../media7/image6.png">  
 
 
-## Property Agents
+### Property Agents
 
 Click the **Property Agents** link to open the property agents window where all the property agents in a scheme are listed in a grid table as shown below:
 
@@ -85,7 +85,7 @@ Clicking the **New Property Agent** button will open the Property Shareholder de
 <img  alt="new property agents dialog box" width="80%" height="auto"  class="center"  src="../media7/image8.png">  
 
 
-## Property Buyers
+### Property Buyers
 
 Click the **Property Buyers** link to open the property buyers window where all the property buyers in a scheme are listed in a grid table as shown below:
 
@@ -131,7 +131,7 @@ Clicking the **New Service Charge Type** button will open the property buyer's d
 <img  alt="new service charge type dialogue box" width="60%" height="auto"  class="center"  src="../media7/image12.png">  
 
 
-## Unit Sale Additional Cost Types
+### Unit Sale Additional Cost Types
 
 Click the **Unit Sale Additional Cost type** link to open the service charge types window where all types of charges are listed in a grid table as shown below:
 
@@ -145,14 +145,14 @@ Configurations under the property’s menu category are set to aid in the manage
 <img  alt="registration of properties window" width="95%" height="auto"  class="center"  src="../media7/image13.png">  
 
 
-## New Property
+### New Property
 
 Click the **New Property** link to open the property details dialog box to capture the data for a new property bought by a scheme as shown below:
 
 <img  alt="new propert dialog window" width="80%" height="auto"  class="center"  src="../media7/image14.png">  
 
 
-## Property List
+### Property List
 
 Click the **Property List** link to open the properties window where all scheme's properties in a scheme are listed in a grid table as shown below:
 
@@ -302,7 +302,7 @@ The two links under the posting menu allow viewing of a scheme's property detail
 <img  alt="postings window" width="98%" height="auto"  class="center"  src="../media7/image28.png">  
 
 
-## Property Postings
+### Property Postings
 
 Click the **Property Postings** link to open the property posting window where all scheme's properties details are listed in a grid table. From this window the records in the grid table can be filtered from the top menu bar, clicking the icon on the upper right side will load a submenu where other operations such as certification and receipting can be done
 as shown below:

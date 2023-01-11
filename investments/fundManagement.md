@@ -1,7 +1,7 @@
 
 ## Fund Management
 
-<img  alt="fund managemet menu" width="90%" height="auto"  class="center"  src="..//media8/image70.jpg">  
+<img  alt="fund managemet menu" width="98%" height="auto"  class="center"  src="..//media8/image70.jpg">  
 
 
 
