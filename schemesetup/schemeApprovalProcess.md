@@ -1,6 +1,6 @@
 ## Approving a Scheme
 
-After a scheme is created, the next step is to approve it by first providing a checklist for necessary documents and then approving the scheme. From the setup links left side panel, click the appropriate link as shown below:
+After a scheme is created, the next step is to approve it by first providing a checklist for necessary documents and then approving the scheme. From the Setup Links left side panel, click the appropriate link as shown below:
 
 <img  alt="scheme approval links" width="100%" height="auto"  class="center"  src="../media2/schemeM51.png">  
 
@@ -9,8 +9,8 @@ After a scheme is created, the next step is to approve it by first providing a c
 
 Click the **Scheme Documents Checklist** link to open the window through which the management of such document is done as shown below:
 
+<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../media2/schemeM8.png"> 
 
-<img  alt="Scheme Documents Checklist" width="90%" height="auto"  class="center"  src="../media2/schemeM8.png">  
 
 **Action**
 
@@ -19,7 +19,7 @@ Click the **Scheme Documents Checklist** link to open the window through which t
 -   Click **label 2** button to view details of a selected document from the list.
 
 -   Click **label 3** button to delete a selected document item from the list.
--   
+  
 
 ## Scheme Approval
 
@@ -43,9 +43,9 @@ Clink the **Scheme Approval** link to open the window through which the verifica
 -   Click **label 6** button to initiate risk assessment process for a selected scheme.
 
 -   Click **label 7** button and select a process from the drop-down list to view a report in print format.
--  
+  
 
-Clicking the **Checklist Validation** button will open a **Schemes Document Approval** dialogue box where documents can be searched from the list, received, and downloaded as shown below.
+Clicking the **Checklist Validation** button will open a **Schemes Document Approval** dialog box where documents can be searched from the list, received, and downloaded as shown below:
 
 <img  alt="Checklist Validation" width="90%" height="auto"  class="center"  src="../media2/schemeM27.png">  
 
@@ -61,6 +61,6 @@ Clicking the **Checklist Validation** button will open a **Schemes Document Appr
 -   Click **label 4** button to upload a document into the system.
   
 
-Clicking the **Receive Documents(s)** button will allow a user to upload a file from his/her device through the dialogue box shown below:
+Clicking the **Receive Documents(s)** button will allow a user to upload a file from his/her device through the dialog box shown below:
 
 <img  alt="Receive Documents" width="70%" height="auto"  class="center"  src="../media2/schemeM73.png">  

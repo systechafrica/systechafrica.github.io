@@ -168,7 +168,7 @@ Trustees configs allow a Scheme to have its trustees’ details and their releva
 -   Click **label 4** to upload support documents for a selected trustee.
 
 -   Click **label 4** to view documents for a selected trustee.
--  
+  
 
 Clicking the **Upload Document** button will open an upload window for selecting the type of document to upload to the system as shown below:
 

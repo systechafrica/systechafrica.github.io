@@ -1,7 +1,6 @@
 ### System Utility 
 
-Configurations under system utility enable configurations related to FundMaster integration with other systems. To configure specific utilities, click the enclosed links to open configuration dialogue boxes
-as shown below:
+Configurations under system utility enable configurations related to FundMaster integration with other systems. To configure specific utilities, click the enclosed links to open configuration dialogue boxes as shown below:
 
 <img  alt="System Utility menu" width="100%" height="auto"  class="center"  src="../media/adfd22.png">  
 
@@ -19,6 +18,7 @@ Click the **Report Server** link to open a **Report Server Config** dialogue box
 
 <img  alt="Report server configurations image" width="95%" height="auto"  class="center"  src="../media/adfd24.jpg">  
 
+
 **Action**
   
 -   Click **label 1** button to open a dialogue box where a new configuration is done.
@@ -34,18 +34,18 @@ Click the **Report Server** link to open a **Report Server Config** dialogue box
 -   Click **label 6** button to create a new mapping: connect a scheme to the selected report configuration.
 
 -   Click **label 7** button to remove a selected scheme mapping.
--   
+  
 
-### Creating a report configuration
+### Creating a Report Configuration
 
-Clicking the **New Configuration** button will open a dialogue box where settings for a new report configurations are done as shown below:
+Clicking the **New Configuration** button will open a dialog box where settings for a new report configurations are done as shown below:
 
 <img  alt="New Report configurations image" width="70%" height="auto"  class="center"  src="../media/adfd25.png">  
 
 
 ### Uploading report logos
 
-To upload logos for use in the system generated reports, select the configuration whose reports need logos. Locate the list on the report's configuration window. Then click the **Upload/Edit logo** button to open a dialogue box and upload the logos as shown below:
+To upload logos for use in the system generated reports, select the configuration whose reports need logos. Locate the list on the report's configuration window. Then click the **Upload/Edit logo** button to open a dialog box and upload the logos as shown below:
 
 <img  alt="Uploading report logos image" width="90%" height="auto"  class="center"  src="../media/adfd26.jpg">  
 
@@ -57,6 +57,7 @@ To upload logos for use in the system generated reports, select the configuratio
 -   Click **label 2** button to upload the logo that goes to the left side of the report's header.
 
 -   Click **label 3** button to close the window after a successful upload.
+  
 
 Clicking either of the Upload buttons will open a Logo Upload dialogue box through which a path to locate the logo from a user's device is provided. Click the **Upload logo** button to move the selected logo to the system as shown below:
 
@@ -82,7 +83,8 @@ Click the **Reports Register** link to open the Reports Register window where a 
 
 <img  alt="Reports Register image" width="95%" height="auto"  class="center"  src="../media/adfd30.jpg">  
 
+
 **Tip**
 
-Select a report from the list and click the Enable button to have the report activated for so that it can be generated from the reports server. Otherwise clicking the Disable button means the report cannot be generated.
+- Select a report from the list and click the Enable button to have the report activated for so that it can be generated from the reports server. Otherwise clicking the Disable button means the report cannot be generated.
 

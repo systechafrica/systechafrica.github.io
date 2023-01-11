@@ -1,6 +1,6 @@
 ## Other Scheme Setup configs
 
-Configurations under **Other Setup** menu enable formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a drop-down submenu where various links are located:
+Configurations under **Other Setup** menu enables formulation of interests, penalties, setting up pay points, actuarial valuations, etc. The screenshot below shows a drop-down submenu where various links are located:
 
 <img  alt="other setup links" width="100%" height="auto"  class="center"  src="../media2/schemeM4.png"> 
 
@@ -21,7 +21,7 @@ Click the **Pay Points Branches** link to open a Pay Points Branches window and 
 
 ## Reasons for Exit
 
-Click the **Reasons for Exit** link to open the Reasons for Exit window where a grid table displaying various reason for exit configurations. See scheenshot below: 
+Click the **Reasons for Exit** link to open the Reasons for Exit window where a grid table displaying various reasons for exit configurations. See scheenshot below: 
 
 <img  alt="reasons for exit" width="95%" height="auto"  class="center"  src="../media2/reasonsforexit.png"> 
 

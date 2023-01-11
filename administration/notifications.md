@@ -1,10 +1,11 @@
 ## Notifications
 
-FundMaster communicates from within the system and without through an advanced notification system using emails, SMS, or both. The system allows an administrator to configure a notification matrix (i.e., what key system activities need notifications) and set up email templates for sending messages to the target audience concerning issues such as password reset alerts.
+FundMaster communicates, internally and externally, through an advanced notification system using emails, SMS, or both. The system allows an administrator to configure a notification matrix (i.e., what key system activities need notifications) and set up email templates for sending messages to the target audience concerning issues such as password reset alerts.
+
 
 ## Notifications Config Matrix
 
-Clicking the **Notifications** link labeled 3 will display a drop-down menu from which the **Notifications Config Matrix** link is accessed. Click this link to display a **Send Notifications Form** where a user is allowed to select the key events, and activities for which notification messages ought to be sent.
+Clicking the **Notifications** link labeled 3, will display a drop-down menu from which the **Notifications Config Matrix** link is accessed. Click this link to display a **Send Notifications on?** form where a user is allowed to select the key events and activities for which notification messages ought to be sent.
 
 Check the **Yes** or **No** checkbox on the listed items enclosed under label 1, otherwise, choose whether to make the configurations global or not under the text box labeled 2 as shown in the screenshot below:
 
@@ -43,4 +44,4 @@ Clicking the **New** button will open a dialogue box where a new email notificat
 
 **Tip**
 
-Make use of reserved keywords by selecting them from the drop-down box menu located above the message body and use then inside the message as shown above.
+- Make use of reserved keywords by selecting them from the drop-down box menu located above the message body and use then inside the message as shown above.

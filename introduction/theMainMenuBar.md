@@ -2,7 +2,7 @@
 
 Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab, on the uppermost side, for accessing the help documentation.
 
-Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshots below:
+Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
 
 <img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../media/adfd1.png">   
 

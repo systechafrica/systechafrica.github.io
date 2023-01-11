@@ -1,10 +1,11 @@
 ### End of Year Parameters
 
-The End of Year parameters are set to determine benefits calculation method for end of defined financial year i.e., Interim and Declared Rates of Interest. Interest allocation frequency and distribution mode are other important parameters set here.
+The End of Year parameters are set to determine benefits calculation method for end of defined financial year i.e., **Interim** and **Declared** Rates of Interest. Interest allocation frequency and distribution mode are other important parameters set here.
 
-Click the **End Year Parameters** link to open the Year End Parameters Details dialogue box and configure the details as s shown in the sample screenshot below:
+Click the **End Year Parameters** link to open the Year End Parameters Details dialog box and configure the details as shown in the sample screenshot below:
 
 <img  alt="end of year parameters" width="90%" height="auto"  class="center"  src="../media2/schemeM6.png">  
+
 
 **Parameter description**
 

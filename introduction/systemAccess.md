@@ -2,7 +2,8 @@
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
-<img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../media/adfd7.png">  
+<img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../media/adfd7.png"> 
+
 
 ## Login Process
 
@@ -21,7 +22,9 @@ After inputting the access IP address, a user is directed to the login page wher
 
 -	Click the login button **labelled 3** to log in to the system.
 
-**Note:** the system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
+**Tip** 
+
+- The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
 ## Landing Page

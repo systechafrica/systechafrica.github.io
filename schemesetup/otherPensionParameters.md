@@ -4,6 +4,7 @@ Click the **Other Pension Parameters** link to open a dialog window and set the 
 
 <img  alt="Other Pension Parameters" width="90%" height="auto"  class="center"  src="../media2/schemeM23.png">  
 
+
 **Action**
 
 - 	Click **label 1** button to load a dialogue box and set a new **Lumpsum Tax Free** configuration as shown above.

@@ -35,6 +35,7 @@ Clicking the **New Profile** tab will open a dialogue box. Through this, a new p
 Once a profile is created, the next step is to allow access to certain sub-functions in the system to a newly created profile. The permissions given enable the new profile to access system modules and rights to certain functions in an
 individual module.
 
+
 ## Profile Permissions
 
 Clicking the **Profile Permissions** link will open the profiles permission grid table where permissions are assigned to profiles. The table provides drop-down menus to choose profiles and the modules whose permissions are to be assigned to

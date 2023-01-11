@@ -2,7 +2,7 @@
 
 Clicking the **Audit Trail** link will open the Audit Trail window which lists all key activities that have taken place in the system per the active users.
 
-A user can view details of audit trails, filter through the records and view print a copy of records among other operations as shown in the screenshot below:
+A user can view details of audit trails, filter through the records and print a copy of records among other operations as shown in the screenshot below:
 
 
 <img  alt="systems rights image" width="95%" height="auto"  class="center"  src="../media/adfd12.png">  

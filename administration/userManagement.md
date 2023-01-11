@@ -2,6 +2,7 @@
 
 User accounts are individual accounts for the system users. User accounts are assigned to specific profiles which define the permissions assigned to a user to allow access to specific system functions.
 
+
 ## Existing Users
 
 Clicking the **Existing Users** link will open the Existing Users window where a grid table listing all system users and their specific details are displayed as shown below:
@@ -30,7 +31,7 @@ Clicking the **Existing Users** link will open the Existing Users window where a
 
 ## Adding a New User
 
-Clicking the **New User** button will open a New User Details dialogue box. To successfully create a new user, the fields marked with a red asterisk must be filled with relevant details as shown in the following screenshot:
+Clicking the **New User** button will open a New User Details dialog box. To successfully create a new user, the fields marked with a red asterisk must be filled with relevant details as shown in the following screenshot:
 
 <img  alt="new user image" width="80%" height="auto"  class="center"  src="../media/adfd14.png">  
 
@@ -49,6 +50,7 @@ Clicking the **New User** button will open a New User Details dialogue box. To s
 Clicking the **Allowed Scheme** tab will display a grid table listing all the schemes that a user has access to. From this window, a list of all schemes available in the system can be accessed by clicking the **Assign Schemes to User** button as shown in the next screenshot:
 
 <img  alt="schemes to user image" width="80%" height="auto"  class="center"  src="../media/adfd8.png">  
+
 
 **Action**
 
