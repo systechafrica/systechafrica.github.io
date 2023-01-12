@@ -1,6 +1,6 @@
 ### Analytics
 
-The scheme analytics window displays different types of analysis on various scheme processes. To open the scheme analytics window, click the analytics button labeled 1 as shown in the following screenshot:
+The scheme analytics window displays different types of analysis on various scheme processes. To open the scheme analytics window, click the analytics button labelled 1 as shown in the following screenshot:
 
 <img  alt="overdue tasks image" width="95%" height="auto"  class="center"  src="../media6/image16.png">  
 

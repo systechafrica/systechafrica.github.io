@@ -10,7 +10,7 @@ Clicking the **New Member** link shown above will open a dialog box through whic
 <img  alt="Creating a new member" width="90%" height="auto"  class="center"  src="../media3/memberdetailsform.png"> 
 
 
-**Tips**
+**Tip**
 
 -	Remember to go to the member approval window to approve a newly created member. This is demonstrated in a later section.
 

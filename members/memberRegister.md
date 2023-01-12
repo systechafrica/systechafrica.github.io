@@ -16,9 +16,9 @@ Clicking the **View Member** button will open the **Members Register** window wh
 •	Click **label 4** checkboxes to display a section with extra details at the lower part of the window.
 
 
-**Tips**
+**Tip**
 
-More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields.
+- More columns can be shown on the grid table by clicking the header cell of any column and adding new data fields.
 
 
 ### Accessing Member’s Extra Details

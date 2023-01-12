@@ -2,7 +2,6 @@
 
 Clicking the **System Rights** link will open a window listing all the system rights grouped based on modules. A user can create a new system permission, view the details of a selected permission in the list, and remove one among other actions. See the screenshot below:
 
-
 <img  alt="systems rights image" width="95%" height="auto"  class="center"  src="../media/adfd3.png">  
 
 

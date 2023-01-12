@@ -11,6 +11,7 @@ Clicking the **Process Register** link will open the Processes window where the 
 
 <img  alt="process register image" width="95%" height="auto"  class="center"  src="../media6/image6.png">  
 
+
 **Action**
 
 -   Click **Label 1** button to view the details of a selected task from the list and edit the details where necessary.
@@ -37,12 +38,14 @@ The Task Details dialog box allows you to set the following parameters for each 
 -   Determine whether the task is pooled or allocated to a selected user.
 
 -   If the user is to be selected, choose the profile and the profile user to assign the task to.
+  
 
 ## Task Instances
 
 Clicking the **Task Instances** link will open the tasks instances window where new tasks and their details are listed for further actions such as assigning task to users. See screenshot below:
 
 <img  alt="process register image" width="95%" height="auto"  class="center"  src="../media6/image8.png">  
+
 
 **Action**
 
@@ -55,6 +58,7 @@ Clicking the **Task Instances** link will open the tasks instances window where 
 -   Click **Label 4** button to terminate the process associated with a selected task.
 
 -   Click **Label 5** button to view the open a comment dialog box of a selected task.
+  
 
 ## Other Parameters
 

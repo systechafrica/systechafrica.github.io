@@ -16,11 +16,12 @@ To access the investments Module dashboard, click the **Workflow Module** link o
 -   Click the menu item links in section **labelled 3** to navigate to other modules in the system.
 
 -   Click the menu item link in section **labelled 4** to open the workflow analytics window to view analyzed data on all the workflow processes.
+  
 
 **Tips**
 
 -   All the links under label 1 can still be accessed on the left side panel although some are tacked under sub menus.
 
--   Before processing with any workflow configurations, navigate to the Admin Panel links window and click the Systech configs link to open the System Configs window. Make sure **Enable Workflow** is **Yes.** If it is **No,** click the **Details** button to open a dialog box where this is configured. See screenshot below:
+-   Before proceeding with any workflow configurations, navigate to the Admin Panel links window and click the Systech configs link to open the System Configs window. Make sure **Enable Workflow** is **Yes**. If it is **No** click the **Details** button to open a dialog box where this is configured as shown in the screenshot below:
 
 <img  alt="Systech configs image" width="90%" height="auto"  class="center"  src="../media6/image4.png">  

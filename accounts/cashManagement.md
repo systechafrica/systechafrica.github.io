@@ -19,7 +19,7 @@ Click the **New Cashbook** link from the Cashbook Operations menu, as shown prev
 <img  alt="New Cashbook " width="95%" height="auto"  class="center"  src="../media4/image3.png"> 
 
 
-**Tip**
+**Tips**
 
 Assumptions in the cashbook creation:
 
@@ -31,7 +31,7 @@ Assumptions in the cashbook creation:
 
 
 
-## Direct Receipting from cashbook
+## Direct Receipting from Cashbook
 
 When a new cashbook is created, it is listed among other prior cashbooks under the **Cashbook Register** window. From this window, it is possible to create a **New Direct Receipt** as demonstrated below:
 

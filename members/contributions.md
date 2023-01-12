@@ -46,4 +46,4 @@ The following screenshot shows an example of a successful upload:
 
 **Tip**
 
-In the event of unagreeable data or tempered with template settings, the system will reject the upload through an error alert message in the troubleshooting window.
+- In the event of unagreeable data or tempered with template settings, the system will reject the upload through an error alert message in the troubleshooting window.

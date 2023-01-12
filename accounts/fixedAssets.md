@@ -13,6 +13,7 @@ Click the **Fixed Assets Register** link to open the register window where a lis
 
 <img  alt="fixed assets register window" width="95%" height="auto"  class="center"  src="../media4/fixedAssetsWidow.png"> 
 
+
  **Action**
 
 -   Click **label 1** menu to access links towards creating new assets.

@@ -18,4 +18,4 @@ Click the Property Postings link to open the property posting window where all s
 
 **Tip**
 
-Click the Posting Details tab on the lower section of the window as highlighted above to view the posting details of a selected record.
+- Click the Posting Details tab on the lower section of the window as highlighted above to view the posting details of a selected record.

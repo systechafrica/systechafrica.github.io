@@ -142,7 +142,7 @@ Click the **Unit Sale Additional Cost type** link to open the service charge typ
 
 Configurations under the property’s menu category are set to aid in the management of various participants in a scheme. Click on the drop-down submenu links to open the respective windows for specific configurations as shown below: 
 
-<img  alt="registration of properties window" width="95%" height="auto"  class="center"  src="../media7/image13.png">  
+<img  alt="registration of properties window" width="98%" height="auto"  class="center"  src="../media7/image13.png">  
 
 
 ### New Property
@@ -312,4 +312,4 @@ as shown below:
 
 **Tip**
 
-Click the **Posting Details** tab on the lower section of the window as highlighted above to view posting details of a selected record.
+- Click the **Posting Details** tab on the lower section of the window as highlighted above to view posting details of a selected record.

@@ -38,6 +38,7 @@ Clicking **Show Details** label 8 button will load an extra section at the lower
 
 To run the process of equities acquisition in the system, the company whose shares the scheme is interested in to be already created in the system. The process of adding companies to the system is demonstrated later in this section.
 
+
 ### Acquiring New Equities
 
 To process a new equity acquisition, unlike the previous process demonstrated above, click the **Companies** link from **Open Register** drop-down menu as shown below:
@@ -104,7 +105,7 @@ Click the **Single Transaction** link to open the equity acquisition details dia
 
 <img  alt="Single Transaction" width="90%" height="auto"  class="center"  src="..//media8/image14.jpg">  
 
-**Tips**
+**Tip**
 
 -   Notice that this disposal transaction has reduced the number of Mumias Sugar shares quantity from 200 to 100. See the new record as shown below:
 
@@ -125,7 +126,7 @@ From the **Certification** Menu, click **Pre-Approve,** **Certify** and **Approv
 <img  alt="Certification" width="80%" height="auto"  class="center"  src="..//media8/image17.jpg">  
 
 
-**Tips**
+**Tip**
 
 -   Note that from the **Certification** menu, as shown above, it is possible to **Rollback Operations** from Approve back to Pre-approve.
 
@@ -215,6 +216,6 @@ Clicking the **hamburger** icon on the right upper corner will allow a user to v
 <img  alt="Removing Equities Prices" width="95%" height="auto"  class="center"  src="..//media8/image26.jpg">  
 
 
-**Tips**
+**Tip**
 
 -   Select an equity price record from the lower section part of the window and click the **Remove Prices** button as shown above to delete it.

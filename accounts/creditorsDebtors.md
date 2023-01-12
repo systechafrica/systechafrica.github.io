@@ -19,7 +19,6 @@ Click the **New Creditor** link from the Creditors Operations menu, as shown pre
 <img  alt="New Creditor" width="90%" height="auto"  class="center"  src="../media4/acc022.png"> 
 
 
-
 ## Debtors Register
 
 Debtors Register stores record for all debtors in a scheme. Click the **Debtors Register** link to open the debtors window where different scheme debtors are displayed in a grid table. From this window, a new debtor can be created, and a receipt processed for a selected debtor among other actions as shown below:

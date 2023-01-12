@@ -21,7 +21,7 @@ A term deposit is a fixed-term investment that includes the deposit of money int
 -   Click **Label 4** button to post a selected fixed deposit from the grid table.
 
 -   Click **Label 5** button to load a section on the lower section of the window showing all transaction details of a selected fixed deposit record.
--   
+  
 
 #### Creating a New Fixed Term Deposit
 
@@ -157,6 +157,7 @@ A successful posted transaction will look as shown in the screenshot below:
 Offshore investments refer to a wide range of investment strategies that capitalize on advantages offered outside of an investor\'s home country. To view a list of Offshore investments, see the screenshot below:
 
 <img  alt=" list of Offshore investments" width="90%" height="auto"  class="center"  src="..//media8/image68.jpgg">  
+
 
 **Action**
 

@@ -15,7 +15,8 @@ To access the investments Module dashboard, click the **Investments Module** lin
 - Click the hot links under the section **labelled 1** to access shortcut routes to commonly visited links in the investment module.
 
 -   Click the menu item links listed on the left side panel in section **labelled 2** to configure all investments related settings such as equities.
+  
 
-**Tips**
+**Tip**
 
-All the links under label 1 can still be accessed on the left side panel although some are tacked under sub menus.
+- All the links under label 1 can still be accessed on the left side panel although some are tacked under sub menus.

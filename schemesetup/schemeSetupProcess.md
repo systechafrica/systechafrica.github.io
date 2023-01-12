@@ -77,7 +77,8 @@ Click the **Scheme Dates and Insurance covers Configurations** link to open the 
 
 Click the **Benefits Configurations** link to open the benefits configurations matrix dialog box and set the required parameters as shown below:
 
-<img  alt="Benefits Configurations" width="95%" height="auto"  class="center"  src="../media2/scheme88.jpg">  
+<img  alt="Benefits Configurations" width="95%" height="auto"  class="center"  src="../media2/scheme88.jpg">
+  
 
 **Action**
 
@@ -148,7 +149,7 @@ Region configs capture details for different physical locations which a scheme e
 -   Click **label 3** button to hide or display the lower section of the window where subregions are listed.
 
 -   Click **label 4** search box to type and search a subregion by name.
-  
+
 
 ## Trustees
 
@@ -157,7 +158,7 @@ Trustees configs allow a Scheme to have its trustees’ details and their releva
 <img  alt="regions" width="90%" height="auto"  class="center"  src="../media2/schemeM54.png">  
 
 
-**Action**
+ **Action**
 
 -   Click **label 1** button to capture a new trustee’s details.
 
@@ -174,9 +175,11 @@ Clicking the **Upload Document** button will open an upload window for selecting
 
 <img  alt="Upload Documen" width="80%" height="auto"  class="center"  src="../media2/schemeM22.png">  
 
+
 After selecting the type of document to upload, click the **browse** button to give a path for uploading a document from your device as shown below:
 
 <img  alt="Upload Documen" width="80%" height="auto"  class="center"  src="../media2/schemeM55.png">  
+
 
 The window below shows the list of all uploaded documents:
 

@@ -9,6 +9,7 @@ The General Ledger menu provides access links to windows where the respective co
 
 A chart of Accounts (COA) is an index of all financial accounts set up in a scheme, and available for use by the bookkeeper for recording transactions in the general ledger.
 
+
 ## Creating a Chart of Accounts
 
 For a new scheme, a new **Chart of Accounts** needs to be set from scratch as will be demonstrated next. Click the Chart of Accounts link from the General Ledger menu as shown in the previous screenshot.

@@ -22,6 +22,7 @@ After inputting the access IP address, a user is directed to the login page wher
 
 -	Click the login button **labelled 3** to log in to the system.
 
+
 **Tip** 
 
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.

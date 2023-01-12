@@ -68,7 +68,7 @@ Clicking the **Single Acquisition** button will open a dialog box to fill bond a
 <img  alt="single Bond Acquisition dialog box" width="90%" height="auto"  class="center"  src="..//media8/image50.jpg">  
 
 
-**Tips**
+**Tip**
 
 -   A newly acquired bond will be listed on the treasury bonds window under the bond years category.
   

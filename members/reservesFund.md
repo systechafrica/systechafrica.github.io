@@ -14,7 +14,8 @@ The screenshot below shows a sample of a Reserve Fund Transactions Register in F
 
 <img  alt="Transactions Register" width="95%" height="auto"  class="center"  src="../media3/transreg.png"> 
 
-**Tips**
+
+**Tip**
 
 - Movement of money from the **Fund Accounts** to bridge the deficit is treated as an Outflow. 
 
