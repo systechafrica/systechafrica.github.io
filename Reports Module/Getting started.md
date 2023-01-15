@@ -1,4 +1,5 @@
-###Getting started
+### Getting started
+
 To access the reports module, click the **Reports** hot link icon on the main dashboard as shown in the screenshot below: 
 
 <img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../media9/dash.png"> 

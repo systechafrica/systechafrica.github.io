@@ -1,4 +1,4 @@
-###Dashboard Components
+### Dashboard Components
 
 The following screenshot shows the member dashboard that consists of a menu bar on the left side and main sections with summarized information.
 

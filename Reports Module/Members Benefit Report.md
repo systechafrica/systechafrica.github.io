@@ -1,4 +1,5 @@
-###Members Benefit Report
+### Members Benefit Report
+
 To generate a members withdrawal benefits calculation sheet report, follow the steps highlighted in the sample screenshot below:
 
 <img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../media9/membersreport.png"> 

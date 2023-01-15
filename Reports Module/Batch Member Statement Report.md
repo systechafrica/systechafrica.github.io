@@ -1,4 +1,4 @@
-###Batch Member Statement Report
+### Batch Member Statement Report
 
 To generate members statement report for all members (a batch) in a scheme, follow the steps highlighted in the sample screenshot below:
 
