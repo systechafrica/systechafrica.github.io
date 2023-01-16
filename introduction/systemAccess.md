@@ -1,4 +1,4 @@
-<!-- ## Getting Started with Docute
+## Getting Started with Docute
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
@@ -51,4 +51,4 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
 | 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
-| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             | -->
+| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
