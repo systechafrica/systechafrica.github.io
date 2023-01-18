@@ -56,6 +56,3 @@ To generate a member's withdrawal benefits calculation sheet report, follow the 
 -  The window section **Labelled 6** is a section showing a preview of the generated report. 
   
 -  Click **label 7** button to scroll down and see the entire report.
-  
-
-

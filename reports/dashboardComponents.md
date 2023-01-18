@@ -7,7 +7,7 @@ The following screenshot shows the member dashboard that consists of a menu bar 
 The numbered sections in this screenshot above correspond to the numbers in the following table that describe the key components of the Reports module dashboard.
 
 | **No.** 	| **Part**            	| **Description**                                                                                                                                           	|
-| :---------	| :---------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| :---------	| :-----------------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 1.  	| Reports Menu      | This is the menu from which various module-based reports are accessed by clicking the menu items.                                        	|
 | 2.    	| Settings & logout buttons      | The settings button will open a dialog box for configuring reports data source access type. The logout button will terminate the session when clicked.                                     	|
 | 3.    	| Reports search box       | Used for looking for a particular report quickly using keywords.                                                                                                    	|
@@ -19,8 +19,3 @@ The numbered sections in this screenshot above correspond to the numbers in the 
 | 9.     | Members list      | This section of the window generates a list of all members under a selected category of reports.                                                                                                         	|
 | 10.    | Report preview window      | This section will load the report for reviewing before it can be printed.        
                                                                                	|
-
-
-
-
-
