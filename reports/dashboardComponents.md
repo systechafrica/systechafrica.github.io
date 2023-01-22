@@ -6,6 +6,12 @@ The following screenshot shows the member dashboard that consists of a menu bar 
 
 The numbered sections in this screenshot above correspond to the numbers in the following table that describe the key components of the Reports module dashboard.
 
+
+
+**Report Access Process**
+
+Accessing a particular report on the dashboard will require step-by-step actions to be executed correctly. The following is a demonstration showing how to successfully access sample reports.
+
 | **No.** 	| **Part**            	| **Description**                                                                                                                                           	|
 | :---------	| :-----------------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 1.  	| Reports Menu      | This is the menu from which various module-based reports are accessed by clicking the menu items.                                        	|
@@ -19,3 +25,4 @@ The numbered sections in this screenshot above correspond to the numbers in the 
 | 9.     | Members list      | This section of the window generates a list of all members under a selected category of reports.                                                                                                         	|
 | 10.    | Report preview window      | This section will load the report for reviewing before it can be printed.        
                                                                                	|
+
