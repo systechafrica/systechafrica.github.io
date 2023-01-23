@@ -24,19 +24,19 @@ For successful registration of members, the administrators of a scheme will need
 -	Click **label 8** button to open a grid table on the lower side of the window showing members’ document checklist application. The documents from members can be received, reversed, or removed.
 
 
-### Adding New Document checklist
+### Adding New Document 
 
-To add a new document checklist, click the **New** button, as shown previous, to open a dialog box through which the details for a new document checklist are captured and saved as shown below:
+To add a new document, click the **New** button, as shown previous, to open a dialog box through which the details for a new document are captured as shown below:
 
 <img  alt="add memebr document" width="70%" height="auto"  class="center"  src="../media3/newdocchecklist.png"> 
 
 
-Clicking the **Process Checklist Application** button will open a dialog box through prompting for confirmation regarding the distribution of the document checklist to members as shown below:
+Click the **Process Checklist Application** button to open a dialog box to prompt for confirmation regarding the distribution of the document to members as shown below:
 
 <img  alt="Process Checklist Application" width="60%" height="auto"  class="center"  src="../media3/confirmdocdistribution.png"> 
 
 
-Click the **Yes** button to load another dialog box through which a document checklist is distributed to members based on the statutes selected from the drop-down list as shown below:
+Click the **Yes** button to load another dialog box through which a document is distributed to members based on the member status selected from the drop-down list as shown below:
 
 <img  alt="member documents status" width="60%" height="auto"  class="center"  src="../media3/membersstatus.png"> 
 
