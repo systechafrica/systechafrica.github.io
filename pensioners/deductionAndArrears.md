@@ -24,6 +24,7 @@ Clicking the Cover Contracts link will open the cover contracts window with a gr
 Clicking the **New Contract** button will open a Premium Cover Contract details dialog box through which the details of a new contract can be added in the system as shown in the screenshot below: 
 
 <img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/10.png"> 
+
 ### **Deduction Types**
 Deductions denote amounts of money deducted from pensioners accounts for remitting to other funds such as saccos. The system allows adding of new deductions to the system.
 
@@ -44,7 +45,7 @@ Clicking the Deduction Type link will open the Deduction Types window which come
 
 Clicking the **New Deduction Type** button will open a Deduction Types dialog box through which the details of a new deduction type can be added in the system as shown in the screenshot below: 
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/13.png"> 
+<img  alt="deductionandarrears" width="70%" height="auto"  class="center"  src="../media10/13.png"> 
 
 ### **Adding Deduction to Pensioner**
 Once the details have been saved successfully the next action is to add Pensioners deduction. There are two methods for adding deductions to pensioners:
@@ -63,7 +64,7 @@ Clicking the Payroll Register link will open the Payroll Register window with a 
 
 Clicking the **Add Member Deduction** button will pop up a pensioner deduction form through which details of the deduction transaction are captured as shown below: 
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/16.png"> 
+<img  alt="deductionandarrears" width="70%" height="auto"  class="center"  src="../media10/16.png"> 
 
 ### **Adding Pensioner Deductions through Template**
 This applies when the user wants to add pensioner deductions for more than one pensioner which will save user’s time as opposed to adding deductions for a single pensioner at a time.
@@ -87,7 +88,7 @@ To view Pensioner’s Deductions list, navigate to the Payroll Register menu and
 ## **Pension Arrears**
 To add Pensioner Arrears, select pensioner to add arrears for in the payroll register. Click the **Add Arrears** button to open a **New Pensioners Arrears** form. Key in the arrears details and click the **Save** button as shown in the screenshot below:
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/20.png"> 
+<img  alt="deductionandarrears" width="70%" height="auto"  class="center"  src="../media10/20.png"> 
 
 To view Pensioner Arrears, navigate to Payroll Register and check Show Details menu to load a new section on the lower section of the window where the arrear transactions are listed in a grid table as shown below:
 

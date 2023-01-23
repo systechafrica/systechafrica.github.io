@@ -17,11 +17,11 @@ Prior to running pension payroll, the system runs validation checks to identify 
 ### **Running Pensioners Payroll**
 To run the payroll, navigate to Pension Payroll menu, from the Run Payroll menu, click on Run Payroll sub-menu to pop up a payroll checklist as shown in the screenshot below:
 
-<img  alt="payroll" width="90%" height="auto"  class="center"  src="../media10/22.png"> 
+<img  alt="payroll" width="70%" height="auto"  class="center"  src="../media10/22.png"> 
 
 Clicking the **Run Payroll** link on the sub-menu will open Payroll Roll checklist window as shown in the screenshot below:
 
-<img  alt="payroll" width="90%" height="auto"  class="center"  src="../media10/23.png"> 
+<img  alt="payroll" width="70%" height="auto"  class="center"  src="../media10/23.png"> 
 
 Once all the checkboxes have been checked and there are no exceptions, clicking the **Run Payroll** button will open a date and month confirmation dialog box. Click the Run Payroll button as shown below:
 
