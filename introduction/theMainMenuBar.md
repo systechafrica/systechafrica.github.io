@@ -54,4 +54,3 @@ system as shown below:
   -   Click **label 2** button to view the details of a product category.
 
   -   Click **label 3** button to remove a selected product category.
-

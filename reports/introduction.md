@@ -21,8 +21,3 @@ After clicking the Reports link, as shown in the previous screenshot, the user i
 
 - Type Username and Password respectively in text boxes **labelled 1**.
 - Click Log in button **labelled 2** to get access into the report’s module dashboard. 
-
-
-
-
-
