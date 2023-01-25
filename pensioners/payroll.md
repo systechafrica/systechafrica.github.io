@@ -80,7 +80,7 @@ To run the mini-payroll, navigate to the Run Payroll sub menu and click **Run Mi
 
 Clicking the **Run Mini-Payroll** link will open a confirm dialog box to confirm that you want to run the mini-payroll. Click **Yes** button to run or the **No** button to decline as shown in the screenshot below: 
 
-<img  alt="payroll" width="45%" height="auto"  class="center"  src="../media10/30.png"> 
+<img  alt="payroll" width="40%" height="auto"  class="center"  src="../media10/30.png"> 
 
 
 Clicking the **Yes** button, as shown previously, will get the mini payroll running. Once the mini-payroll has ran successfully, a dialog box will pop up indicating that the mini-payroll has ran successfully. See screenshot below: 
