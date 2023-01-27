@@ -12,7 +12,6 @@ To access the Pensioners Module dashboard, click the Pensioners Module hot link 
 - Click the menu item links listed on the left side panel in the section **labelled 2** to access pensioners forms, registers and configure all pensioners-related settings.
 
 
-
 **Tips**
 
 - All the links under **label 1** can still be accessed on the left side panel although some are tacked under sub menus.

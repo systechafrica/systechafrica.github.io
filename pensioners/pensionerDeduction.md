@@ -13,12 +13,12 @@ These are different forms of deductions that are to be made from pensioners mone
 
 To view a list of medical cover contracts, from the Deductions menu, click the Cover Contract link as shown below to open the cover contracts window. See the screenshot below:
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/8.png"> 
+<img  alt="deductionandarrears" width="94%" height="auto"  class="center"  src="../media10/8.png"> 
 
 
 Clicking the Cover Contracts link will open the cover contracts window with a grid table showing a list of medical covers already created in the system. A new cover can be created and deleted as shown in the screenshot below:
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/9.png"> 
+<img  alt="deductionandarrears" width="94%" height="auto"  class="center"  src="../media10/9.png"> 
 
 
 **Action**
@@ -32,7 +32,7 @@ Clicking the Cover Contracts link will open the cover contracts window with a gr
 
 Clicking the **New Contract** button will open a Premium Cover Contract details dialog box through which the details of a new contract can be added in the system as shown in the screenshot below: 
 
-<img  alt="deductionandarrears" width="90%" height="auto"  class="center"  src="../media10/10.png"> 
+<img  alt="deductionandarrears" width="80%" height="auto"  class="center"  src="../media10/10.png"> 
 
 
 ## Deduction Types
@@ -78,13 +78,14 @@ To add single pensioner deduction, proceed to the left side panel and click payr
 <img  alt="deductionandarrears" width="94%" height="auto"  class="center"  src="../media10/14.png"> 
 
 
-Clicking the Payroll Register link will open the Payroll Register window with a grid table showing all pensioners who are eligible for any pay once the payroll has been validated and processed. To add deduction for a single pensioner, select a pensioner from the list and click show details button (it turns to hide details when clicked) on the right upper corner. This will open a section on the lower part of the window. Locate the Add Member deduction on the left side and click to launch a dialog box for filling in details. See the screenshot below:
+Clicking the **Payroll Register** link will open the Payroll Register window with a grid table showing all pensioners who are eligible for any pay once the payroll has been validated and processed. To add deduction for a single pensioner, select a pensioner from the list and click show details button (it turns to hide details when clicked) on the right upper corner. This will open a section on the lower part of the window. Locate the Add Member deduction on the left side and click to launch a dialog box for filling in details. See the screenshot below:
 
 <img  alt="deductionandarrears" width="94%" height="auto"  class="center"  src="../media10/15.png"> 
 
+
 Clicking the **Add Member Deduction** button will pop up a pensioner deduction form through which details of the deduction transaction are captured as shown below: 
 
-<img  alt="deductionandarrears" width="60%" height="auto"  class="center"  src="../media10/16.png"> 
+<img  alt="deductionandarrears" width="57%" height="auto"  class="center"  src="../media10/16.png"> 
 
 
 ### Adding Pensioner Deductions through Template
@@ -105,9 +106,9 @@ To upload a deduction, navigate to the pensioners register as demonstrated previ
 
 Clicking the **Import Member Deductions** button will load an import deductions window. Click the **Browse** button and navigate to the location of already loaded deduction template from your files and click upload button which will populate the grid with both valid and invalid deduction details as shown in the screenshot below:
 
-<img  alt="deductionandarrears" width="84%" height="auto"  class="center"  src="../media10/18.png"> 
+<img  alt="deductionandarrears" width="92%" height="auto"  class="center"  src="../media10/18.png"> 
 
 
 To view Pensioner’s Deductions list, navigate to the Payroll Register menu and select a Pensioner from the list. Click the **Show Details** checkbox at the right top corner as shown in the screenshot below:
 
-<img  alt="deductionandarrears" width="94%" height="auto"  class="center"  src="../media10/19.png"> 
+<img  alt="deductionandarrears" width="98%" height="auto"  class="center"  src="../media10/19.png"> 
