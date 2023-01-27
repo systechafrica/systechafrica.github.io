@@ -3,7 +3,7 @@ The Pensioners Module enables the registration of pensioners through templates i
 
 To access the Pensioners Module dashboard, click the Pensioners Module hot link on the FundMaster landing page to open the **Pensioners Links** window shown below:
 
-<img  alt="pensioners introduction" width="97%" height="auto"  class="center"  src="../media10/1.png"> 
+<img  alt="pensioners introduction" width="96%" height="auto"  class="center"  src="../media10/1.png"> 
 
 
 **Action**
