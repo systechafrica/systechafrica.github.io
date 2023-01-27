@@ -4,5 +4,5 @@ FundMaster is the most advanced Pension Administration and Investments Managemen
 pension industry.
 
 
-<img  alt="FundMaster" width="70%" height="auto"  class="center"  src="../media/landingpage.png"> 
+<img  alt="FundMaster" width="30%" height="auto"  class="center"  src="../media/landingpage.png"> 
 
