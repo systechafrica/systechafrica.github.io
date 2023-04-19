@@ -26,7 +26,7 @@ Clicking the **Product Setup** link labelled 2(d), will open a window displaying
 Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
 
-<img  alt="fund products Image" width="9%" height="auto"  class="center"  src="../media/adfd15.png">   
+<img  alt="fund products Image" width="95%" height="auto"  class="center"  src="../media/adfd15.png">   
 
 
 **Action**
