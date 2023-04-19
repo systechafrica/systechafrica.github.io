@@ -4,6 +4,7 @@ To generate members statement report for all members (a batch) in a scheme, foll
 
 <img  alt="Reports Module" width="95%" height="auto"  class="center"  src="../media9/batchreport.png"> 
 
+
 **Action**
 
 - Click **label 1** button to select type of report from the report’s menu.

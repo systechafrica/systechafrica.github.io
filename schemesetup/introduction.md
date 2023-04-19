@@ -25,11 +25,11 @@ To access the Scheme Setup dashboard, click the **Scheme Setup** link on the Fun
 Access more Scheme configuration links from the left side panel of the **Setup Links** Window.
 
 **Tip**
-- links are arranged into categories making the order of configurations convenient. See the screenshot shown below:
+- links are arranged into categories making the order of configurations convenient. See screenshot below:
 
 <img  alt="scheme configuration panel image" width="60%" height="auto"  class="center"  src="../media2/schemeM69.png">  
 
 
 **Action**
 
--	Click a link under the left side panel to open a dialogue box through which a specific scheme setting can be configured.
+-	Click a link under the left side panel to open a dialog box through which a specific scheme setting can be configured.

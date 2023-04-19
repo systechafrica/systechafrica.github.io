@@ -1,22 +1,20 @@
-### Main Menu Bar
+### Left Side Pane
 
-Clicking the hamburger icon on the upper-left corner of the landing page will enable a user to expand the menu bar, allowing access to more controls. The expanded menu bar displays a help tab, on the uppermost side, for accessing the help documentation.
-
-Located on the lowermost side of the menu bar are more controls that enable other configurations for a user account. See screenshot below:
+Click the hamburger icon on the upper-left corner of the landing page to expand the pane, allowing access to more controls. The expanded pane displays a help tab on the uppermost section for accessing the help documentation. On the lower section of the pane are more controls elements for further configurations. See screenshots below:
 
 <img  alt="main menu bar Image" width="70%" height="auto"  class="center"  src="../media/adfd1.png">   
 
 
  
-| **No.**  | **Element**         | **Description**                                                                                                                                                                  |
-|----------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.        | Help link           | A link to the help documentation for user reference. Click to open the page.                                                                                                     |
-| 2.        |   Account config    | A section with links for configuring user account details.                                                                                                                       |
-| 2(a). |   Profile           | This is where the logged in user's profile name is displayed.                                                                                                                      |
-| 2(b). |   Switch Scheme     | Allows a user to change from the currently running scheme to another without terminating a session. Note that a successful switch will change the scheme name on the uppermost bar |
-| 2(c). |   Change Password   | Allows a user to change password for security reasons.                                                                                                                          |
-| 2(d). |   Products Setup    | Clicking on this link will open the products page to view available products and create new.                                                                        |
-| 2(e). |   Logout            | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
+| **No.**  | **Element**          | **Description**                                                                                                 |
+|-----------|----------------------------|-----------------------------------------------------------------------|
+| 1.        |   Help link           | A link to the help documentation for user reference. Click to open the page.                                                                                                     |
+| 2.        |   Account config      | A section with links for configuring user account details.                                                                                                                       |
+| 2(a).     |   User Profile        | This is where the logged in user's profile name is displayed.                                                                                                                      |
+| 2(b).     |   Switch Scheme       | A link to the schemes page where a user able to switch from the currently running scheme to another without terminating a session.|
+| 2(c).     |   Change Password     | Allows a user to change password for security reasons.                                                                                                                          |
+| 2(d).     |   Products Setup      | Clicking on this link will open the products page to view available products and create new.                                                                        |
+| 2(e).     |   Logout              | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
  
  
  ## Product Setup
@@ -28,7 +26,7 @@ Clicking the **Product Setup** link labelled 2(d), will open a window displaying
 Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
 
-<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../media/adfd15.png">   
+<img  alt="fund products Image" width="9%" height="auto"  class="center"  src="../media/adfd15.png">   
 
 
 **Action**

@@ -16,6 +16,7 @@ After clicking the Reports link, as shown in the previous screenshot, the user i
 
 <img  alt="Reports Module" width="80%" height="auto"  class="center"  src="../media9/login.png"> 
 
+
 **Action**
 
 - Type Username and Password respectively in text boxes **labelled 1**.
