@@ -1,37 +1,11 @@
-## New Scheme
-
-To create a new scheme, click the **New Scheme** link to open a **Scheme Details** dialogue box where a set of configurations such as Scheme Type, Date of Commencement, Take on Date and Financial Years are done as shown below:
- 
-<img  alt="new scheme dialog box" width="80%" height="auto"  class="center"  src="../media2/schemeM24.jpg"> 
-
-
-**Tip**
-
-- The **Take On Date** is configured to determine the Financial Periods while the **Date of Commencement** denotes the date when the Scheme was started.
-
-
-## Basic Scheme Details
-
-To capture the basic details of a newly created scheme, make sure the system is running the new scheme. The next step is to provide the scheme’s details.
-
-To access the details dialog box, from the left side panel of the Setup Links window, click the **Basic Schemes Details** link. This will launch a dialog box where all the details can be viewed and edited as shown below:
-
-<img  alt="basic scheme deatils form" width="80%" height="auto"  class="center"  src="../media2/schemeM74.png"> 
-
-
-**Tip**
-
-- If you modify any item, remember to click the **Save** button to reflect changes.
-
-
-## Configurations
+### Configurations
 
 These are some of the key configurations that need to be set for the scheme to execute effectively. Click the drop-down submenu enclosed links to open configuration dialog boxes as shown below:
 
 <img  alt="Scheme configurations" width="98%" height="auto"  class="center"  src="../media2/configs1.jpg">  
 
 
-### Scheme Configurations
+## Scheme Configurations
 
 Click the **Scheme Configurations** link to open the scheme configurations dialog box and set the required parameters for different sets of configurations such as member configurations as shown below:
 
@@ -49,14 +23,14 @@ Click the **Scheme Configurations** link to open the scheme configurations dialo
 -   Click **label 4** tab to load the **Scheme Dates and Insurance Covers Configurations** window for set the appropriate parameters.
   
 
-### Global Configurations
+## Global Configurations
 
 Click the **Global Configurations** link to open a configurations dialog box and set the required parameters as shown below:
 
 <img  alt="Scheme configurations" width="92%" height="auto"  class="center"  src="../media2/configs5.jpg">  
 
 
-### Benefits Configurations
+## Benefits Configurations
 
 Click the **Benefits** **Configurations** link to open the scheme dates and insurance covers configurations dialog box and set the required parameters as shown below:
 
@@ -76,7 +50,7 @@ Click the **Benefits** **Configurations** link to open the scheme dates and insu
 -   Click **label 5** tab to load a window for setting Claims Computation Configurations parameters.
   
 
-### Contribution Configuration Matrix
+## Contribution Configurations
 
 This matrix addresses issues such as how to treat additional voluntary contributions by a member's employer, severance, and contribution underpayments.
 
@@ -100,8 +74,7 @@ Click the **Social Security Configurations Matrix** tab to configure the social 
 <img  alt="NSSF configurations" width="92%" height="auto"  class="center"  src="../media2/configs10.jpg">  
 
 
-
-### Maximum Registered Contribution 
+## Max Registered Contribution
 
 Click the **Max Registered Contribution** link to open the Maximum Registered Contribution window, then click the **New Max Registered Contribution** button to create a configuration as shown below:
 
@@ -120,11 +93,12 @@ Click the **New Max Registered Contribution** button to load a dialog box throug
 <img  alt="New Max reg configurations" width="70%" height="auto"  class="center"  src="../media2/configs12.png">  
 
 
-### NSSF Limits Configs
+## NSSF Limits Configurations
 
 Click the **NSSF Limits Config** link to open the NSSF Limits Confi window to view a grid table with limits configurations as shown below:
 
 <img  alt="NSSF limits configs" width="96%" height="auto"  class="center"  src="../media2/configs13.jpg">  
+
 
 **Action**
 

@@ -1,11 +1,11 @@
-## Sponsor Creation Process
+### Sponsor Creation Process
 
 The word Sponsor is used in the system to denote an employer (in a scheme where employers make contributions on behalf of their employees (members)). The following section demonstrates how sponsors are created and managed in the system. Locate the Sponsors drop-down submenu as shown below:
 
 <img  alt="Sponsor" width="100%" height="auto"  class="center"  src="../media2/schemeM65.png"> 
 
 
-## Importing Sponsors from a Template
+## Import Sponsors
 
 Click the **Import From Template** link to upload sponsors in batch using a template as shown in the screenshot below:
 
@@ -71,60 +71,3 @@ Supervisor’ set of configurations aid in capturing supervisors’ details for 
 Click the **Supervisors** link to open the Supervisors window where all the supervisors in a scheme are listed. From the **Operations** drop-down menu, click to **Add**, **Remove**, and **View** the details of a supervisor as shown in the screenshot below:
 
 <img  alt="Supervisors" width="90%" height="auto"  class="center"  src="../media2/schemeM67.png"> 
-
-
-## Cost Centers
-
-Cost Centers are created to aid in the management of sponsors in a scheme with more than one sponsors – these types of schemes are known as umbrella schemes. 
-
-To create a new cost center, click the **Cost Center** link to open the Cost Center window and then click the **New Cost Center** to create a new center as shown below:
-
-<img  alt="Cost Center" width="90%" height="auto"  class="center"  src="../media2/schemeM31.png"> 
-
-
-## Principal Officers
-
-Principal Officer’s set of configurations aid in capturing schemes’ principal officers’ details for effective management of various activities.
-
-Click the **Principal Officer** link to open the Principal Officers window which displays a list of officers’ details in a grid table. Click the **New Principal Officer** button to open a dialog box and capture a new officer’s details in the system as shown in the screenshot below:
-
-
-<img  alt="principal officers" width="95%" height="auto"  class="center"  src="../media2/schemeM7.png"> 
-
-
-## Member Classes
-
-Member Classes are created to aid in the managementr of members in a scheme where a sponsor has different categories of members either because they span geographic locations, branches, job grades (with different contribution rates) or any other form of categorization. 
-
-Click the **Member Classes** link to open the Member Classes window where a list of sponsors and their member classes are listed in a grid table. To create a new member class, click the **New Member Class** button to open a Member Class Details dialog box for capturing a new member class details as shown in the screenshot below:
-
-<img  alt="Member Classes" width="95%" height="auto"  class="center"  src="../media2/schemeM62.png"> 
-
-
-## Vesting Scales
-
-In the event an employee resigns, the vesting scales configurations will aid in determining the employer and employee entitlement and deferment of some amounts based on the regime, legislation towards calculating a member’s benefits among other factors.
-
-Click the **Vesting Scales** link to open the Vesting Scales Window where different vesting configurations are listed as shown below:
-
-<img  alt="Vesting Scales" width="95%" height="auto"  class="center"  src="../media2/schemeM41.png"> 
-
-
-**Action**
-
--   Click **label 1** button to create a New Vesting Scale.
-
--   Click **label 2** button to import vesting configurations from a template.
-
--   Click **label 3** button to view details of a selected configuration from the records.
-
--   Click **label 4** button to remove a selected vesting configuration.
-
--   Click **label 5** button to search config records based on Sponsor.
-
--   Click **label 6** button to Certify, Approve and Authorize a selected config record.
-  
-
-To create a new vesting scale, click the **New Vesting Scale** button to load a dialog box through which a new configuration can be set. Fill the dialog box with appropriate details as shown below:
-
-<img  alt="creating new Vesting Scales" width="70%" height="auto"  class="center"  src="../media2/schemeM64.png"> 

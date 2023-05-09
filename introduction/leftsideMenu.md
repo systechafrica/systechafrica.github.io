@@ -1,4 +1,4 @@
-### Left Side Pane
+### Left Side Menu
 
 Click the hamburger icon on the upper-left corner of the landing page to expand the pane, allowing access to more controls. The expanded pane displays a help tab on the uppermost section for accessing the help documentation. On the lower section of the pane are more controls elements for further configurations. See screenshots below:
 
@@ -17,11 +17,39 @@ Click the hamburger icon on the upper-left corner of the landing page to expand 
 | 2(e).     |   Logout              | Click to terminate all the running processes and close the current profile account ready to log in as a new user.                                                                |
  
  
+
+ ## Switch Scheme
+
+After logging into the system, you can change from the current scheme to another. To achieve this, click the Switch Scheme button as shown below:
+
+
+<img  alt="scheme switch" width="98%" height="auto"  class="center"  src="../media2/schemeM16.png">  
+
+
+Clicking this button will open a new window displaying all the available schemes the user can switch to as shown below:
+
+<img  alt="available schemes" width="90%" height="auto"  class="center"  src="../media2/schemeM68.png">  
+
+
+**Action**
+
+-   Click the search box **labelled 1** and type to search a scheme by name.
+
+-   Click the drop-down menu **labelled 2** to select an option to search for scheme records based on plan type.
+
+-   Click the filter button **labelled 3** to filter records based on search name or plan type.
+
+-   Click the drop-down menu **labelled 4** to select and set a scheme from the list as the working Scheme.
+ 
+ 
+ Clicking the **Set as Working Scheme** button as shown in the screenshot above will load the selected scheme allowing a user to work on the new scheme.
+
+ 
  ## Product Setup
 
 Clicking the **Product Setup** link labelled 2(d), will open a window displaying a list of all fund products in the system under the product tab and a list of product categories as shown in the next screenshot.
 
-## Products
+### Products
 
 Clicking the **Product** tab will open a window displaying a list of all fund products in the system. From this window, the details of each product can be viewed, new products added, and the product sequence seen as shown below:
 
@@ -38,7 +66,7 @@ Clicking the **Product** tab will open a window displaying a list of all fund pr
 - Click **label 3** button to see the product sequence.
 
 
-## Product Categories
+###  Product Categories
 
 Clicking the **Product Category** tab will open a window displaying a list of all fund product categories. From this window, the details of each product category can be viewed, new product category added and removed from the
 system as shown below:
@@ -52,3 +80,5 @@ system as shown below:
   -   Click **label 2** button to view the details of a product category.
 
   -   Click **label 3** button to remove a selected product category.
+
+
