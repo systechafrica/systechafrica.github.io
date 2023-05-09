@@ -1,11 +1,11 @@
-### Getting Started
+### Accessing the system
 
 To access FundMaster on your device, launch your preferred internet browser and input the web Internet Protocol address provided by your system administrator as shown below:
 
 <img  alt="internet access protocal image" width="100%" height="auto"  class="center"  src="../media/adfd7.png"> 
 
 
-### Login Process
+### Login 
 
 After inputting the access IP address, a user is directed to the login page where one is supposed to enter login credentials for authentication.
 

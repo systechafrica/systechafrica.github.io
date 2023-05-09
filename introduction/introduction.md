@@ -16,6 +16,7 @@ FundMaster Xe is the latest version of FundMaster - the most advanced Pension Ad
 
 The system provides a flexible, extensible architecture and tools designed to accommodate the one-size-does-not-fit-all landscape of today’s retirement programs. FundMaster Xe is a proven solution that has gone through a process of complete re-engineering based on customer feedback to keep current with the industry needs.
 
+
 ### System Modules
 
 Conceptually, FundMaster Xe adopts a “Top-down design;” a software design technique that emphasizes separating the functionality of a program into independent interchangeable modules such that each contains everything necessary to execute only one aspect of the desired functionality. Each module enforces logical boundaries and is incorporated into the FundMaster Xe system through interfaces detectable by other modules. It is on this platform that the business process flow is implemented.
