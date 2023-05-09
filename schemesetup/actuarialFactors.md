@@ -1,4 +1,4 @@
-## Actuarial settings
+### Actuarial settings
 
 Actuarial set of configurations aids in setting up actuarial factors that are used in DB and DC lump sum calculations. Click the links shown in the screenshot below to set fixed factors and annuity rates.
 
@@ -7,7 +7,7 @@ Click on the links under the drop-down submenu as shown in the screenshot below 
 <img  alt="actuarial links" width="100%" height="auto"  class="center"  src="../media2/schemeM17.png">  
 
 
-### Fixed Factors
+## Fixed Factors
 
 Fixed factors are provided by the scheme actuaries and aid in the calculation of pension for DB and DC member benefits based on the retirement age and the gender type.
 
@@ -27,7 +27,7 @@ Click the **Fixed Factors** link to open the fixed factors window to view a list
 - Click **label 4** button to remove a selected factor from the list.
 
 
-### Annuity Rates
+## Annuity Rates
 
 Annuity rates are provided by the third-party insurance companies with the help of internal or external actuaries to aid in the calculation of pension purchase prices or annuities purchase.
 

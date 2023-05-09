@@ -1,4 +1,4 @@
-### Switching Schemes
+### Switching Scheme
 
 After successfully approving a newly created scheme, one can go ahead and make it the **Working Scheme**. This is done by switching from the current scheme to the new scheme. This will allow a scheme administrator to continue setting up other configurations for the new scheme.
 
