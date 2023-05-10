@@ -18,17 +18,39 @@ Click the hamburger icon on the upper-left corner of the landing page to expand 
  
  
 
- ## Switch Scheme
+ ## Help Documetnation
+
+The **Help** link located on the upper section of the left side pane give access to the system help documentation as shown below:
+
+ <img  alt="Help documentation link" width="98%" height="auto"  class="center"  src="../media2/help-link.jpg">  
+
+Clicking the Help link will load a separate window through which the help documentation is displayed. Use the documentation to learn more about the system. See the help documentation window below:
+
+ <img  alt="Help documentation window" width="92%" height="auto"  class="center"  src="../media2/help-window.jpg">  
+
+  
+ ## Password Change
+
+ Click the **Change Password** link to open a dialog box through which the current user account password can be changed. The change password link is highlighted in the screenshot below:
+
+<img  alt="password link" width="98%" height="auto"  class="center"  src="../media2/password.jpg">  
+
+
+Clicking the Change Password link, as shown in the previously, will load a dialog box. See an example of how to change the password in the screenshot below:
+
+<img  alt="password dialog box" width="44%" height="auto"  class="center"  src="../media2/password-box.jpg">  
+
+
+ ## Switch Schemes
 
 After logging into the system, you can change from the current scheme to another. To achieve this, click the Switch Scheme button as shown below:
-
 
 <img  alt="scheme switch" width="98%" height="auto"  class="center"  src="../media2/schemeM16.png">  
 
 
-Clicking this button will open a new window displaying all the available schemes the user can switch to as shown below:
+Clicking the **Switch Scheme** link will open a new window displaying all the available schemes the user can switch to as shown below:
 
-<img  alt="available schemes" width="90%" height="auto"  class="center"  src="../media2/schemeM68.png">  
+<img  alt="available schemes" width="92%" height="auto"  class="center"  src="../media2/schemeM68.png">  
 
 
 **Action**
@@ -71,7 +93,7 @@ Clicking the **Product** tab will open a window displaying a list of all fund pr
 Clicking the **Product Category** tab will open a window displaying a list of all fund product categories. From this window, the details of each product category can be viewed, new product category added and removed from the
 system as shown below:
 
-<img  alt="fund products Image" width="90%" height="auto"  class="center"  src="../media/adfd18.png"> 
+<img  alt="fund products Image" width="92%" height="auto"  class="center"  src="../media/adfd18.png"> 
 
 **Action**
 
